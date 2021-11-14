@@ -1,0 +1,16 @@
+---
+title: "Arbeitsanalyse in der Softwareentwicklung"
+date: 2010-01-17
+author: Jan Seifert
+image : "images/blog/blog-post-4.jpg"
+bg_image: "images/feature-bg.jpg"
+categories: ["User Experience"]
+tags: ["", ""]
+description: ""
+draft: false
+type: "writing"
+---
+
+*Available in German only*
+
+Diese Arbeit beschreibt Möglichkeiten, die Arbeitssituationen an Computerarbeitsplätzen zu analysieren. Dabei geht sie über die reine Usability hinaus. Sie betrachtet also weniger, inwiefern eine Software auf die Aufgabe zugeschnitten ist, sondern vielmehr die Qualität der Aufgaben an sich. Sie untertstützt bzw. erweitert allerdings auch die sogenannte Nutzungskontextanalyse aus der Usability.
