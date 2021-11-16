@@ -62,7 +62,7 @@
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}
         {{ if .enable }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+        <a href="{{ .link | relLangURL }}" class="btn btn-main">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
