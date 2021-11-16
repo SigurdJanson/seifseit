@@ -7,30 +7,35 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <p>B</p>
+        <h2>Conferences</h2> <!-- TODO I18N in the title and all strings below   {{i18n "ed."}}-->
         <ul>
           {{ range $.Site.Data.pubs.papers.pubs }}
-          <li style="margin-top: 12px">
-            <div>{{ .author }} ({{ .year }}).</div>
-            <div style="font-size: 120%;;">{{ .title }}</div>
+          <li style="margin-top: 12px;">
+            <div style="color:#84849F">{{ .author }} ({{ .year }}).</div>
+            <div style="font-size: 124%;">{{ .title }}</div>
             <div>
             {{ if eq .bibtextype "Conference" }}
-              {{ with .editor }}In {{ . }} (Hrsg.){{end}} {{ .booktitle }}
+              {{ with .editor }}In {{ . }} (Hrsg.),{{end}} {{ .booktitle }}
             {{ end }}
 
             {{ if eq .bibtextype "Article" }}
-              <span style="text-decoration: wavy;">{{ .journal }}</span>, {{.number}} ({{ .volume }}), {{ .pages }}
+              <span>{{ .journal }}</span>, {{.number}} ({{ .volume }}), {{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}
             {{ end }}
 
             {{ if eq .bibtextype "Book" }}
-            {{with .address }} {{ . }}:{{end}} {{ .publisher }}
+              {{with .address }} {{ . }}:{{end}} {{ .publisher }}
             {{ end }}
 
             {{ if eq .bibtextype "Misc" }}
               {{.note}}
             {{ end }}
-            </div>
 
+            {{ if eq .bibtextype "Incollection"}}
+              {{ with .editor }}In {{ . }} (Ed.),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
+            {{ end }}
+            </div>
+            {{with .doi}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">doi</a>{{end}}
+            {{with .url}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">Download</a>{{end}}
           </li>
           {{ end }}
         </ul>
