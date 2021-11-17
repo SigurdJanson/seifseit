@@ -14,8 +14,8 @@
             <div style="color:#84849F">{{ .author }} ({{ .year }}).</div>
             <div style="font-size: 124%;">{{ .title }}</div>
             <div>
-            {{ if eq .bibtextype "Conference" }}
-              {{ with .editor }}In {{ . }} (Hrsg.),{{end}} {{ .booktitle }}
+            {{ if or (eq .bibtextype "Conference") ((eq .bibtextype "InProceedings")) }}
+              {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }}
             {{ end }}
 
             {{ if eq .bibtextype "Article" }}
@@ -31,8 +31,9 @@
             {{ end }}
 
             {{ if eq .bibtextype "Incollection"}}
-              {{ with .editor }}In {{ . }} (Ed.),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
+              {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
             {{ end }}
+            <!-- TODO: MastersThesis; TODO Informatik Aktuell paper wird richtig dargestellt? -->
             </div>
             {{with .doi}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">doi</a>{{end}}
             {{with .url}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">Download</a>{{end}}
