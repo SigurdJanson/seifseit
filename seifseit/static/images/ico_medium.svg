@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="ico-medium.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="64px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.6547418"
+     inkscape:cx="60.457856"
+     inkscape:cy="127.13101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1304"
+       transform="matrix(0.20348275,0,0,0.20446199,63.730263,-92.219407)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.995262"
+         d="m -89.449884,689.49507 c -16.214646,-4.40362 -29.725046,-26.01473 -35.222156,-56.34096 -2.37545,-13.1048 -2.36867,-37.98716 0.0139,-51.19966 4.91652,-27.26381 16.47747,-47.61698 30.931318,-54.4549 11.452982,-5.41824 21.078028,-2.96992 31.739658,8.07361 21.880507,22.66427 29.198744,75.60391 15.952838,115.40181 -4.455975,13.38817 -8.581364,21.02042 -15.265491,28.24221 -8.714241,9.41523 -18.35959,12.93684 -28.150117,10.27789 z m 72.016818,-9.63054 c -10.344898,-11.10395 -15.207587,-71.64645 -9.107947,-113.39781 3.162523,-21.64705 7.372579,-32.83876 12.353196,-32.83876 8.8442032,0 15.5134211,31.87579 15.5134211,74.14698 0,48.04503 -8.9862167,82.57907 -18.7586701,72.08959 z"
+         id="path854"
+         sodipodi:nodetypes="ssssssssssssss" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:10;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         id="path995"
+         cx="-225.16193"
+         cy="607.54279"
+         r="83.0355" />
+    </g>
+  </g>
+</svg>

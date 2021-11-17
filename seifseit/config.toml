@@ -131,11 +131,11 @@ icon = "icon-seifseit-xing" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.xing.com/profile/Jan_Seifert7"
 
 [[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-seifseit-medium" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://medium.com/@jan.seifert"
 
 [[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-seifseit-researchgate" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.researchgate.net/profile/Jan-Seifert-2"
 
 
