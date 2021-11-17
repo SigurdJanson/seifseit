@@ -3,7 +3,7 @@
     "year": \year,
     "title": "\format[HTMLChars, RemoveBrackets]{\title}",
 \begin{journal}
-    "journal": "\journal",
+    "journal": "\format[HTMLChars, RemoveBrackets]{\journal}",
     "number": "\number",
     "volume": "\volume",
 \end{journal}
@@ -19,5 +19,6 @@
     "howpublished": "\howpublished",
     "note": "\note",
     "doi": "\doi",
+    "url": "\url",
     "bibtextype": "\bibtextype"
 },
