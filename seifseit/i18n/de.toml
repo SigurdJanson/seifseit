@@ -4,21 +4,21 @@ other = "Download"
 
 # Pubs
 [h_Publications]
-other = "Publications"
+other = "Veröffentlichungen"
 
 [pages-abbr]
-other = "p."
+other = "S."
 
 [editors-abbr]
-one = "Ed."
-other = "Eds."
+one = "Hrsg."
+other = "Hrsg."
 
 # publication types
 [paper]
-other = "Paper"
+other = "Artikel"
 
 [talk]
-other = "Talk"
+other = "Vortrag"
 
 [poster]
 other = "Poster"

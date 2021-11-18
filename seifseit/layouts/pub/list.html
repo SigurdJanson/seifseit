@@ -7,12 +7,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <h2>Conferences</h2> <!-- TODO I18N in the title and all strings below   {{i18n "ed."}}-->
+        <h2>{{i18n "h_Publications"}}</h2> <!-- TODO Fix and translate (if possible) the references  -->
         <ul>
           {{ range $.Site.Data.pubs.papers.pubs }}
-
-          <li class="pub-item pub-{{lower .howpublished}}">
-            <!-- {{ if eq .howpublished "talk"}}<i class="ion-ios-mic-outline"> </i>{{end}} -->
+          {{ $pubtype := lower .howpublished}}
+          <li class="pub-item pub-{{$pubtype}} infotip">
+            <span class="infotiptext">{{i18n $pubtype}}</span>
             <div class="pub-item-author">{{ .author }} ({{ .year }}).</div>
             <div class="pub-item-title" >{{ .title }}</div>
             <div>
@@ -21,11 +21,11 @@
             {{ end }}
 
             {{ if eq .bibtextype "Article" }}
-              <span>{{ .journal }}</span>, {{.number}} {{with .volumne}}({{.}}){{end}}, {{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}
+              {{.journal}}{{with.number}}, {{.}}{{end}} {{with .volume}}({{.}}){{end}}, {{with .pages}}{{i18n "pages-abbr"}}{{.}}{{end}}
             {{ end }}
 
             {{ if eq .bibtextype "Book" }}
-              {{with .address }} {{ . }}:{{end}} {{ .publisher }}
+              {{with .address }} {{ . }}:{{end}} {{.publisher}}
             {{ end }}
 
             {{ if eq .bibtextype "Misc" }}
@@ -42,14 +42,14 @@
             <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
             </div>
             {{with .doi}}<a class="btn btn-light animated fadeInUp" href="{{.}}">doi</a>{{end}}
-            {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{.}}">Download</a>{{end}}
+            {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{.}}">{{i18n "btnDownload"}}</a>{{end}}
           </li>
           {{ end }}
         </ul>
 
       </div>
       <div class="col-md-4">
-         {{ partial "pubs-sidebar.html" . }}
+         <!-- {{ partial "pubs-sidebar.html" . }} -->
       </div>
     </div>
   </div>
