@@ -41,16 +41,18 @@
     "year": 2007,
     "title": "The randomization of trial sequences - for a broad field of experiments",
 
- "booktitle": "49. Tagung experimentell arbeitender Psychologen (TeaP)", 
+ "booktitle": "Experimentelle Psychologie: Beiträge zur 49. Tagung experimentell arbeitender Psychologen (TeaP)", 
+ "address": "Lengerich", 
+
+    "editor": "Wender, K. F., Mecklenbräuker, S., Rey, G. D. & Wehr, T.",
 
 
 
 
 
+ "publisher": "Pabst Science Publishers", 
 
-
-
-
+ "howpublished": "poster", 
 
 
 
@@ -66,7 +68,7 @@
 
 
 
-
+ "month": "September", 
 
 
  "howpublished": "Talk", 
@@ -81,14 +83,14 @@
 
     "journal": "HMD Praxis der Wirtschaftsinformatik",
     "number": "",
-    "volume": "",
+    "volume": "58",
 
 
 
 
 
 
-
+ "pages": "1444–1455", 
  "month": "sep", 
  "publisher": "Springer Fachmedien Wiesbaden {GmbH}", 
 
@@ -149,7 +151,7 @@
 
 
 
-
+ "howpublished": "poster", 
 
 
 
@@ -168,7 +170,7 @@
 
 
 
-
+ "howpublished": "poster", 
 
 
 
@@ -241,7 +243,7 @@
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2004,
-    "title": "On the Selective Relation of Frontal Cortical Asymmetry and Anger-Out Versus Anger-Control.",
+    "title": "On the Selective Relation of Frontal Cortical Asymmetry and Anger-Out versus Anger-Control",
 
     "journal": "Journal of Personality and Social Psychology",
     "number": "6",
@@ -261,6 +263,84 @@
   "doi": "10.1037/0022-3514.87.6.926", 
 
     "bibtextype": "Article"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Decreased cortical activity in impulsivity",
+
+ "booktitle": "Klinische Neurophysiologie", 
+
+
+
+
+ "pages": "154", 
+
+
+
+
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Interaktionen zwischen kortikaler Aktivität und Persönlichkeit in einem Go-Nogo-Paradigma unter Verstärkung",
+
+ "booktitle": "Programm und Abstracts zum 44. Kongreß der Deutschen Gesellschaft für Psychologie", 
+
+
+
+
+
+
+
+
+
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Kortikale Aktivität bei Verhaltensaktivierung und Verhaltensinhibition im Rahmen eines Go-Nogo-Paradigmas mit Verstärkermanipulation",
+
+ "booktitle": "Experimentelle Psychologie: Beiträge zur 46. Tagung experimentell arbeitender Psychologen", 
+ "address": "Lengerich", 
+
+    "editor": "Kerzel, D., Franz, V. & Gegenfurtner, K.",
+
+
+
+
+
+ "publisher": "Pabst Science Publishers", 
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "The relation of bilateral frontal cortical activity and behavioral activation on the state and the trait level",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "235-236", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Gollwitzer, M., Naumann, E. & Bartussek, D.",
     "year": 2005,
@@ -331,6 +411,44 @@
 
     "bibtextype": "Article"
 },{
+    "author": "Holle, H., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
+    "year": 2003,
+    "title": "Temporal stability of heart period variability in emotion",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "155", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Kronbergs, A., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
+    "year": 2003,
+    "title": "Anterior cortical asymmetry and dopamine: Is there a connection?",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "163", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
     "author": "Menning, H., Renz, A., Seifert, J. & Maercker, A.",
     "year": 2008,
     "title": "Reduced Mismatch Negativity in Posttraumatic Stress Disorder: A Compensatory Mechanism for Chronic Hyperarousal?",
@@ -354,6 +472,25 @@
 
     "bibtextype": "Article"
 },{
+    "author": "Naumann, E., Hagemann, D., Hewig, J., Seifert, J. & Bartussek, D.",
+    "year": 2002,
+    "title": "The influence of emotional distractors on selection and negative priming",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "245", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
     "author": "Parlitz, C., Dautenhahn, K., Klein, P., Seifert, J. & Hägele, M.",
     "year": 2008,
     "title": "Care-o-Bot 3 - Rationale Human-Robot Interaction Design",
@@ -370,7 +507,7 @@
  "howpublished": "paper", 
 
 
-
+  "url": "https://www.researchgate.net/publication/200036383_Care-O-bot_3_-_Rationale_for_human-robot_interaction_design", 
     "bibtextype": "InProceedings"
 },{
     "author": "Reimer, L., Seifert, J. & Schick, P.",
@@ -673,8 +810,8 @@
  "howpublished": "paper", 
 
 
-
-    "bibtextype": "Misc"
+  "url": "https://www.informatik-aktuell.de/management-und-recht/digitalisierung/human-experience-als-schluessel-fuer-die-digitale-transformation.html", 
+    "bibtextype": "Article"
 },{
     "author": "Seifert, J.",
     "year": 2019,
