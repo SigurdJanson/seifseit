@@ -7,18 +7,20 @@
     "number": "\number",
     "volume": "\volume",
 \end{journal}
-    "booktitle": "\booktitle",
-    "address": "\address",
+\begin {booktitle} "booktitle": "\booktitle", \end{booktitle}
+\begin {address} "address": "\address", \end{address}
 \begin{editor}
     "editor": "\format[HTMLChars, Authors(LastFirst,Initials,Comma,Amp)]{\editor}",
 \end{editor}
-    "pages": "\pages",
-    "month": "\month",
-    "publisher": "\publisher",
-    "abstract": "\abstract",
-    "howpublished": "\howpublished",
-    "note": "\note",
-    "doi": "\doi",
-    "url": "\url",
+\begin {school} "school": "\school", \end{school}
+\begin {type}  "type": "\type", \end{type}
+\begin {pages} "pages": "\format[FormatPagesForHTML]{\pages}", \end{pages}
+\begin {month} "month": "\month", \end{month}
+\begin {publisher} "publisher": "\publisher", \end{publisher}
+\begin {abstract}  "abstract": "\abstract", \end{abstract}
+\begin {howpublished} "howpublished": "\howpublished", \end{howpublished}
+\begin {note} "note": "\note", \end{note}
+\begin {doi}  "doi": "\doi", \end{doi}
+\begin {url}  "url": "\url", \end{url}
     "bibtextype": "\bibtextype"
 },

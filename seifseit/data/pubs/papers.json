@@ -3,52 +3,77 @@
     "year": 2005,
     "title": "Correlation of P3 and the Amygdala in an Emotional Paradigm",
 
-    "booktitle": "Journal of Psychophysiology",
-    "address": "",
+ "booktitle": "Journal of Psychophysiology", 
 
-    "pages": "109--110",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "pages": "109-110", 
+
+
+
+
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
     "year": 2007,
     "title": "The randomization of trial sequences - Thoughts, problems, and solutions",
 
-    "booktitle": "Fachtagung Psychologie und Gehirn, Dortmund 7.-9. Juni 2007",
-    "address": "Dortmund",
+ "booktitle": "Fachtagung Psychologie und Gehirn, Dortmund 7.-9. Juni 2007", 
+ "address": "Dortmund", 
 
-    "pages": "",
-    "month": "June",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "month": "June", 
+
+
+
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
     "year": 2007,
     "title": "The randomization of trial sequences - for a broad field of experiments",
 
-    "booktitle": "49. Tagung experimentell arbeitender Psychologen (TeaP)",
-    "address": "",
+ "booktitle": "49. Tagung experimentell arbeitender Psychologen (TeaP)", 
 
-    "pages": "",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+
+
+
+
+
+
     "bibtextype": "Conference"
+},{
+    "author": "Ganzhorn, M., Seifert, D. J. & Eichert, C.",
+    "year": 2018,
+    "title": "Einführung eines unternehmensweiten Persona Framework",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Presentation at Mensch und Computer Conference", 
+
+
+    "bibtextype": "Misc"
 },{
     "author": "Gast, O., Seifert, J. & Werth, D.",
     "year": 2021,
@@ -58,68 +83,114 @@
     "number": "",
     "volume": "",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "",
-    "month": "sep",
-    "publisher": "Springer Fachmedien Wiesbaden {GmbH}",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1365/s40702-021-00788-y",
-    "url": "",
+
+
+
+
+
+ "month": "sep", 
+ "publisher": "Springer Fachmedien Wiesbaden {GmbH}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1365/s40702-021-00788-y", 
+
     "bibtextype": "Article"
+},{
+    "author": "Gmür, M. & Seifert, J.",
+    "year": 2019,
+    "title": "UX und Software-Entwicklung: Agilität gemeinsam bewältigen",
+
+
+
+
+
+
+
+ "month": "September", 
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der Mensch und Computer, Hamburg", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Gmür, M. & Seifert, J.",
+    "year": 2020,
+    "title": "Agilität gemeinsam bewältigen",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der DWX Home", 
+
+
+    "bibtextype": "Misc"
 },{
     "author": "Hagemann, D., Sollers, J. J., Naumann, E., Hewig, J., Seifert, J., Bartussek, D. & Thayer, J.",
     "year": 2002,
     "title": "Heart rate variability during the presentation of emotional films",
 
-    "booktitle": "Psychophysiology (Supplement)",
-    "address": "",
+ "booktitle": "Psychophysiology (Supplement)", 
 
-    "pages": "39",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "pages": "39", 
+
+
+
+
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2002,
     "title": "Anterior EEG trait asymmetry does not predict affective style",
 
-    "booktitle": "Journal of Psychophysiology",
-    "address": "",
+ "booktitle": "Journal of Psychophysiology", 
 
-    "pages": "239",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "pages": "239", 
+
+
+
+
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2002,
     "title": "No association between anterior EEG trait asymmetry and affective style",
 
-    "booktitle": "European Journal of Personality",
-    "address": "",
+ "booktitle": "European Journal of Personality", 
 
-    "pages": "",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+
+
+
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
@@ -130,17 +201,19 @@
     "number": "3",
     "volume": "26",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "139--154",
-    "month": "jul",
-    "publisher": "Hogrefe Publishing Group",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1027/1614-0001.26.3.139",
-    "url": "",
+
+
+
+
+ "pages": "139-154", 
+ "month": "jul", 
+ "publisher": "Hogrefe Publishing Group", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1027/1614-0001.26.3.139", 
+
     "bibtextype": "Article"
 },{
     "author": "Hagemann, D., Hewig, J., Seifert, J., Naumann, E. & Bartussek, D.",
@@ -151,17 +224,19 @@
     "number": "6",
     "volume": "42",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "740--752",
-    "month": "nov",
-    "publisher": "Wiley",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1111/j.1469-8986.2005.00367.x",
-    "url": "",
+
+
+
+
+ "pages": "740-752", 
+ "month": "nov", 
+ "publisher": "Wiley", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1111/j.1469-8986.2005.00367.x", 
+
     "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
@@ -172,17 +247,19 @@
     "number": "6",
     "volume": "87",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "926--939",
-    "month": "",
-    "publisher": "American Psychological Association ({APA})",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1037/0022-3514.87.6.926",
-    "url": "",
+
+
+
+
+ "pages": "926-939", 
+
+ "publisher": "American Psychological Association ({APA})", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1037/0022-3514.87.6.926", 
+
     "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Gollwitzer, M., Naumann, E. & Bartussek, D.",
@@ -193,17 +270,19 @@
     "number": "7",
     "volume": "19",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "1095--1109",
-    "month": "nov",
-    "publisher": "Informa {UK} Limited",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "http://dx.doi.org/10.1080/02699930541000084",
-    "url": "",
+
+
+
+
+ "pages": "1095-1109", 
+ "month": "nov", 
+ "publisher": "Informa {UK} Limited", 
+
+ "howpublished": "paper", 
+
+  "doi": "http://dx.doi.org/10.1080/02699930541000084", 
+
     "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
@@ -214,17 +293,19 @@
     "number": "2",
     "volume": "26",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "86--99",
-    "month": "jan",
-    "publisher": "Hogrefe Publishing Group",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1027/1614-0001.26.2.86",
-    "url": "",
+
+
+
+
+ "pages": "86-99", 
+ "month": "jan", 
+ "publisher": "Hogrefe Publishing Group", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1027/1614-0001.26.2.86", 
+
     "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
@@ -235,17 +316,19 @@
     "number": "1",
     "volume": "71",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "42--53",
-    "month": "jan",
-    "publisher": "Elsevier {BV}",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1016/j.biopsycho.2005.01.006",
-    "url": "",
+
+
+
+
+ "pages": "42-53", 
+ "month": "jan", 
+ "publisher": "Elsevier {BV}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1016/j.biopsycho.2005.01.006", 
+
     "bibtextype": "Article"
 },{
     "author": "Menning, H., Renz, A., Seifert, J. & Maercker, A.",
@@ -256,102 +339,114 @@
     "number": "1",
     "volume": "68",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "27-34.",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "https://doi.org/10.1016/j.ijpsycho.2007.12.003",
-    "url": "",
+
+
+
+
+ "pages": "27-34.", 
+
+
+
+ "howpublished": "paper", 
+
+  "doi": "https://doi.org/10.1016/j.ijpsycho.2007.12.003", 
+
     "bibtextype": "Article"
 },{
     "author": "Parlitz, C., Dautenhahn, K., Klein, P., Seifert, J. & Hägele, M.",
     "year": 2008,
     "title": "Care-o-Bot 3 - Rationale Human-Robot Interaction Design",
 
-    "booktitle": "ISR 2008, 39th International Symposium on Robotics",
-    "address": "",
+ "booktitle": "ISR 2008, 39th International Symposium on Robotics", 
 
-    "pages": "275-280",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "pages": "275-280", 
+
+
+
+ "howpublished": "paper", 
+
+
+
     "bibtextype": "InProceedings"
 },{
     "author": "Reimer, L., Seifert, J. & Schick, P.",
     "year": 2011,
     "title": "UX mit Biss",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "",
-    "month": "November",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "talk",
-    "note": "World Usability Day, Stuttgart",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+ "month": "November", 
+
+
+ "howpublished": "Talk", 
+ "note": "World Usability Day, Stuttgart", 
+
+
     "bibtextype": "Misc"
 },{
     "author": "Seifert, J.",
     "year": 2001,
     "title": "Inhibitionsprozesse selektiver Aufmerksamkeit und emotionale Reizqualitäten",
 
-    "booktitle": "",
-    "address": "Trier",
 
-    "pages": "",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+ "address": "Trier", 
+
+ "school": "Universität Trier", 
+  "type": "Diplomarbeit", 
+
+
+
+
+ "howpublished": "paper", 
+
+
+
     "bibtextype": "MastersThesis"
 },{
     "author": "Seifert, J.",
     "year": 2005,
     "title": "Vorbereitung, Ausführung und Ergebnisbewertung von Verhalten unter motivationalen Anreizen",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "",
-    "month": "",
-    "publisher": "Der Andere Verlag",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+
+ "publisher": "Der Andere Verlag", 
+
+
+
+
+
     "bibtextype": "Book"
 },{
     "author": "Seifert, J.",
     "year": 2005,
     "title": "Ereigniskorrelierte EEG-Aktivität",
 
-    "booktitle": "",
-    "address": "Lengerich",
 
-    "pages": "",
-    "month": "",
-    "publisher": "Pabst Science Publishers",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+ "address": "Lengerich", 
+
+
+
+
+
+ "publisher": "Pabst Science Publishers", 
+
+
+
+
+
     "bibtextype": "Book"
 },{
     "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
@@ -362,70 +457,78 @@
     "number": "1",
     "volume": "71",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "80--89",
-    "month": "jan",
-    "publisher": "Elsevier {BV}",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "10.1016/j.biopsycho.2005.03.001",
-    "url": "",
+
+
+
+
+ "pages": "80-89", 
+ "month": "jan", 
+ "publisher": "Elsevier {BV}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1016/j.biopsycho.2005.03.001", 
+
     "bibtextype": "Article"
 },{
     "author": "Seifert, J., Reimer, L. & Schick, P.",
     "year": 2011,
     "title": "User Experience mit Biss - Ansätze zur Bewusstseinsbildung und zum Wissenstransfer in Unternehmen bei der Einführung von User-Centred Design",
 
-    "booktitle": "Usability Professionals 2011",
-    "address": "",
+ "booktitle": "Usability Professionals 2011", 
 
-    "pages": "16-23",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "pages": "16-23", 
+
+
+
+ "howpublished": "paper", 
+
+
+
     "bibtextype": "InProceedings"
 },{
     "author": "Seifert, J.",
     "year": 2012,
-    "title": "Digitale Thelepathie: Technik mit dem Gehirn steuern",
+    "title": "Digitale Telepathie: Technik mit dem Gehirn steuern",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "",
-    "month": "November",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "Talk",
-    "note": "World Usability Day, Stuttgart",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+ "month": "November", 
+
+
+ "howpublished": "Talk", 
+ "note": "World Usability Day, Stuttgart", 
+
+
     "bibtextype": "Misc"
 },{
     "author": "Seifert, J.",
     "year": 2014,
     "title": "Neuroprothetik: Bedürfnisorientierte statt technikzentrierte Gestaltung.",
 
-    "booktitle": "Tagungsbericht: Die Mobilisierung des Körpers. Prothetik seit dem Ersten Weltkrieg, 13.03.2014 – 14.03.2014",
-    "address": "Dresden",
+ "booktitle": "Tagungsbericht: Die Mobilisierung des Körpers. Prothetik seit dem Ersten Weltkrieg, 13.03.2014 – 14.03.2014", 
+ "address": "Dresden", 
 
     "editor": "Nolte, M. & Gußmann, E.",
 
-    "pages": "",
-    "month": "13.03.2014 – 14.03.2014",
-    "publisher": "Deutsches Hygiene-Museum Dresden; Technische Universität Berlin",
-    "abstract": "Für eine Fokussierung auf nicht-technische Parameter sprach sich auch JAN SEIFERT (Ludwigsburg) aus. Statt technikzentrierter Gestaltung vertrat Seifert, selbst in der Entwicklung tätig, die Ausrichtung der Forschung auf die Bedürfnisse und Motivationen der Menschen. Mit der Darstellung aktueller Trends der Prothesenentwicklung, wie bspw. der Techniksteuerung mittels Gedanken, bereicherte er die Tagung vor allem durch die Bewusstmachung des im öffentlichen Diskurs oft nicht wahrgenommenen Hiatus zwischen visionären Ideen der Trendscouts und dem tatsächlichen Stand der Technik.",
-    "howpublished": "Talk",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+ "month": "13.03.2014 – 14.03.2014", 
+ "publisher": "Deutsches Hygiene-Museum Dresden; Technische Universität Berlin", 
+  "abstract": "Für eine Fokussierung auf nicht-technische Parameter sprach sich auch JAN SEIFERT (Ludwigsburg) aus. Statt technikzentrierter Gestaltung vertrat Seifert, selbst in der Entwicklung tätig, die Ausrichtung der Forschung auf die Bedürfnisse und Motivationen der Menschen. Mit der Darstellung aktueller Trends der Prothesenentwicklung, wie bspw. der Techniksteuerung mittels Gedanken, bereicherte er die Tagung vor allem durch die Bewusstmachung des im öffentlichen Diskurs oft nicht wahrgenommenen Hiatus zwischen visionären Ideen der Trendscouts und dem tatsächlichen Stand der Technik.", 
+ "howpublished": "Talk", 
+
+
+
     "bibtextype": "Conference"
 },{
     "author": "Seifert, J.",
@@ -436,17 +539,19 @@
     "number": "",
     "volume": "",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "28-31",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+ "pages": "28-31", 
+
+
+
+ "howpublished": "paper", 
+
+
+
     "bibtextype": "Article"
 },{
     "author": "Seifert, J. & Schwendele, H.",
@@ -457,18 +562,96 @@
     "number": "",
     "volume": "7",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "70-72",
-    "month": "",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+ "pages": "70-72", 
+
+
+
+ "howpublished": "paper", 
+
+
+
     "bibtextype": "Article"
+},{
+    "author": "Seifert, J.",
+    "year": 2016,
+    "title": "Das Auto als Roboter",
+
+
+
+
+
+
+
+ "month": "November", 
+
+
+ "howpublished": "Talk", 
+ "note": "World Usability Day, Stuttgart", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2017,
+    "title": "Autonomes Fahren",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag bei der Regionalgruppe Karlsruhe der German UPA", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2018,
+    "title": "Fokus auf dem Menschen am Beispiel des autonomen Fahrens",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag für den Arbeitskreis Usability & User Experience (UUX) der Bitkom", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2019,
+    "title": "User experience im eCommerce",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag im Rahmen des Forschungsprojekts 'Individualisierung digital' an der Julius-Maximilians Universität Würzburg", 
+
+
+    "bibtextype": "Misc"
 },{
     "author": "Seifert, J., Hellmann, J., Reimer, L. & Völpel, C.",
     "year": 2021,
@@ -478,16 +661,56 @@
     "number": "",
     "volume": "",
 
-    "booktitle": "",
-    "address": "",
 
-    "pages": "",
-    "month": "January",
-    "publisher": "",
-    "abstract": "",
-    "howpublished": "",
-    "note": "",
-    "doi": "",
-    "url": "",
+
+
+
+
+
+ "month": "January", 
+
+
+ "howpublished": "paper", 
+
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2019,
+    "title": "Management 4 Design – vom IT-Manager zum Designflüsterer",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der Munich Creative Business Week", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2021,
+    "title": "Überwindung der Mehrwert-Kluft",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf dem CX Meetup #19", 
+
+
     "bibtextype": "Misc"
 }]}
