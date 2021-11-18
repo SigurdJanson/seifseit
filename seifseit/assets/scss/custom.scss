@@ -3,14 +3,34 @@
 
 .pub-item {
     margin-top: 24px;
+    display:list-item;
 }
 .pub-item-author {
-    color:#84849F;
+    color:$secondary-color;
+    display:inline-block;
 }
 .pub-item-title {
     font-size: 124%;
 }
+@mixin pub-bullet-style() {
+    color:$secondary-color;
+    display: inline-block;
+    font-family: "Ionicons";
+  }
+li.pub-::before {
+    content: "\f401";
+    @include pub-bullet-style();
+}
+li.pub-paper::before {
+    content: "\f2bf";
+    @include pub-bullet-style();
+}
+li.pub-talk::before {
+    content: "\f461";
+    @include pub-bullet-style();
+}
 
+// ICONS ==========================================
 .icon-seifseit-xing {
     background: center/20px url('/images/ico_xing.svg');
     height: 20px;
@@ -35,6 +55,7 @@
     /* Other styles here */
 }
 
+// BUTTONS ========================================
 .btn-light {
     border: 1px solid $secondary-color;
     border-radius: 0;
@@ -44,3 +65,5 @@
         color: $light;
     }
 }
+
+

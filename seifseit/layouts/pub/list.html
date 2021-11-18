@@ -10,16 +10,18 @@
         <h2>Conferences</h2> <!-- TODO I18N in the title and all strings below   {{i18n "ed."}}-->
         <ul>
           {{ range $.Site.Data.pubs.papers.pubs }}
-          <li style="margin-top: 12px;">
-            <div style="color:#84849F">{{ .author }} ({{ .year }}).</div>
-            <div style="font-size: 124%;">{{ .title }}</div>
+
+          <li class="pub-item pub-{{lower .howpublished}}">
+            <!-- {{ if eq .howpublished "talk"}}<i class="ion-ios-mic-outline"> </i>{{end}} -->
+            <div class="pub-item-author">{{ .author }} ({{ .year }}).</div>
+            <div class="pub-item-title" >{{ .title }}</div>
             <div>
             {{ if or (eq .bibtextype "Conference") ((eq .bibtextype "InProceedings")) }}
               {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }}
             {{ end }}
 
             {{ if eq .bibtextype "Article" }}
-              <span>{{ .journal }}</span>, {{.number}} ({{ .volume }}), {{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}
+              <span>{{ .journal }}</span>, {{.number}} {{with .volumne}}({{.}}){{end}}, {{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}
             {{ end }}
 
             {{ if eq .bibtextype "Book" }}
@@ -30,13 +32,17 @@
               {{.note}}
             {{ end }}
 
+            {{ if eq .bibtextype "MastersThesis" }}
+              {{.type}} {{.school}}
+            {{ end }}
+
             {{ if eq .bibtextype "Incollection"}}
               {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
             {{ end }}
-            <!-- TODO: MastersThesis; TODO Informatik Aktuell paper wird richtig dargestellt? -->
+            <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
             </div>
-            {{with .doi}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">doi</a>{{end}}
-            {{with .url}}<a class="btn-main btn-sm animated fadeInUp" href="{{.}}">Download</a>{{end}}
+            {{with .doi}}<a class="btn btn-light animated fadeInUp" href="{{.}}">doi</a>{{end}}
+            {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{.}}">Download</a>{{end}}
           </li>
           {{ end }}
         </ul>
