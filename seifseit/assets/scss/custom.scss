@@ -29,6 +29,38 @@ li.pub-talk::before {
     content: "\f461";
     @include pub-bullet-style();
 }
+li.pub-poster::before {
+    content: "\f3ca";
+    @include pub-bullet-style();
+}
+
+// INFOTIPS used in the publication list ================
+.infotip {
+    position: relative;
+    /* display: inline-block; */
+    /* border-bottom: 1px dotted $secondary-color; /* If you want dots under the hoverable text */
+  }
+  
+  /* Tooltip text */
+  .infotip .infotiptext {
+    visibility: hidden;
+    background-color: $light;
+    color: $secondary-color;
+    text-align: right;
+    padding: 5px 0;
+    border-radius: 6px;
+   
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 105%;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .infotip:hover span.infotiptext {
+    visibility: visible;
+  }
 
 // ICONS ==========================================
 .icon-seifseit-xing {
