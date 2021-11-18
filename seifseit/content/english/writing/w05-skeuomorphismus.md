@@ -2,7 +2,7 @@
 title: "Skeuomorphismus und Metapher"
 date: 2013-09-15
 author: Jan Seifert
-image : "images/blog/blog-post-5.jpg"
+image : "images/blog/skeuomorph.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["Design", "Manuscript"]

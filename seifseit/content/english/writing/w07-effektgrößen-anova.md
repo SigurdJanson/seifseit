@@ -2,7 +2,7 @@
 title: "Effektgrössen in der ANOVA"
 date: 2008-06-05
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/measure.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
 tags: ["", ""]

@@ -2,7 +2,7 @@
 title: "Repräsentativität - Klärung eines schillernden Begriffs"
 date: 2012-12-04
 author: Jan Seifert
-image : "images/blog/blog-post-6.jpg"
+image : "images/blog/representative.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Research", "User Experience"]
 tags: ["User Research", "Empiricism", "Manuscript"]

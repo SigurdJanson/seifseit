@@ -2,7 +2,7 @@
 title: "Wahrnehmungspsychologie"
 date: 2002-08-16
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/experiencecolor.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["Manuscript", ""]
