@@ -1,6 +1,14 @@
 /* Put custom SCSS rules in this file */
 /* Documentation: https://sass-lang.com/documentation */
 
+
+p::selection {
+    background-color: $primary-color;
+    color:white;
+}
+
+// PUBLICATIONS ============
+
 .pub-item {
     margin-top: 24px;
     display:list-item;
