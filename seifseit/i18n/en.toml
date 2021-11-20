@@ -2,6 +2,12 @@
 [btnDownload]
 other = "Download"
 
+[language]
+other = "Language"
+
+[hPaperDetails]
+other = "Paper Details"
+
 # Pubs
 [h_Publications]
 other = "Publications"
