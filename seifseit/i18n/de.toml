@@ -2,14 +2,14 @@
 [btnDownload]
 other = "Download"
 
-[language]
+[hLanguage]
 other = "Sprache"
 
 # Pubs
 [hPaperDetails]
 other = "Details"
 
-[h_Publications]
+[hPublications]
 other = "Veröffentlichungen"
 
 [pages-abbr]
