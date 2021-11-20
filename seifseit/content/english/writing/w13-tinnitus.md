@@ -2,7 +2,7 @@
 title: "Psychologische Mediatoren bei komplexem Tinnitus"
 date: 2010-01-19
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/tinnitus.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychologie"]
 tags: ["Manuscript", ""]

@@ -2,7 +2,7 @@
 title: "Ökologische Psychologie"
 date: 2010-01-08
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/oekopsy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["", ""]

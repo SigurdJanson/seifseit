@@ -2,7 +2,7 @@
 title: "Log-lineare Modelle"
 date: 2010-01-08
 author: Jan Seifert
-image : "images/blog/blog-post-4.jpg"
+image : "images/blog/loglinear.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
 tags: ["", ""]

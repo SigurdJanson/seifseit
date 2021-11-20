@@ -2,7 +2,7 @@
 title: "Multiple Regression (in der Anwendung mit SPSS)"
 date: 2010-01-08
 author: ["Jan Seifert", "Andreas Nack"]
-image : "images/blog/blog-post-4.jpg"
+image : "images/blog/multireg.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
 tags: ["", ""]

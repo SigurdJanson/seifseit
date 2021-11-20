@@ -2,9 +2,10 @@
 title: "User Experience Pitch Manual"
 date:  2012-12-04
 author: Jan Seifert
-image : "images/blog/blog-post-1.jpg"
+image : "images/blog/pitch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
+languages: "German"
 tags: ["Business behind Design", "Quality Management", "Manuscript"]
 description: ""
 draft: false
