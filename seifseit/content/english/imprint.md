@@ -9,10 +9,7 @@ menu:
     name: "Imprint"
     weight: 9
 ---
-<!-- menu:
-  main:
-    name: "Imprint"
-    weight: 9 -->
+
 
 
 **Administrator**<br/>
@@ -63,4 +60,16 @@ Spam is not only an issue of mails. Spam often disguises itself as serious press
 
  ## Used Images
  
-[cottonbro](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
+* [](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) and [Yellow and Green Led Light](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) by [TODO](https://www.pexels.com/@cottonbro).
+
+* [Bird's Eye View of Group of People](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) by [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
+
+
+* ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) by [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).
+* ["Crowd of people inside white building"](https://www.pexels.com/photo/crowd-of-people-inside-white-building-1770808/) by [Luis Dalvan](https://www.pexels.com/@luisdalvan).
+* ["Crop doctor showing pills to patient in clinic"](https://www.pexels.com/photo/crop-doctor-showing-pills-to-patient-in-clinic-4021808/) by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska).
+* [Collection of Books in Bookshelves](https://www.pexels.com/photo/collection-of-books-in-bookshelves-9565975/) by [Taryn Elliott](https://www.pexels.com/@taryn-elliott).
+* [Focus Photo of Camera Lens](https://www.pexels.com/photo/focus-photo-of-camera-lens-752525/) by [Omar Houchaimi](https://www.pexels.com/@omarhouc).
+* [landscape-nature-person-hands](https://www.pexels.com/photo/landscape-nature-person-hands-1927595/) by [Ravi Kant](https://www.pexels.com/@ravikant).
+* (Closeup Photography of Metal Frame)[https://www.pexels.com/photo/closeup-photography-of-metal-frame-352097/] by  [kumar gaurav](https://www.pexels.com/@gaurav007)
+* [Gray Metal Cubes Decorative](https://www.pexels.com/photo/gray-metal-cubes-decorative-1005644/) by [Oleg Magni](https://www.pexels.com/@oleg-magni).
