@@ -4,7 +4,7 @@ date: 2020-03-09
 author: Jan Seifert
 image : "images/blog/strategy.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["UX"]
+categories: ["User Experience"]
 tags: ["", ""]
 description: "About the over(ab)use of a word in design"
 draft: false
