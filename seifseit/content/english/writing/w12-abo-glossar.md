@@ -6,6 +6,7 @@ image : "images/blog/blog-post-2.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychologie"]
 tags: ["Employee Eperience", "Manuscript"]
+languages: ["German"]
 description: "Wichtige Begriffe der Arbeits-, Betriebs- und Organisationspsychologie"
 draft: false
 type: "writing"

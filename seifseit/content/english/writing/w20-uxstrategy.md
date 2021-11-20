@@ -6,6 +6,7 @@ image : "images/blog/strategy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["", ""]
+languages: ["English"]
 description: "About the over(ab)use of a word in design"
 draft: false
 type: "writing"

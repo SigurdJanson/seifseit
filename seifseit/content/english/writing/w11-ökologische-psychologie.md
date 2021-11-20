@@ -6,6 +6,7 @@ image : "images/blog/oekopsy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["", ""]
+languages: ["German"]
 description: "Einführung in die Psychologie des Menschen in Auseinandersetzung mit seiner Umgebung"
 draft: false
 type: "writing"

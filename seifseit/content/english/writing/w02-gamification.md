@@ -6,6 +6,7 @@ image : "images/blog/gamification.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["Gamification", "Behavioural Design"]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

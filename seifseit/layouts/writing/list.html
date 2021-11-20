@@ -29,7 +29,10 @@
                 {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
               </li>
               <li><i class="ion-pricetags"></i>
-                {{ range $index, $elements:= .Params.tags }}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+                {{ range $index, $elements:= .Params.tags }}{{with .}}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}
+              </li>
+              <li><i class="ion-chatbox-working"></i>
+                {{ range $index, $elements:= .Params.languages }}{{ if ne $index 0 }}, {{ end }}{{ . }}{{ end }}
               </li>
             </ul>
           </div>
@@ -104,7 +107,7 @@
         {{- end }}
       </div>
       <div class="col-md-4">
-        {{ partial "blog-sidebar.html" . }}
+        {{ partial "writings-sidebar.html" . }}
       </div>
     </div>
   </div>

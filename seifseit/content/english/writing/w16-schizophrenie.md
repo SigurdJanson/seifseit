@@ -6,7 +6,7 @@ image : "images/blog/pharmatherapy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["Manuscript", ""]
-language: "German"
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

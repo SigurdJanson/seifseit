@@ -6,6 +6,7 @@ image : "images/blog/blog-post-3.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["User Research", "Usability Test", "Manuscript"]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

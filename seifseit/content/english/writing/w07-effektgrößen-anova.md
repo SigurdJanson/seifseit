@@ -6,6 +6,7 @@ image : "images/blog/measure.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
 tags: ["", ""]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

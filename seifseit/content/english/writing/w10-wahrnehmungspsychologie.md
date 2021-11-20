@@ -6,6 +6,7 @@ image : "images/blog/experiencecolor.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["Manuscript", ""]
+languages: ["German"]
 description: "Grundlagen der Wahrnehmungspsychologie"
 draft: false
 type: "writing"

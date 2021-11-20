@@ -6,6 +6,7 @@ image : "images/blog/representative.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Research", "User Experience"]
 tags: ["User Research", "Empiricism", "Manuscript"]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

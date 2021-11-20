@@ -6,6 +6,8 @@ image : "images/blog/skeuomorph.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["Design", "Manuscript"]
+languages: ["German"]
+description: ""
 description: ""
 draft: false
 type: "writing"

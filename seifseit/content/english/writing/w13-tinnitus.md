@@ -6,6 +6,7 @@ image : "images/blog/tinnitus.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychologie"]
 tags: ["Manuscript", ""]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

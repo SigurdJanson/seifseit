@@ -6,6 +6,7 @@ image : "images/blog/blog-post-4.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["", ""]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"

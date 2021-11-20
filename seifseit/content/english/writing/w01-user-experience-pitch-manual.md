@@ -5,11 +5,15 @@ author: Jan Seifert
 image : "images/blog/pitch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
-languages: "German"
+languages: ["German"]
 tags: ["Business behind Design", "Quality Management", "Manuscript"]
 description: ""
 draft: false
 type: "writing"
+information: # TODO
+  - label : "Client"
+    info : "Jannie Kelonsky"
+
 ---
 
 

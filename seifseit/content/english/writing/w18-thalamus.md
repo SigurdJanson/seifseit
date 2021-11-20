@@ -6,6 +6,7 @@ image : "images/blog/blog-post-2.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Brain Sciences"]
 tags: ["Manuscript", ""]
+languages: ["German"]
 description: ""
 draft: false
 type: "writing"
