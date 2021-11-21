@@ -1,11 +1,11 @@
 ---
-title: "Portfolio"
+title: "Projects"
 description: "Some of my work"
 draft: false
 bg_image: "images/feature-bg.webp"
 menu:
   main:
-    name: "Portfolio"
+    name: "Projects"
     identifier: "projects"
     weight: 3
 ---

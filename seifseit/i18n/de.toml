@@ -28,3 +28,7 @@ other = "Vortrag"
 
 [poster]
 other = "Poster"
+
+###
+[hDiscontinuedProjects]
+other = "Abgeschlossene Projekte"

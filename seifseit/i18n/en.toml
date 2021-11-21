@@ -28,3 +28,9 @@ other = "Talk"
 
 [poster]
 other = "Poster"
+
+
+
+###
+[hDiscontinuedProjects]
+other = "Discontinued Projects"
