@@ -2,10 +2,11 @@
 /* Documentation: https://sass-lang.com/documentation */
 
 
-p::selection {
+::selection {
     background-color: $primary-color;
     color:white;
 }
+
 
 // PUBLICATIONS ============
 
