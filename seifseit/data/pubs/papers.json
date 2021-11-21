@@ -1,142 +1,22 @@
 {"pubs": [{
-    "author": "Britz, P., Naumann, E., Stark, R., Seifert, J. & Hagemann, D.",
-    "year": 2005,
-    "title": "Correlation of P3 and the Amygdala in an Emotional Paradigm",
-
- "booktitle": "Journal of Psychophysiology", 
+    "author": "Seifert, J.",
+    "year": 2001,
+    "title": "Inhibitionsprozesse selektiver Aufmerksamkeit und emotionale Reizqualitäten",
 
 
+ "address": "Trier", 
 
-
- "pages": "109-110", 
-
+ "school": "Universität Trier", 
+  "type": "Diplomarbeit", 
 
 
 
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
-    "year": 2007,
-    "title": "The randomization of trial sequences - Thoughts, problems, and solutions",
-
- "booktitle": "Fachtagung Psychologie und Gehirn, Dortmund 7.-9. Juni 2007", 
- "address": "Dortmund", 
-
-
-
-
- "month": "June", 
-
-
-
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
-    "year": 2007,
-    "title": "The randomization of trial sequences - for a broad field of experiments",
-
- "booktitle": "Experimentelle Psychologie: Beiträge zur 49. Tagung experimentell arbeitender Psychologen (TeaP)", 
- "address": "Lengerich", 
-
-    "editor": "Wender, K. F., Mecklenbräuker, S., Rey, G. D. & Wehr, T.",
-
-
-
-
-
- "publisher": "Pabst Science Publishers", 
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Ganzhorn, M., Seifert, D. J. & Eichert, C.",
-    "year": 2018,
-    "title": "Einführung eines unternehmensweiten Persona Framework",
-
-
-
-
-
-
-
- "month": "September", 
-
-
- "howpublished": "Talk", 
- "note": "Presentation at Mensch und Computer Conference", 
-
-
-    "bibtextype": "Misc"
-},{
-    "author": "Gast, O., Seifert, J. & Werth, D.",
-    "year": 2021,
-    "title": "Der Mensch im Fokus der digitalen Transformation des Lernens: Erfolgreiche Aus- und Weiterbildung im Unternehmen",
-
-    "journal": "HMD Praxis der Wirtschaftsinformatik",
-    "number": "",
-    "volume": "58",
-
-
-
-
-
-
- "pages": "1444–1455", 
- "month": "sep", 
- "publisher": "Springer Fachmedien Wiesbaden {GmbH}", 
 
  "howpublished": "paper", 
 
-  "doi": "10.1365/s40702-021-00788-y", 
-
-    "bibtextype": "Article"
-},{
-    "author": "Gmür, M. & Seifert, J.",
-    "year": 2019,
-    "title": "UX und Software-Entwicklung: Agilität gemeinsam bewältigen",
 
 
-
-
-
-
-
- "month": "September", 
-
-
- "howpublished": "Talk", 
- "note": "Vortrag auf der Mensch und Computer, Hamburg", 
-
-
-    "bibtextype": "Misc"
-},{
-    "author": "Gmür, M. & Seifert, J.",
-    "year": 2020,
-    "title": "Agilität gemeinsam bewältigen",
-
-
-
-
-
-
-
-
-
-
- "howpublished": "Talk", 
- "note": "Vortrag auf der DWX Home", 
-
-
-    "bibtextype": "Misc"
+    "bibtextype": "MastersThesis"
 },{
     "author": "Hagemann, D., Sollers, J. J., Naumann, E., Hewig, J., Seifert, J., Bartussek, D. & Thayer, J.",
     "year": 2002,
@@ -189,7 +69,336 @@
 
 
 
+ "howpublished": "contribution", 
 
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Naumann, E., Hagemann, D., Hewig, J., Seifert, J. & Bartussek, D.",
+    "year": 2002,
+    "title": "The influence of emotional distractors on selection and negative priming",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "245", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2003,
+    "title": "Frontal cortical activation and the behavioral activation system",
+
+ "booktitle": "Australian Journal of Psychology (Supplement)", 
+
+
+
+
+ "pages": "20", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2003,
+    "title": "Anger in the model of anterior asymmetry",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "154", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2003,
+    "title": "Frontal cortical activity, anger expression, and behavioral activation",
+
+ "booktitle": "Psychophysiology (Supplement)", 
+
+
+
+
+ "pages": "44", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Holle, H., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
+    "year": 2003,
+    "title": "Temporal stability of heart period variability in emotion",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "155", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Kronbergs, A., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
+    "year": 2003,
+    "title": "Anterior cortical asymmetry and dopamine: Is there a connection?",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "163", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Naumann, E., Stark, R., Rasch, B., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Viewing affective slides: ERP and event-related fMRI correlates",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "17", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Rasch, B., Naumann, E., Stark, R., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Interactions between emotion and cognition in the medial prefrontal cortex: an fMRI study",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "174", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Exploring motivated attention - an ERP study",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "179", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Do incentives influence the flanker-compatibility-effect?",
+
+ "booktitle": "Psychophysiology (Supplement)", 
+
+
+
+
+ "pages": "77", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "On the Selective Relation of Frontal Cortical Asymmetry and Anger-Out versus Anger-Control",
+
+    "journal": "Journal of Personality and Social Psychology",
+    "number": "6",
+    "volume": "87",
+
+
+
+
+
+
+ "pages": "926-939", 
+
+ "publisher": "American Psychological Association ({APA})", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1037/0022-3514.87.6.926", 
+
+    "bibtextype": "Article"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Decreased cortical activity in impulsivity",
+
+ "booktitle": "Klinische Neurophysiologie", 
+
+
+
+
+ "pages": "154", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Interaktionen zwischen kortikaler Aktivität und Persönlichkeit in einem Go-Nogo-Paradigma unter Verstärkung",
+
+ "booktitle": "Programm und Abstracts zum 44. Kongreß der Deutschen Gesellschaft für Psychologie", 
+
+
+
+
+
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Kortikale Aktivität bei Verhaltensaktivierung und Verhaltensinhibition im Rahmen eines Go-Nogo-Paradigmas mit Verstärkermanipulation",
+
+ "booktitle": "Experimentelle Psychologie: Beiträge zur 46. Tagung experimentell arbeitender Psychologen", 
+ "address": "Lengerich", 
+
+    "editor": "Kerzel, D., Franz, V. & Gegenfurtner, K.",
+
+
+
+
+
+ "publisher": "Pabst Science Publishers", 
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "The relation of bilateral frontal cortical activity and behavioral activation on the state and the trait level",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "235-236", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2004,
+    "title": "Reward and Punishment in a go/nogo-task",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "221", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Britz, P., Naumann, E., Stark, R., Seifert, J. & Hagemann, D.",
+    "year": 2005,
+    "title": "Correlation of P3 and the Amygdala in an Emotional Paradigm",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "109-110", 
+
+
+
+ "howpublished": "contribution", 
 
 
 
@@ -241,107 +450,6 @@
 
     "bibtextype": "Article"
 },{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
-    "title": "On the Selective Relation of Frontal Cortical Asymmetry and Anger-Out versus Anger-Control",
-
-    "journal": "Journal of Personality and Social Psychology",
-    "number": "6",
-    "volume": "87",
-
-
-
-
-
-
- "pages": "926-939", 
-
- "publisher": "American Psychological Association ({APA})", 
-
- "howpublished": "paper", 
-
-  "doi": "10.1037/0022-3514.87.6.926", 
-
-    "bibtextype": "Article"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
-    "title": "Decreased cortical activity in impulsivity",
-
- "booktitle": "Klinische Neurophysiologie", 
-
-
-
-
- "pages": "154", 
-
-
-
-
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
-    "title": "Interaktionen zwischen kortikaler Aktivität und Persönlichkeit in einem Go-Nogo-Paradigma unter Verstärkung",
-
- "booktitle": "Programm und Abstracts zum 44. Kongreß der Deutschen Gesellschaft für Psychologie", 
-
-
-
-
-
-
-
-
-
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
-    "title": "Kortikale Aktivität bei Verhaltensaktivierung und Verhaltensinhibition im Rahmen eines Go-Nogo-Paradigmas mit Verstärkermanipulation",
-
- "booktitle": "Experimentelle Psychologie: Beiträge zur 46. Tagung experimentell arbeitender Psychologen", 
- "address": "Lengerich", 
-
-    "editor": "Kerzel, D., Franz, V. & Gegenfurtner, K.",
-
-
-
-
-
- "publisher": "Pabst Science Publishers", 
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
-    "title": "The relation of bilateral frontal cortical activity and behavioral activation on the state and the trait level",
-
- "booktitle": "Journal of Psychophysiology", 
-
-
-
-
- "pages": "235-236", 
-
-
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Conference"
-},{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Gollwitzer, M., Naumann, E. & Bartussek, D.",
     "year": 2005,
     "title": "A revised film set for the induction of basic emotions",
@@ -388,6 +496,63 @@
 
     "bibtextype": "Article"
 },{
+    "author": "Naumann, E., Seifert, J., Britz, P., Hagemann, D. & Bartussek, D.",
+    "year": 2005,
+    "title": "Emotion-Attention Interaction: An ERP Study Using an Emotional Go-Nogo Task",
+
+ "booktitle": "Journal of Psychophysiology", 
+
+
+
+
+ "pages": "134", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Seifert, J.",
+    "year": 2005,
+    "title": "Vorbereitung, Ausführung und Ergebnisbewertung von Verhalten unter motivationalen Anreizen",
+
+
+
+
+
+
+
+
+ "publisher": "Der Andere Verlag", 
+
+ "howpublished": "book", 
+
+
+
+    "bibtextype": "Book"
+},{
+    "author": "Seifert, J.",
+    "year": 2005,
+    "title": "Ereigniskorrelierte EEG-Aktivität",
+
+
+ "address": "Lengerich", 
+
+
+
+
+
+ "publisher": "Pabst Science Publishers", 
+
+ "howpublished": "book", 
+
+
+
+    "bibtextype": "Book"
+},{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2006,
     "title": "The relation of cortical activity and BIS/BAS on the trait level",
@@ -411,39 +576,64 @@
 
     "bibtextype": "Article"
 },{
-    "author": "Holle, H., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
-    "year": 2003,
-    "title": "Temporal stability of heart period variability in emotion",
+    "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
+    "year": 2006,
+    "title": "Motivated executive attention&mdash;incentives and the noise-compatibility effect",
 
- "booktitle": "Journal of Psychophysiology", 
-
-
-
-
- "pages": "155", 
+    "journal": "Biological Psychology",
+    "number": "1",
+    "volume": "71",
 
 
 
- "howpublished": "poster", 
+
+
+
+ "pages": "80-89", 
+ "month": "jan", 
+ "publisher": "Elsevier {BV}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1016/j.biopsycho.2005.03.001", 
+
+    "bibtextype": "Article"
+},{
+    "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
+    "year": 2007,
+    "title": "The randomization of trial sequences - Thoughts, problems, and solutions",
+
+ "booktitle": "Fachtagung Psychologie und Gehirn, Dortmund 7.-9. Juni 2007", 
+ "address": "Dortmund", 
+
+
+
+
+ "month": "June", 
+
+
+ "howpublished": "contribution", 
 
 
 
     "bibtextype": "Conference"
 },{
-    "author": "Kronbergs, A., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
-    "year": 2003,
-    "title": "Anterior cortical asymmetry and dopamine: Is there a connection?",
+    "author": "Britz, P., Seifert, J., Hermes, M., Hagemann, D. & Naumann, E.",
+    "year": 2007,
+    "title": "The randomization of trial sequences - for a broad field of experiments",
 
- "booktitle": "Journal of Psychophysiology", 
+ "booktitle": "Experimentelle Psychologie: Beiträge zur 49. Tagung experimentell arbeitender Psychologen (TeaP)", 
+ "address": "Lengerich", 
 
-
-
-
- "pages": "163", 
+    "editor": "Wender, K. F., Mecklenbräuker, S., Rey, G. D. & Wehr, T.",
 
 
 
- "howpublished": "poster", 
+
+
+ "publisher": "Pabst Science Publishers", 
+
+ "howpublished": "talk", 
 
 
 
@@ -471,25 +661,6 @@
   "doi": "https://doi.org/10.1016/j.ijpsycho.2007.12.003", 
 
     "bibtextype": "Article"
-},{
-    "author": "Naumann, E., Hagemann, D., Hewig, J., Seifert, J. & Bartussek, D.",
-    "year": 2002,
-    "title": "The influence of emotional distractors on selection and negative priming",
-
- "booktitle": "Journal of Psychophysiology", 
-
-
-
-
- "pages": "245", 
-
-
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Conference"
 },{
     "author": "Parlitz, C., Dautenhahn, K., Klein, P., Seifert, J. & Hägele, M.",
     "year": 2008,
@@ -528,86 +699,6 @@
 
 
     "bibtextype": "Misc"
-},{
-    "author": "Seifert, J.",
-    "year": 2001,
-    "title": "Inhibitionsprozesse selektiver Aufmerksamkeit und emotionale Reizqualitäten",
-
-
- "address": "Trier", 
-
- "school": "Universität Trier", 
-  "type": "Diplomarbeit", 
-
-
-
-
- "howpublished": "paper", 
-
-
-
-    "bibtextype": "MastersThesis"
-},{
-    "author": "Seifert, J.",
-    "year": 2005,
-    "title": "Vorbereitung, Ausführung und Ergebnisbewertung von Verhalten unter motivationalen Anreizen",
-
-
-
-
-
-
-
-
- "publisher": "Der Andere Verlag", 
-
-
-
-
-
-    "bibtextype": "Book"
-},{
-    "author": "Seifert, J.",
-    "year": 2005,
-    "title": "Ereigniskorrelierte EEG-Aktivität",
-
-
- "address": "Lengerich", 
-
-
-
-
-
- "publisher": "Pabst Science Publishers", 
-
-
-
-
-
-    "bibtextype": "Book"
-},{
-    "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
-    "year": 2006,
-    "title": "Motivated executive attention&mdash;incentives and the noise-compatibility effect",
-
-    "journal": "Biological Psychology",
-    "number": "1",
-    "volume": "71",
-
-
-
-
-
-
- "pages": "80-89", 
- "month": "jan", 
- "publisher": "Elsevier {BV}", 
-
- "howpublished": "paper", 
-
-  "doi": "10.1016/j.biopsycho.2005.03.001", 
-
-    "bibtextype": "Article"
 },{
     "author": "Seifert, J., Reimer, L. & Schick, P.",
     "year": 2011,
@@ -711,7 +802,7 @@
  "howpublished": "paper", 
 
 
-
+  "url": "https://www.sps-magazin.de/allgemein/touch-the-power/", 
     "bibtextype": "Article"
 },{
     "author": "Seifert, J.",
@@ -752,6 +843,25 @@
 
     "bibtextype": "Misc"
 },{
+    "author": "Ganzhorn, M., Seifert, D. J. & Eichert, C.",
+    "year": 2018,
+    "title": "Einführung eines unternehmensweiten Persona Framework",
+
+
+
+
+
+
+
+ "month": "September", 
+
+
+ "howpublished": "Talk", 
+ "note": "Presentation at Mensch und Computer Conference", 
+
+
+    "bibtextype": "Misc"
+},{
     "author": "Seifert, J.",
     "year": 2018,
     "title": "Fokus auf dem Menschen am Beispiel des autonomen Fahrens",
@@ -767,6 +877,25 @@
 
  "howpublished": "Talk", 
  "note": "Vortrag für den Arbeitskreis Usability & User Experience (UUX) der Bitkom", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Gmür, M. & Seifert, J.",
+    "year": 2019,
+    "title": "UX und Software-Entwicklung: Agilität gemeinsam bewältigen",
+
+
+
+
+
+
+
+ "month": "September", 
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der Mensch und Computer, Hamburg", 
 
 
     "bibtextype": "Misc"
@@ -790,6 +919,67 @@
 
     "bibtextype": "Misc"
 },{
+    "author": "Seifert, J.",
+    "year": 2019,
+    "title": "Management 4 Design – vom IT-Manager zum Designflüsterer",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der Munich Creative Business Week", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Gmür, M. & Seifert, J.",
+    "year": 2020,
+    "title": "Agilität gemeinsam bewältigen",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der DWX Home", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Gast, O., Seifert, J. & Werth, D.",
+    "year": 2021,
+    "title": "Der Mensch im Fokus der digitalen Transformation des Lernens: Erfolgreiche Aus- und Weiterbildung im Unternehmen",
+
+    "journal": "HMD Praxis der Wirtschaftsinformatik",
+    "number": "",
+    "volume": "58",
+
+
+
+
+
+
+ "pages": "1444–1455", 
+ "month": "sep", 
+ "publisher": "Springer Fachmedien Wiesbaden {GmbH}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1365/s40702-021-00788-y", 
+
+    "bibtextype": "Article"
+},{
     "author": "Seifert, J., Hellmann, J., Reimer, L. & Völpel, C.",
     "year": 2021,
     "title": "Human Experience als Schlüssel für die Digitale Transformation",
@@ -812,25 +1002,6 @@
 
   "url": "https://www.informatik-aktuell.de/management-und-recht/digitalisierung/human-experience-als-schluessel-fuer-die-digitale-transformation.html", 
     "bibtextype": "Article"
-},{
-    "author": "Seifert, J.",
-    "year": 2019,
-    "title": "Management 4 Design – vom IT-Manager zum Designflüsterer",
-
-
-
-
-
-
-
-
-
-
- "howpublished": "Talk", 
- "note": "Vortrag auf der Munich Creative Business Week", 
-
-
-    "bibtextype": "Misc"
 },{
     "author": "Seifert, J.",
     "year": 2021,
