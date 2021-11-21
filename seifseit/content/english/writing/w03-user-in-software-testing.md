@@ -2,7 +2,7 @@
 title: "Der Nutzer – ein unbekanntes Wesen für Software-Tester?"
 date: 2015-03-22
 author: Jan Seifert
-image : "images/blog/blog-post-3.jpg"
+image : "images/blog/nonutzerinsoftware.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 tags: ["User Research", "Usability Test", "Manuscript"]

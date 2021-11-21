@@ -2,7 +2,7 @@
 title: "Koreanische Kurzgrammatik"
 date: 2010-01-10
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/koreanisch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Language"]
 tags: ["Manuscript", ""]
