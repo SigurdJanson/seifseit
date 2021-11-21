@@ -5,7 +5,7 @@ draft: false
 discontinued: true
 image : "images/projects/ekpscan.webp"
 bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+category: "C++"
 information:
   - label : "Client"
     info : "EEG Laboratory University Trier"
@@ -39,3 +39,4 @@ Here are the most important features of EkpScan
 * Grand averages
 * Average treatments to view main effects
 * Online help
+

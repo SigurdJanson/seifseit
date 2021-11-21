@@ -16,7 +16,7 @@
                 <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
               </label>
               {{ $categories := slice -}}
-              {{ range .Data.Pages -}}
+              {{ range where .Data.Pages "Params.discontinued" false -}}
               {{ $categories = $categories | append .Params.category -}}
               {{ end -}}
               {{ range ( $categories | uniq ) -}}
@@ -59,12 +59,12 @@
       <div class="col-md-12">
         <div class="block">
           <h3>{{ i18n "hDiscontinuedProjects" }}</h3>
-          <div class="row shuffle-wrapper">
+          <div class="row">
             {{ range where .Data.Pages "Params.discontinued" true -}}
             {{ $cats := .Params.category -}}
             {{ if not (reflect.IsSlice $cats) }}{{ $cats = slice ($cats) }}{{ end -}}
             {{ $cats = apply $cats "urlize" "." | jsonify -}}
-            <div class="col-md-2 portfolio-item shuffle-item" data-groups="{{ $cats }}">
+            <div class="col-md-2 portfolio-item" data-groups="{{ $cats }}">
               {{ if isset .Params "image" -}}
               <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
               {{- end }}

@@ -5,7 +5,7 @@ draft: false
 discontinued: true
 image : "images/projects/rqube.webp"
 bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
+category: ["Basic", "C++"]
 information:
   - label : "What we did"
     info : "Idea, Design, Implementation"
