@@ -12,7 +12,8 @@ menu:
 
 
 
-**Administrator**<br/>
+### Administrator
+
 Jan Seifert<br/>
 Address: Im Vogelsang 20, 71638 Ludwigsburg, Germany<br/>
 
@@ -30,7 +31,7 @@ We would like to thank anyone who helped to improve seifseit.de. Feedback is the
 
 
 
-## Liability
+### Liability
 
 We (the authors) disscoiate ourselves from violence, slander, and any other activity that impinge onthe rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloak_email "admin@seifseit.de" >}}), so that we can remove it.
 
@@ -52,19 +53,17 @@ seifseit.de would not have been possible without the following:
 Most of these tools are Open Source software. Please support the makers of free software and their tireless efforts!
 
 
-## Anti-Spam Proclamation
+### Anti-Spam Proclamation
 
 Spam is not only an issue of mails. Spam often disguises itself as serious press. Because of that we would like to suggest the following (german) sites: [Bild blog](www.bildblog.de) und [nachdenkseiten](www.nachdenkseiten.de).
 
 
 
- ## Used Images
+### Used Images
  
-* [](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) and [Yellow and Green Led Light](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) by [TODO](https://www.pexels.com/@cottonbro).
+* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), [Yellow and Green Led Light](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) and [Person Using Silver Macbook on White Table](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) by [Cottonbro](https://www.pexels.com/@cottonbro).
 
 * [Bird's Eye View of Group of People](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) by [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
-
-
 * ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) by [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).
 * ["Crowd of people inside white building"](https://www.pexels.com/photo/crowd-of-people-inside-white-building-1770808/) by [Luis Dalvan](https://www.pexels.com/@luisdalvan).
 * ["Crop doctor showing pills to patient in clinic"](https://www.pexels.com/photo/crop-doctor-showing-pills-to-patient-in-clinic-4021808/) by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska).
@@ -73,3 +72,5 @@ Spam is not only an issue of mails. Spam often disguises itself as serious press
 * [landscape-nature-person-hands](https://www.pexels.com/photo/landscape-nature-person-hands-1927595/) by [Ravi Kant](https://www.pexels.com/@ravikant).
 * (Closeup Photography of Metal Frame)[https://www.pexels.com/photo/closeup-photography-of-metal-frame-352097/] by  [kumar gaurav](https://www.pexels.com/@gaurav007)
 * [Gray Metal Cubes Decorative](https://www.pexels.com/photo/gray-metal-cubes-decorative-1005644/) by [Oleg Magni](https://www.pexels.com/@oleg-magni).
+* [Code on a Screen](https://www.pexels.com/photo/code-on-a-screen-4383298/) by [Markus Spiske](https://www.pexels.com/@markusspiske).
+* [White and Brown Round Frame](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) by [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
