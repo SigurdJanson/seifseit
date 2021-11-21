@@ -4,11 +4,11 @@ description: "this is meta description"
 bg_image: "images/feature-bg.webp"
 layout: "service"
 draft: false
-menu:
-  main:
-    parent: "More"
-    name: "Service"
-    weight: 1
+# menu:
+#   main:
+#     parent: "More"
+#     name: "Service"
+#     weight: 1
 
 
 ########################### about service #############################
@@ -28,7 +28,7 @@ about:
 
 ########################## featured service ############################
 featured_service:
-  enable : true
+  enable : false
   service_item:
     # featured service item loop
     - name : "Interface Design"
@@ -50,51 +50,53 @@ featured_service:
 
 
 ############################# Service ###############################
+
+# These are shown on the start page 
+
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Principles"
+  description : "Principles to strive for ..."
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
       name: Branding
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+      name: Empower others
+      content: "As a leader I am nobody without my team. It is my job to make the team strong which makes us strong."
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Dependent Independence
+      content: "Design is team work. The best team work, everyone takes responsibility for each other and for themselves."
 
     # service item loop
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
       name: Start Up
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Logo Design
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Development
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # # service item loop
+    # - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
 cta:
