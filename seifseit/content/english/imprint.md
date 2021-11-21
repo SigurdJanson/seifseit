@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
 description: ""
-bg_image: "images/connect-bg.webp"
+bg_image: "images/globe-detailed_labelled.svg"
 layout: "faq"
 draft: false
 menu:
