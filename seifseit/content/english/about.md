@@ -13,31 +13,31 @@ menu:
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/Jan2013c.jpg"
   title : "... leads user experience design"
   content : "
 
-  ### Education
+### Education
 
-  Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
+Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
 
-  ### Berufliche Laufbahn
+### Berufliche Laufbahn
 
-  Universität: Jan Seifert war schon früh im Studium an der elektrophysiologischen Forschung beteiligt. Nach dem Studium promovierte er von 2002-2005 im EEG-Labor der Universität Trier, unter anderem unterstützt durch die DFG und Landesgraduiertenförderung an der Universität Trier. Sein Forschungsinteresse galt hauptsächlich den emotionalen und motivationalen Rahmenbedingungen von Aufmerksamkeitspozessen, sowie empirisch-methodischen Themen. 2005 beendete er erfolgreich seine Promotion.
+Universität: Jan Seifert war schon früh im Studium an der elektrophysiologischen Forschung beteiligt. Nach dem Studium promovierte er von 2002-2005 im EEG-Labor der Universität Trier, unter anderem unterstützt durch die DFG und Landesgraduiertenförderung an der Universität Trier. Sein Forschungsinteresse galt hauptsächlich den emotionalen und motivationalen Rahmenbedingungen von Aufmerksamkeitspozessen, sowie empirisch-methodischen Themen. 2005 beendete er erfolgreich seine Promotion.
 
-  User Experience Dienstleistungen: In 2005 trat Jan Seifert in die User Interface Design GmbH (UID) ein - einem der weltgrößten User Experience Dienstleister. Seitdem unterstützte er zahlreiche Unternehmen bei Entwurf und Umsetzung interaktiver Produkte. Durch diese Tätigkeiten ist er mit den verschiedensten Branchen und Technologien vertraut.
+User Experience Dienstleistungen: In 2005 trat Jan Seifert in die User Interface Design GmbH (UID) ein - einem der weltgrößten User Experience Dienstleister. Seitdem unterstützte er zahlreiche Unternehmen bei Entwurf und Umsetzung interaktiver Produkte. Durch diese Tätigkeiten ist er mit den verschiedensten Branchen und Technologien vertraut.
 
-  ### Interessensschwerpunkte
+### Interessensschwerpunkte
 
-  * Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
-  * User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
-  * Processberatung in Sachen Usability
-  * Design Leadership
-  * Organisationsdesign
+* Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
+* User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
+* Processberatung in Sachen Usability
+* Design Leadership
+* Organisationsdesign
 
-  ### Publikationen
+### Publikationen
 
-  Eine Liste der Publikationen ist in der Bibliothek verfügbar.
+Eine Liste der Publikationen ist in der Bibliothek verfügbar.
 "
 
 
@@ -96,7 +96,7 @@ features:
   # feature item loop
   - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Connected"
-    content : "Looking for valuable connections in communities, the German UPA chapter, conferences and talks."
+    content : "Looking for valuable connections in communities, the [German UPA chapter](https://www.germanupa.de/), conferences and talks."
 
 
 

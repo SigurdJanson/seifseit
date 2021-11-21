@@ -4,7 +4,18 @@
 
 ::selection {
     background-color: $primary-color;
-    color:white;
+    color:$light;
+}
+
+
+// OVERWRITES 
+
+.bg-dark a { // <a/> inside a section with dark background
+    color:$light;
+}
+
+.about .about-img img:hover {
+    opacity: 1;
 }
 
 
