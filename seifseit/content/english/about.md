@@ -64,7 +64,7 @@ about:
 
   # funfacts loop
   - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "User Resaerch Contacts"
+    name : "User Research Contacts"
     count : "259"
 
   # # funfacts loop
