@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="block">
 
-        <h2>{{i18n "hPublications"}}</h2> <!-- TODO Fix and translate (if possible) the references  -->
+        <h2>{{i18n "hPublications"}}</h2>
 
         <div>
           <div class="row shuffle-wrapper">
@@ -45,8 +45,12 @@
               {{ end }}
               <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
               </div>
-              {{with .doi}}<a class="btn btn-light animated fadeInUp" href="{{ . | printf "%s%s" "https://doi.org/" | absURL }}">doi</a>{{end}}
-              {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{relURL .}}">{{i18n "btnDownload"}}</a>{{end}}
+              {{with .doi -}}
+                <a class="btn btn-light animated fadeInUp" href="{{ . | printf "%s%s" "https://doi.org/" | absURL }}" target="_blank">doi</a>
+              {{- end}}
+              {{with .url -}}
+                <a class="btn btn-light animated fadeInUp" href="{{relURL .}}" target="_blank">{{i18n "btnDownload"}}</a>
+              {{- end}}
             </div>
             {{ end }}
           </div>
