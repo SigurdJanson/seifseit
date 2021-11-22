@@ -21,18 +21,17 @@
             {{ end -}}
             {{ range ( $categories | uniq ) -}}
             <label class="btn btn-sm btn-primary">
-              <input type="radio" name="shuffle-filter" value="{{ . | urlize }}">{{ i18n . }}
+              <input type="radio" name="shuffle-filter" value="{{ . }}">{{- i18n . -}}
             </label>
             {{- end }}
           </div>
         </div>
-        <!-- {{ range ( $categories | uniq ) -}} {{.}} {{end}} -->
+
         <div>
           <div class="row shuffle-wrapper">
             {{ range $.Site.Data.pubs.papers.pubs }}
             {{ $pubtype := humanize .howpublished}}
-            <div class="pub-item pub-{{- $pubtype }} infotip portfolio-item shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
-              <!-- {{- $pubtype -}} -->
+            <div class="pub-item pub-{{- $pubtype }} infotip post shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
               <span class="infotiptext">{{i18n $pubtype}}</span>
               <div class="pub-item-author">{{- .author}} ({{.year -}}).</div>
               <div class="pub-item-title" >{{- .title -}}</div>
@@ -72,7 +71,7 @@
 
       </div>
       <div class="col-md-4">
-         <!-- {{ partial "pubs-sidebar.html" . }} -->
+
       </div>
       </div>
     </div>
