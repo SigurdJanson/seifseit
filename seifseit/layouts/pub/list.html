@@ -14,7 +14,7 @@
           <div class="row shuffle-wrapper">
             {{ range $.Site.Data.pubs.papers.pubs }}
             {{ $pubtype := humanize .howpublished}}
-            <div class="pub-item pub-{{- $pubtype }} infotip post shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
+            <div class="pub-item pub-{{- $pubtype }} infotip shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
               <span class="infotiptext">{{i18n $pubtype}}</span>
               <div class="pub-item-author">{{- .author}} ({{.year -}}).</div>
               <div class="pub-item-title" >{{- .title -}}</div>
