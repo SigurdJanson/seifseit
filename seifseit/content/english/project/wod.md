@@ -3,7 +3,7 @@ title: "Wizard of Doughs"
 description: "An ERP for small bakeries"
 draft: false
 discontinued: false
-image : "images/portfolio/work2.jpg"
+image : "images/projects/wod.webp"
 bg_image: "images/feature-bg.jpg"
 category: [ "Blazor", "C#" ]
 information:
