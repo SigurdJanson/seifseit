@@ -10,23 +10,6 @@
 
         <h2>{{i18n "hPublications"}}</h2> <!-- TODO Fix and translate (if possible) the references  -->
 
-        <div class="portfolio-menu">
-          <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
-            <label class="btn btn-sm btn-primary active">
-              <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
-            </label>
-            {{ $categories := slice -}}
-            {{ range $.Site.Data.pubs.papers.pubs -}}
-            {{ $categories = $categories | append (humanize .howpublished) -}}
-            {{ end -}}
-            {{ range ( $categories | uniq ) -}}
-            <label class="btn btn-sm btn-primary">
-              <input type="radio" name="shuffle-filter" value="{{ . }}">{{- i18n . -}}
-            </label>
-            {{- end }}
-          </div>
-        </div>
-
         <div>
           <div class="row shuffle-wrapper">
             {{ range $.Site.Data.pubs.papers.pubs }}
@@ -70,9 +53,26 @@
         </div>
 
       </div>
-      <div class="col-md-4">
-
-      </div>
+    </div>
+    <div class="col-md-4">
+        <aside class="sidebar">
+          <div class="pub-filter">
+            <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
+              <label class="btn btn-sm btn-primary active">
+                <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
+              </label>
+              {{ $categories := slice -}}
+              {{ range $.Site.Data.pubs.papers.pubs -}}
+              {{ $categories = $categories | append (humanize .howpublished) -}}
+              {{ end -}}
+              {{ range ( $categories | uniq ) | sort  -}}
+              <label class="btn btn-sm btn-primary">
+                <input type="radio" name="shuffle-filter" value="{{ . }}">{{- i18n . -}}
+              </label>
+              {{- end }}
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   </div>

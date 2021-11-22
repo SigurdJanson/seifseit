@@ -60,7 +60,23 @@ div.pub-Book::before {
     @include pub-bullet-style();
 }
 
-
+.pub-filter  .btn-group label { //.block .portfolio-menu
+    display: inline-block;
+    border: 1px solid #dedede;
+    padding: 8px 25px;
+    cursor: pointer;
+    font-size: 15px;
+    color: #333;
+    outline: 0;
+    background: #fff;
+    margin: 2px;
+    border-radius: 0;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
 
 // INFOTIPS used in the publication list ================
 .infotip {
