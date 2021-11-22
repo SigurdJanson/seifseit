@@ -22,7 +22,11 @@
     "year": 2002,
     "title": "Heart rate variability during the presentation of emotional films",
 
- "booktitle": "Psychophysiology (Supplement)", 
+    "journal": "Psychophysiology (Supplement)",
+    "number": "1",
+    "volume": "39",
+
+
 
 
 
@@ -35,13 +39,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2002,
     "title": "Anterior EEG trait asymmetry does not predict affective style",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "16",
+
+
 
 
 
@@ -54,7 +62,7 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2002,
@@ -79,7 +87,11 @@
     "year": 2002,
     "title": "The influence of emotional distractors on selection and negative priming",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "16",
+
+
 
 
 
@@ -92,13 +104,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2003,
     "title": "Frontal cortical activation and the behavioral activation system",
 
- "booktitle": "Australian Journal of Psychology (Supplement)", 
+    "journal": "Australian Journal of Psychology (Supplement)",
+    "number": "",
+    "volume": "55",
+
+
 
 
 
@@ -111,13 +127,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2003,
     "title": "Anger in the model of anterior asymmetry",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
+
+
 
 
 
@@ -130,13 +150,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2003,
     "title": "Frontal cortical activity, anger expression, and behavioral activation",
 
- "booktitle": "Psychophysiology (Supplement)", 
+    "journal": "Psychophysiology (Supplement)",
+    "number": "",
+    "volume": "40",
+
+
 
 
 
@@ -149,13 +173,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Holle, H., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2003,
     "title": "Temporal stability of heart period variability in emotion",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
+
+
 
 
 
@@ -168,13 +196,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Kronbergs, A., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2003,
     "title": "Anterior cortical asymmetry and dopamine: Is there a connection?",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
+
+
 
 
 
@@ -187,13 +219,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Naumann, E., Stark, R., Rasch, B., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
     "year": 2003,
     "title": "Viewing affective slides: ERP and event-related fMRI correlates",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "170",
+
+
 
 
 
@@ -206,13 +242,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Rasch, B., Naumann, E., Stark, R., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
     "year": 2003,
     "title": "Interactions between emotion and cognition in the medial prefrontal cortex: an fMRI study",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
+
+
 
 
 
@@ -225,13 +265,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
     "year": 2003,
     "title": "Exploring motivated attention - an ERP study",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
+
+
 
 
 
@@ -244,13 +288,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
     "year": 2003,
     "title": "Do incentives influence the flanker-compatibility-effect?",
 
- "booktitle": "Psychophysiology (Supplement)", 
+    "journal": "Psychophysiology (Supplement)",
+    "number": "",
+    "volume": "40",
+
+
 
 
 
@@ -263,7 +311,7 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2004,
@@ -292,7 +340,11 @@
     "year": 2004,
     "title": "Decreased cortical activity in impulsivity",
 
- "booktitle": "Klinische Neurophysiologie", 
+    "journal": "Klinische Neurophysiologie",
+    "number": "",
+    "volume": "35",
+
+
 
 
 
@@ -303,9 +355,9 @@
 
  "howpublished": "contribution", 
 
+  "doi": "10.1055/s-2004-832018", 
 
-
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2004,
@@ -351,7 +403,11 @@
     "year": 2004,
     "title": "The relation of bilateral frontal cortical activity and behavioral activation on the state and the trait level",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "18",
+
+
 
 
 
@@ -364,13 +420,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
     "year": 2004,
     "title": "Reward and Punishment in a go/nogo-task",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "4",
+    "volume": "18",
+
+
 
 
 
@@ -383,13 +443,17 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Britz, P., Naumann, E., Stark, R., Seifert, J. & Hagemann, D.",
     "year": 2005,
     "title": "Correlation of P3 and the Amygdala in an Emotional Paradigm",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "2",
+    "volume": "19",
+
+
 
 
 
@@ -402,7 +466,7 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2005,
@@ -500,7 +564,11 @@
     "year": 2005,
     "title": "Emotion-Attention Interaction: An ERP Study Using an Emotional Go-Nogo Task",
 
- "booktitle": "Journal of Psychophysiology", 
+    "journal": "Journal of Psychophysiology",
+    "number": "2",
+    "volume": "16",
+
+
 
 
 
@@ -513,7 +581,7 @@
 
 
 
-    "bibtextype": "Conference"
+    "bibtextype": "Article"
 },{
     "author": "Seifert, J.",
     "year": 2005,
@@ -578,7 +646,7 @@
 },{
     "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
     "year": 2006,
-    "title": "Motivated executive attention&mdash;incentives and the noise-compatibility effect",
+    "title": "Motivated executive attention - incentives and the noise-compatibility effect",
 
     "journal": "Biological Psychology",
     "number": "1",

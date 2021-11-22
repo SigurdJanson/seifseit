@@ -20,14 +20,20 @@ one = "Hrsg."
 other = "Hrsg."
 
 # publication types
-[paper]
+[Paper]
 other = "Artikel"
 
-[talk]
+[Talk]
 other = "Vortrag"
 
-[poster]
+[Poster]
 other = "Poster"
+
+[Book]
+other = "Buch"
+
+[Contribution]
+other = "Beitrag"
 
 ###
 [hDiscontinuedProjects]

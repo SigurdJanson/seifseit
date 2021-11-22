@@ -24,6 +24,8 @@
 .pub-item {
     margin-top: 24px;
     display:list-item;
+    list-style-position:inside;
+    list-style-type: "";
 }
 .pub-item-author {
     color:$secondary-color;
@@ -37,22 +39,28 @@
     display: inline-block;
     font-family: "Ionicons";
   }
-li.pub-::before {
+div.pub-Contribution::before {
     content: "\f401";
     @include pub-bullet-style();
 }
-li.pub-paper::before {
+div.pub-Paper::before {
     content: "\f2bf";
     @include pub-bullet-style();
 }
-li.pub-talk::before {
+div.pub-Talk::before {
     content: "\f461";
     @include pub-bullet-style();
 }
-li.pub-poster::before {
+div.pub-Poster::before {
     content: "\f3ca";
     @include pub-bullet-style();
 }
+div.pub-Book::before {
+    content: "\f3e8";
+    @include pub-bullet-style();
+}
+
+
 
 // INFOTIPS used in the publication list ================
 .infotip {

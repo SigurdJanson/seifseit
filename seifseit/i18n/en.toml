@@ -20,15 +20,20 @@ one = "Ed."
 other = "Eds."
 
 # publication types
-[paper]
+[Paper]
 other = "Paper"
 
-[talk]
+[Talk]
 other = "Talk"
 
-[poster]
+[Poster]
 other = "Poster"
 
+[Book]
+other = "Book"
+
+[Contribution]
+other = "Contribution"
 
 
 ###

@@ -2,54 +2,78 @@
 
 {{ partial "page-title.html" . }}
 
-
-<div class="page-wrapper">
+<div class="page-wrapper portfolio-work">
   <div class="container">
     <div class="row">
       <div class="col-md-8">
+        <div class="block">
+
         <h2>{{i18n "hPublications"}}</h2> <!-- TODO Fix and translate (if possible) the references  -->
-        <ul>
-          {{ range $.Site.Data.pubs.papers.pubs }}
-          {{ $pubtype := lower .howpublished}}
-          <li class="pub-item pub-{{$pubtype}} infotip">
-            <span class="infotiptext">{{i18n $pubtype}}</span>
-            <div class="pub-item-author">{{ .author }} ({{ .year }}).</div>
-            <div class="pub-item-title" >{{ .title }}</div>
-            <div>
-            {{ if or (eq .bibtextype "Conference") ((eq .bibtextype "InProceedings")) }}
-              {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }}
-            {{ end }}
 
-            {{ if eq .bibtextype "Article" }}
-              {{.journal}}{{with.number}}, {{.}}{{end}} {{with .volume}}({{.}}){{end}}, {{with .pages}}{{i18n "pages-abbr"}}{{.}}{{end}}
-            {{ end }}
+        <div class="portfolio-menu">
+          <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
+            <label class="btn btn-sm btn-primary active">
+              <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
+            </label>
+            {{ $categories := slice -}}
+            {{ range $.Site.Data.pubs.papers.pubs -}}
+            {{ $categories = $categories | append (humanize .howpublished) -}}
+            {{ end -}}
+            {{ range ( $categories | uniq ) -}}
+            <label class="btn btn-sm btn-primary">
+              <input type="radio" name="shuffle-filter" value="{{ . | urlize }}">{{ i18n . }}
+            </label>
+            {{- end }}
+          </div>
+        </div>
+        <!-- {{ range ( $categories | uniq ) -}} {{.}} {{end}} -->
+        <div>
+          <div class="row shuffle-wrapper">
+            {{ range $.Site.Data.pubs.papers.pubs }}
+            {{ $pubtype := humanize .howpublished}}
+            <div class="pub-item pub-{{- $pubtype }} infotip portfolio-item shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
+              <!-- {{- $pubtype -}} -->
+              <span class="infotiptext">{{i18n $pubtype}}</span>
+              <div class="pub-item-author">{{- .author}} ({{.year -}}).</div>
+              <div class="pub-item-title" >{{- .title -}}</div>
+              <div>
+              {{ if or (eq .bibtextype "Conference") ((eq .bibtextype "InProceedings")) -}}
+                {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} 
+                {{- if isset . "publisher" -}}, {{with .address }} {{ . }}:{{end}} {{.publisher}}{{- end}}
+              {{- end }}
 
-            {{ if eq .bibtextype "Book" }}
-              {{with .address }} {{ . }}:{{end}} {{.publisher}}
-            {{ end }}
+              {{ if eq .bibtextype "Article" }}
+                {{.journal}}{{with .volume -}}, {{.}}{{- end}}{{with .number}} ({{.}}){{end}}{{with .pages}}, {{i18n "pages-abbr"}}&nbsp;{{.}}{{end}}
+              {{ end }}
 
-            {{ if eq .bibtextype "Misc" }}
-              {{.note}}
-            {{ end }}
+              {{ if eq .bibtextype "Book" }}
+                {{with .address }} {{ . }}:{{end}} {{.publisher}}
+              {{ end }}
 
-            {{ if eq .bibtextype "MastersThesis" }}
-              {{.type}} {{.school}}
-            {{ end }}
+              {{ if eq .bibtextype "Misc" }}
+                {{.note}}
+              {{ end }}
 
-            {{ if eq .bibtextype "Incollection"}}
-              {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
-            {{ end }}
-            <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
+              {{ if eq .bibtextype "MastersThesis" }}
+                {{.type}}, {{.school}}
+              {{ end }}
+
+              {{ if eq .bibtextype "Incollection"}}
+                {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
+              {{ end }}
+              <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
+              </div>
+              {{with .doi}}<a class="btn btn-light animated fadeInUp" href="{{ . | printf "%s%s" "https://doi.org/" | absURL }}">doi</a>{{end}}
+              {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{relURL .}}">{{i18n "btnDownload"}}</a>{{end}}
             </div>
-            {{with .doi}}<a class="btn btn-light animated fadeInUp" href="{{.}}">doi</a>{{end}}
-            {{with .url}}<a class="btn btn-light animated fadeInUp" href="{{.}}">{{i18n "btnDownload"}}</a>{{end}}
-          </li>
-          {{ end }}
-        </ul>
+            {{ end }}
+          </div>
+        </div>
 
       </div>
       <div class="col-md-4">
          <!-- {{ partial "pubs-sidebar.html" . }} -->
+      </div>
       </div>
     </div>
   </div>
