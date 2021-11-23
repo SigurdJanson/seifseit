@@ -16,8 +16,6 @@ draft: false
 type: writing
 ---
 
-> If my answers frighten you, Vincent, then you should cease asking scary questions. *Jules Winnfield in Pulp Fiction*
-
 People often say: "there are no stupid questions". We use that phrase especially in our role as teachers when encouraging students to ask away. Or as managers to encourage openness in our team. But what may be true in some contexts, can be wrong in others. In user research there are stupid — or let us say dangerous questions. Dangerous questions leave you with fake insight and make ...
 </p>
 
