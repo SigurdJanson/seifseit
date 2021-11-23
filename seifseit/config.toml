@@ -6,7 +6,7 @@ theme = "airspace-hugo-1.1.0"
 # Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 timeZone = "CET"
 # Number of posts per page in list view
-paginate = "4"
+paginate = "6"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
@@ -62,7 +62,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params.contact]
 # Address block
 phone = ""
-email = "demo@email.com" # TODO
+email = "admin@seifseit.de"
 location = """
 **Dr. Jan Seifert**  
 Im Vogelsang 20  
@@ -191,7 +191,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 2
-copyright = "Copyright &copy; 2021 [Jan](https://www.seifseit.de). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -207,7 +207,7 @@ languageName = "Français"
 languageCode = "fr-FR"
 contentDir = "content/french"
 weight = 2
-copyright = "Copyright &copy; 2021 [JAn](https://www.seifseit.de). Tous droits réservés."
+copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Tous droits réservés."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -223,7 +223,7 @@ languageName = "Italiano"
 languageCode = "it-IT"
 contentDir = "content/italian"
 weight = 2
-copyright = "Copyright &copy; 2021 [Jan](https://www.seifseit.de). Tutti i diritti riservati."
+copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Tutti i diritti riservati."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -239,7 +239,7 @@ languageName = "Deutsch"
 languageCode = "de-DE"
 contentDir = "content/german"
 weight = 1
-copyright = "Copyright &copy; 2021 [Jan](https://www.seifseit.de). Alle Rechte vorbehalten."
+copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Alle Rechte vorbehalten."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
