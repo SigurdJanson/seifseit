@@ -6,7 +6,7 @@ image : "images/blog/pitch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 languages: ["German"]
-tags: ["Business behind Design", "Quality Management", "Manuscript"]
+tags: ["Business behind Design", "Quality Management"]
 description: ""
 draft: false
 type: "writing"

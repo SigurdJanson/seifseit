@@ -4,8 +4,8 @@ date: 2020-02-16
 author: Jan Seifert
 image : "images/blog/contintresearch.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["User Research"]
-tags: ["", ""]
+categories: ["User Experience"]
+tags: ["User Research", ""]
 languages: ["English"]
 description: "A vision"
 draft: false

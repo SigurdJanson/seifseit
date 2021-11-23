@@ -4,8 +4,8 @@ date: 2012-12-04
 author: Jan Seifert
 image : "images/blog/representative.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["User Research", "User Experience"]
-tags: ["User Research", "Empiricism", "Manuscript"]
+categories: ["User Experience"]
+tags: ["User Research", "Empiricism"]
 languages: ["German"]
 description: ""
 draft: false

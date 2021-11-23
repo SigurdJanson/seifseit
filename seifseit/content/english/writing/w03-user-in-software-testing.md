@@ -4,8 +4,8 @@ date: 2015-03-22
 author: Jan Seifert
 image : "images/blog/nonutzerinsoftware.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["User Experience"]
-tags: ["User Research", "Usability Test", "Manuscript"]
+categories: ["User Experience", "Software Testing"]
+tags: ["User Research", "Usability Test"]
 languages: ["German"]
 description: ""
 draft: false

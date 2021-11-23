@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/skeuomorph.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
-tags: ["Design", "Manuscript"]
+tags: ["Design"]
 languages: ["German"]
 description: ""
 draft: false

@@ -5,10 +5,10 @@ author: Jan Seifert
 image: images/blog/dangerousquestions.webp
 bg_image: images/feature-bg.jpg
 categories:
-    - User Research
+    - User Experience
 tags:
-    - ''
-    - ''
+    - Leadership
+    - User Research
 languages:
     - English
 description: 'In research we have to be extra careful when it comes to asking questions'

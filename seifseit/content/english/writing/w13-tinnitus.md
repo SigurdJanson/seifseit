@@ -4,8 +4,8 @@ date: 2010-01-19
 author: Jan Seifert
 image : "images/blog/tinnitus.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["Psychologie"]
-tags: ["Manuscript", ""]
+categories: ["Psychology"]
+tags: ["", ""]
 languages: ["German"]
 description: ""
 draft: false

@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/polfilter.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Photography"]
-tags: ["Manuscript", ""]
+tags: ["", ""]
 languages: ["German"]
 description: ""
 draft: false

@@ -7,7 +7,7 @@ bg_image: images/feature-bg.jpg
 categories:
   - User Experience
 tags:
-  - 'Leadership'
+  - Leadership
   - ''
 languages:
   - English

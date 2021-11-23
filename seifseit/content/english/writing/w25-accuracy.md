@@ -5,7 +5,7 @@ author: Jan Seifert
 image: images/blog/accuracy.webp
 bg_image: images/feature-bg.jpg
 categories:
-  - Psychology
+  - Software Testing
 tags:
   - 'R'
   - ''
