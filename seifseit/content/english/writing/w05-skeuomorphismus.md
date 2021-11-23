@@ -8,7 +8,6 @@ categories: ["User Experience"]
 tags: ["Design", "Manuscript"]
 languages: ["German"]
 description: ""
-description: ""
 draft: false
 type: "writing"
 ---
