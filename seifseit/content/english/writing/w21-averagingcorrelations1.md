@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/averagingcorrelations1.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
-tags: ["", ""]
+tags: ["R", ""]
 languages: ["English"]
 description: ""
 draft: false
@@ -17,4 +17,4 @@ It is not possible to average correlation coefficients. In my studies I found th
 
 This first episode introduces the approach and investigates Fisher’s and Hotelling’s z (Fisher, 1921; Hotelling, 1953) with averaged correlations taken from a correlation matrix based on normal distributed samples.
 
-<a href="https://medium.com/@jan.seifert/averaging-correlations-part-i-3adab6995042?source=friends_link&sk=fb1db5120d0122304f92e4e54c4cba3d">Read the full story ...</a>
+<a class="btn btn-main" href="https://medium.com/@jan.seifert/averaging-correlations-part-i-3adab6995042?source=friends_link&sk=fb1db5120d0122304f92e4e54c4cba3d">Read the full story on Medium</a>
