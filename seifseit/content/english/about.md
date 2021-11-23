@@ -79,24 +79,33 @@ features:
   feature_item:
   # feature item loop
   - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Personal App Development"
-    content : "Searching for a better understanding of technology several projects keep me busy in my own time using [R](www.r-project.org) and [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
+    name : "App Development"
+    content : "In search for a better understanding of technology several projects keep me busy using [R](www.r-project.org) and [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
 
   # feature item loop
   - icon : "ion-bag" #ionicon pack v2 : https://ionicons.com/v2/
     name : "eCommerce"
-    content : "Responsible for digital affairs and design for our little family business at [Ankes Keksgenuss](https://keksgenuss.de)."
+    content : "Responsible for digital affairs and design for our little family business at [Ankes Keksgenuss](https://keksgenuss.de).<br/> &nbsp;"
 
   # feature item loop
   - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "User Experience"
-    content : "Many years in User Experience Design as active designer, researcher, project and team lead."
-
+    content : "Many years in [User Experience Design](https://www.uid.com) as designer and researcher, as project and team lead and as consultant for higher product success."
 
   # feature item loop
   - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Connected"
     content : "Looking for valuable connections in communities, the [German UPA chapter](https://www.germanupa.de/), conferences and talks."
+
+  # feature item loop
+  - icon : "ion-ios-nutrition-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Cooking"
+    content : "Do you know any great examples of simple crossover food? Let me know."
+
+  # feature item loop
+  - icon : "ion-wand" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Stories"
+    content : "Reading stories, imagining stories, immersing into stories."
 
 
 
