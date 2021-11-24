@@ -10,7 +10,13 @@ languages: ["German"]
 description: ""
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "User Researcher"
 ---
 
 
 Der Begriff der Repräsentativität gehört zu den zentralen Konzepten in der Empirik. Dabei wird er oft nur ungenügend verstanden. Dies ist der Versuch ein wenig Licht ins Dunkel zu bringen. </p>
+
+
+<a class="btn btn-main" href="/download/Repraesentativitaet-Begriffsklaerung.pdf">Get file ...</a>

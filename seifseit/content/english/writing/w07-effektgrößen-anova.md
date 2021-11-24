@@ -5,12 +5,17 @@ author: Jan Seifert
 image : "images/blog/measure.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
-tags: ["", ""]
+tags: []
 languages: ["German"]
 description: ""
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "Social scientists"
 ---
 
 
 Übersicht über die üblichen Effektgrößen in der Varianzanalyse und den Umgang mit diesen Kenngrößen. Sie können von großem Nutzen sein, wenn man weiß, wie man sie einsetzen muss, aber das Thema ist undurchsichtig. Verschiedene Autoren bevorzugen unterschiedliche Größen und die mathematischen Hintergründe machen die Auswahl für Anfänger nicht einfacher.</p>
+
+<a class="btn btn-main" href="/download/Effektgroessen.pdf">Get file ...</a>
