@@ -10,8 +10,11 @@
 
 // OVERWRITES 
 
-.bg-dark a { // <a/> inside a section with dark background
+.bg-dark p { // <p/> inside a section with dark background
     color:$light;
+}
+.bg-dark a { // <a/> inside a section with dark background
+    color:$secondary-color;
 }
 
 .about .about-img img:hover {

@@ -1,9 +1,10 @@
 // Fonts
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
 @import url(https://fonts.googleapis.com/css?family=Volkhov:400italic);
-
-
+ */
+ @import url(https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap);
+ @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 
 
 body {
@@ -64,7 +65,7 @@ h4 {
 }
 
 p {
-  color: #7B7B7B;
+  color: $black;
   font-size: 15px;
   font-family: $primary-font;
 }
