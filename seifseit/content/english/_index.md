@@ -44,11 +44,11 @@ recent-posts:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "We design delightful digital experiences."
-  content: "{{< tweet 877500564405444608 >}}"
+  content: "Arakadabra" 
   button:
     enable: true
     label: "Latest Activity"
-    link: "TODO" # TODO
+    link: "https://www.uid.com/" # TODO
 
 
 
@@ -72,7 +72,7 @@ service:
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About Us"
+  title: "Fun Facts About Me"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop
