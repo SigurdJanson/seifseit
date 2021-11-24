@@ -2,8 +2,21 @@
 [btnDownload]
 other = "Download"
 
+[lblYear]
+other = "Jahr"
+
 [hLanguage]
 other = "Sprache"
+
+[lblLanguage]
+one = "Sprache"
+other = "Sprachen"
+
+[English]
+other = "Englisch"
+
+[German]
+other = "Deutsch"
 
 # Pubs
 [hPaperDetails]

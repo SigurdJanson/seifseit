@@ -13,8 +13,6 @@ type: "writing"
 information:
   - label : "Target Group"
     info : "Design & Project Managers"
-  - label : "Language"
-    info : "German"
 ---
 
 
