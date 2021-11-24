@@ -10,6 +10,14 @@ languages: ["German"]
 description: ""
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "Designers & CX Managers"
+  - label : "Language"
+    info : "German"
 ---
 
+Gamification ist der aktuelle Trend in der User Experience. „Gamification is the use of game design elements in non-game contexts“ (Deterding, 2011). Diese Game Design Elemente, von denen hier gesprochen wird, stellen aus der Sicht der Gamification also eine homogene Sammlung von Werkzeugen, sprich UI Patterns, dar. Wie anders wäre sonst zu erklären, dass es Überblicksarbeiten gibt mit dem Titel „Does Gamification Work?“ (Hamari, Koivisto & Sarsa, 2014) gibt oder dass Autoren sich an allumfassenden Systematiken versuchen (z.B. Schering, 2014). Die folgende Seiten wagen einen Blick unter ...
+
+<a class="btn btn-main" href="/download/Gamification_KritischerBlick.pdf">Get file ...</a>
 
