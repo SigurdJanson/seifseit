@@ -8,11 +8,11 @@ bg_image: "images/feature-bg.jpg"
 category: [ "Blazor", "C#" ]
 information:
   - label : "Client"
-    info : "Ankes Kekesgenuss"
+    info : "Ankes Keksgenuss"
   - label : "What I do"
     info : "Design, Implementation"
   - label : "Tools used"
-    info : "-"
+    info : "Pen & Paper; Git"
   - label : "Status"
     info : "In progress"
   - label : "Skills"
