@@ -10,8 +10,14 @@ languages: ["German"]
 description: "Wichtige Begriffe der Arbeits-, Betriebs- und Organisationspsychologie"
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "Psychology students"
 ---
 
 
 Ursprünglich mal für die Prüfungsvorbereitung (vor einiger Zeit) entwickelt. Wer vorher noch keinen intensiveren Kontakt zur A&O-Psychologie hatte, kann dieses Nachschlagewerk bestimmt gut gebrauchen.
 </p>
+
+<a class="btn btn-main" href="/download/GlossarABO.pdf">Get file ...</a>
+
