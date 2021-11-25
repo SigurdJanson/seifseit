@@ -17,10 +17,10 @@
           <h4>{{i18n "hPaperDetails"}}</h4>
           <ul>
             {{ range .Params.information }}
-            <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            <li><span>{{ .label }}:</span> <strong>{{ .info | markdownify }}</strong></li>
             {{ end }}
-            <li><span>{{ i18n "lblLanguage" }} :</span> <strong>{{range .Params.languages}}{{ . | markdownify }}{{ end }}</strong></li>
-            <li><span>{{ i18n "lblYear" }} :</span> <strong>{{ .Date.Format "2006" | markdownify }}</strong></li>
+            <li><span>{{ i18n "lblLanguage" }}:</span> <strong>{{range .Params.languages}}{{ . | markdownify }}{{ end }}</strong></li>
+            <li><span>{{ i18n "lblYear" }}:</span> <strong>{{ .Date.Format "2006" | markdownify }}</strong></li>
           </ul>
         </div>
       </div>
