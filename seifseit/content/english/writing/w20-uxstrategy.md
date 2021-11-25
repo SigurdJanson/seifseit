@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/strategy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
-tags: ["Leadership", ""]
+tags: ["Leadership"]
 languages: ["English"]
 description: "About the over(ab)use of a word in design"
 draft: false

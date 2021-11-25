@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/pharmatherapy.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
-tags: ["", ""]
+tags: ["Therapy"]
 languages: ["German"]
 description: ""
 draft: false

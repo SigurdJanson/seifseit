@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/koreanisch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Language"]
-tags: ["", ""]
+tags: []
 languages: ["German"]
 description: ""
 draft: false

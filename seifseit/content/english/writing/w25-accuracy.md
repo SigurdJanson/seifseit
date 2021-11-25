@@ -8,7 +8,6 @@ categories:
   - Software Testing
 tags:
   - 'R'
-  - ''
 languages:
   - English
 description: 'A story about abrasion, leakage, and drift'

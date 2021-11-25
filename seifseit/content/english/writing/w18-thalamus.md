@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/blog-post-2.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Brain Sciences"]
-tags: ["", ""]
+tags: []
 languages: ["German"]
 description: ""
 draft: false

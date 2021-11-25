@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/crosscorrelation.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
-tags: ["R", ""]
+tags: ["R"]
 languages: ["English"]
 description: "What the man page will not tell you…"
 draft: false

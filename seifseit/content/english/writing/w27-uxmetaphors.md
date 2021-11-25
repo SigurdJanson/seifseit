@@ -7,8 +7,6 @@ bg_image: images/feature-bg.jpg
 categories:
     - User Experience
 tags:
-    - ''
-    - ''
 languages:
     - English
 description: 'Communicate your craft better with imagery'

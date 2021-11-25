@@ -8,7 +8,6 @@ categories:
   - User Experience
 tags:
   - Leadership
-  - ''
 languages:
   - English
 description: ''

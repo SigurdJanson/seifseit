@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/averagingcorrelations1.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Statistics"]
-tags: ["R", ""]
+tags: ["R"]
 languages: ["English"]
 description: ""
 draft: false
