@@ -2,7 +2,7 @@
 title: "Die Amygdala"
 date: 2002-06-07
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/amygdala.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Brain Sciences"]
 tags: []
