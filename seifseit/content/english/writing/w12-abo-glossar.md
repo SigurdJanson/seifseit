@@ -2,7 +2,7 @@
 title: "Glossar für die ABO-Psychologie"
 date: 2010-02-08
 author: Jan Seifert
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/aboglossar.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
 tags: ["Employee Experience"]
@@ -20,4 +20,3 @@ Ursprünglich mal für die Prüfungsvorbereitung (vor einiger Zeit) entwickelt. 
 </p>
 
 <a class="btn btn-main" href="/download/GlossarABO.pdf">Get file ...</a>
-
