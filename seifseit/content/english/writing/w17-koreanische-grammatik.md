@@ -13,4 +13,7 @@ type: "writing"
 ---
 
 
-Soweit es mein bescheidenes Wissen erlaubt habe ich diese Grammatik hier zusammengeschrieben. Das Dokument wird leider nicht mehr regelmäßig erweitert und überarbeitet, obwohl sicherlich noch einige Fehler darin. Diese Grammatik wird zwar der Prüfung eines Sprachwissenschaftlers wohl kaum standhalten, aber sie umfasst doch zahlreiche Grundregeln, die auf nachvollziehbare Weise aufbereitet wurden. </p>
+Soweit es mein bescheidenes Wissen erlaubt habe ich diese Grammatik hier zusammengeschrieben. Gelegentlich optimiere ich dieses Dokument erweitere, überarbeite und korrigiere es. Diese Grammatik wird zwar der Prüfung eines Sprachwissenschaftlers wohl kaum standhalten, aber sie umfasst doch zahlreiche Grundregeln, die auf nachvollziehbare Weise aufbereitet wurden. </p>
+
+<a class="btn btn-main" href="/download/Koreanische_Grammatik.pdf">Get file ...</a>
+
