@@ -1,0 +1,4 @@
+{{- $sidebarWidgets := site.Params.widgets.writingssidebar -}}
+<aside class="sidebar">
+  {{- partial "widgets/widget_area" ( dict "Widgets" $sidebarWidgets "Scope" . ) -}}
+</aside>
