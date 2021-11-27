@@ -14,7 +14,7 @@ information:
   - label : "Status"
     info : "Iterating"
   - label : "Skills"
-    info : "R / Shiny; HTML / CSS; DSA 5"
+    info : "R / Shiny; HTML / CSS; DSA&nbsp;5"
   - label : "Client"
     info : "The Dark Eye Community"
 ---
@@ -51,4 +51,7 @@ An interface to roll the dice based on the ["dark eye" rule system](https://ulis
 * Language can only be changed in the source code of the script.
 * FE is still ignorant of some very pecial rules for weapons; e.g. rolling a 19 with an improvised weapon is actually a botch but FE is not aware of that.
 * FE does not know rules that are specific for a weapon.
-* 
+
+<br/>
+<a href="https://github.com/SigurdJanson/Fate-Explorer">Find on Github</a>
+

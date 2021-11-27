@@ -30,3 +30,5 @@ This package provides an [`R`](https://www.r-project.org/) [Shiny](https://shiny
 
 The calling app can set a default of these options, too. Additionally, it can specify in detail which columns it expects including their name and format.
 
+<br/>
+<a href="https://github.com/SigurdJanson/shinyCSVImpoMod">Find on Github</a>
