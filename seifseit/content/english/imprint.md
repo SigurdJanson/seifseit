@@ -40,8 +40,9 @@ Most of the images have been created by ourselves. A few images are taken from t
 
 seifseit.de would not have been possible without the following:
 
- 
+
 * Our provider [Alfahosting](https://alfahosting.de/)  
+  
 * [The static website builder Hugo](https://gohugo.io/)  
 * [LibreOffice](https://de.libreoffice.org)  
 * [Inkscape](https://inkscape.org)  
@@ -61,19 +62,19 @@ Spam is not only an issue of mails. Spam often disguises itself as serious press
 
 ### Used Images
  
-* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), [Yellow and Green Led Light](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) and [Person Using Silver Macbook on White Table](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) by [Cottonbro](https://www.pexels.com/@cottonbro).
-
-* [Bird's Eye View of Group of People](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) by [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
+* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) and ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) by [Cottonbro](https://www.pexels.com/@cottonbro).
+  
+* ["Bird's Eye View of Group of People"](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) by [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
 * ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) by [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).
 * ["Crowd of people inside white building"](https://www.pexels.com/photo/crowd-of-people-inside-white-building-1770808/) by [Luis Dalvan](https://www.pexels.com/@luisdalvan).
 * ["Crop doctor showing pills to patient in clinic"](https://www.pexels.com/photo/crop-doctor-showing-pills-to-patient-in-clinic-4021808/) by [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska).
-* [Collection of Books in Bookshelves](https://www.pexels.com/photo/collection-of-books-in-bookshelves-9565975/) by [Taryn Elliott](https://www.pexels.com/@taryn-elliott).
-* [Focus Photo of Camera Lens](https://www.pexels.com/photo/focus-photo-of-camera-lens-752525/) by [Omar Houchaimi](https://www.pexels.com/@omarhouc).
-* [landscape-nature-person-hands](https://www.pexels.com/photo/landscape-nature-person-hands-1927595/) by [Ravi Kant](https://www.pexels.com/@ravikant).
-* (Closeup Photography of Metal Frame)[https://www.pexels.com/photo/closeup-photography-of-metal-frame-352097/] by  [kumar gaurav](https://www.pexels.com/@gaurav007)
-* [Gray Metal Cubes Decorative](https://www.pexels.com/photo/gray-metal-cubes-decorative-1005644/) by [Oleg Magni](https://www.pexels.com/@oleg-magni).
-* [Code on a Screen](https://www.pexels.com/photo/code-on-a-screen-4383298/) by [Markus Spiske](https://www.pexels.com/@markusspiske).
-* [White and Brown Round Frame](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) by [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
-* [Splashing of Flour over Dough](https://www.pexels.com/@klaus-nielsen) by [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen).
-* [Person Welding Wearing a Prootective Metal Mask](https://www.pexels.com/photo/person-welding-wearing-a-prootective-metal-mask-3158651/) by [Kateryna Babaieva](https://www.pexels.com/@kateryna-babaieva-1423213)
+* ["Collection of Books in Bookshelves"](https://www.pexels.com/photo/collection-of-books-in-bookshelves-9565975/) by [Taryn Elliott](https://www.pexels.com/@taryn-elliott).
+* ["Focus Photo of Camera Lens"](https://www.pexels.com/photo/focus-photo-of-camera-lens-752525/) by [Omar Houchaimi](https://www.pexels.com/@omarhouc).
+* ["landscape-nature-person-hands"](https://www.pexels.com/photo/landscape-nature-person-hands-1927595/) by [Ravi Kant](https://www.pexels.com/@ravikant).
+* ["Closeup Photography of Metal Frame"](https://www.pexels.com/photo/closeup-photography-of-metal-frame-352097/) by  [kumar gaurav](https://www.pexels.com/@gaurav007)
+* ["Gray Metal Cubes Decorative"](https://www.pexels.com/photo/gray-metal-cubes-decorative-1005644/) by [Oleg Magni](https://www.pexels.com/@oleg-magni).
+* ["Code on a Screen"](https://www.pexels.com/photo/code-on-a-screen-4383298/) by [Markus Spiske](https://www.pexels.com/@markusspiske).
+* ["White and Brown Round Frame"](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) by [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
+* ["Splashing of Flour over Dough"](https://www.pexels.com/@klaus-nielsen) by [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen).
+* ["Person Welding Wearing a Prootective Metal Mask"](https://www.pexels.com/photo/person-welding-wearing-a-prootective-metal-mask-3158651/) by [Kateryna Babaieva](https://www.pexels.com/@kateryna-babaieva-1423213)
 * 

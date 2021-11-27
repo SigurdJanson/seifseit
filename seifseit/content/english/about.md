@@ -30,10 +30,16 @@ User Experience Dienstleistungen: In 2005 trat Jan Seifert in die User Interface
 ### Interessensschwerpunkte
 
 * Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
+
 * User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
+
 * Processberatung in Sachen Usability
+
 * Design Leadership
+
 * Organisationsdesign
+
+
 
 ### Publikationen
 
