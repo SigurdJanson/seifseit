@@ -10,6 +10,19 @@
 
 // OVERWRITES 
 
+ul {
+    list-style-image: url("/images/globe-favicon.svg");
+    padding-left: revert;
+}
+nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.address-block, ul.social-icons {
+    list-style-type: none;
+    list-style-image: none;
+    padding-left: 0;
+}
+
+
+
+
 .bg-dark p { // <p/> inside a section with dark background
     color:$light;
 }
