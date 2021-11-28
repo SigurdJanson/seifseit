@@ -16,7 +16,7 @@ information:
 ---
 
 
-Der Begriff der Repräsentativität gehört zu den zentralen Konzepten in der Empirik. Dabei wird er oft nur ungenügend verstanden. Dies ist der Versuch ein wenig Licht ins Dunkel zu bringen. </p>
+Der Begriff der Repräsentativität gehört zu den zentralen Konzepten in der Marktforschung. Auf den ersten Blick ist sie einfach zu verstehen. Wer mal genauer hin schaut, stellt fest, dass das Konzept undurchsichtiger und komplizierter ist, als es scheint. Dies ist der Versuch ein wenig Licht ins Dunkel zu bringen. </p>
 
 
 <a class="btn btn-main" href="/download/Repraesentativitaet-Begriffsklaerung.pdf">Get file ...</a>
