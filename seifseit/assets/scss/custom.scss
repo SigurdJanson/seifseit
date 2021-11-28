@@ -39,9 +39,11 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
 
 .pub-item {
     margin-top: 24px;
-    display:list-item;
+    //display:list-item;
     list-style-position:inside;
     list-style-type: "";
+    display:list-item;
+    width:100%;
 }
 .pub-item-author {
     color:$secondary-color;
@@ -55,28 +57,28 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
     display: inline-block;
     font-family: "Ionicons";
   }
-div.pub-Contribution::before {
+div.pub-Contribution::marker {
     content: "\f401";
     @include pub-bullet-style();
 }
-div.pub-Paper::before {
+div.pub-Paper::marker {
     content: "\f2bf";
     @include pub-bullet-style();
 }
-div.pub-Talk::before {
+div.pub-Talk::marker {
     content: "\f461";
     @include pub-bullet-style();
 }
-div.pub-Poster::before {
+div.pub-Poster::marker {
     content: "\f3ca";
     @include pub-bullet-style();
 }
-div.pub-Book::before {
+div.pub-Book::marker {
     content: "\f3e8";
     @include pub-bullet-style();
 }
 
-.pub-filter  .btn-group label { //.block .portfolio-menu
+.pub-filter .btn-group label { //.block .portfolio-menu
     display: inline-block;
     border: 1px solid #dedede;
     padding: 8px 25px;
@@ -108,7 +110,7 @@ div.pub-Book::before {
     color: $secondary-color;
     text-align: right;
     padding: 5px 0;
-    border-radius: 6px;
+    border-radius:6px;
    
     /* Position the tooltip text - see examples below! */
     position: absolute;

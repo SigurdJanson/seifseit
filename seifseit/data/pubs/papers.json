@@ -533,7 +533,7 @@
 
  "howpublished": "paper", 
 
-  "doi": "http://dx.doi.org/10.1080/02699930541000084", 
+  "doi": "10.1080/02699930541000084", 
 
     "bibtextype": "Article"
 },{
@@ -726,7 +726,7 @@
 
  "howpublished": "paper", 
 
-  "doi": "https://doi.org/10.1016/j.ijpsycho.2007.12.003", 
+  "doi": "10.1016/j.ijpsycho.2007.12.003", 
 
     "bibtextype": "Article"
 },{

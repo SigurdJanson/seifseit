@@ -11,8 +11,8 @@
         <h2>{{i18n "hPublications"}}</h2>
 
         <div>
-          <div class="row shuffle-wrapper">
-            {{ range $.Site.Data.pubs.papers.pubs }}
+          <div class="shuffle-wrapper">
+            {{ range sort $.Site.Data.pubs.papers.pubs "year" "desc" -}}
             {{ $pubtype := humanize .howpublished}}
             <div class="pub-item pub-{{- $pubtype }} infotip shuffle-item" data-groups="[&quot;{{- $pubtype -}}&quot;]">
               <span class="infotiptext">{{i18n $pubtype}}</span>
@@ -25,7 +25,7 @@
               {{- end }}
 
               {{ if eq .bibtextype "Article" }}
-                {{.journal}}{{with .volume -}}, {{.}}{{- end}}{{with .number}} ({{.}}){{end}}{{with .pages}}, {{i18n "pages-abbr"}}&nbsp;{{.}}{{end}}
+                {{htmlUnescape .journal}}{{with .volume -}}, {{.}}{{- end}}{{with .number}} ({{.}}){{end}}{{with .pages}}, {{i18n "pages-abbr"}}&nbsp;{{.}}{{end}}
               {{ end }}
 
               {{ if eq .bibtextype "Book" }}
@@ -43,7 +43,6 @@
               {{ if eq .bibtextype "Incollection"}}
                 {{ with .editor }}In {{ . }} ({{i18n "editors-abbr" }}),{{end}} {{ .booktitle }} ({{with .pages}} {{ i18n "pages-abbr" }} {{ . }} {{end}}). {{with .address }} {{ . }}:{{end}} {{ .publisher }}.
               {{ end }}
-              <!-- TODO Informatik Aktuell paper wird richtig dargestellt? -->
               </div>
               {{with .doi -}}
                 <a class="btn btn-light animated fadeInUp" href="{{ . | printf "%s%s" "https://doi.org/" | absURL }}" target="_blank">doi</a>
