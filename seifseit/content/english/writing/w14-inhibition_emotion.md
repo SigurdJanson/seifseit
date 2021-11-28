@@ -2,17 +2,17 @@
 title: "Emotional Stimuli & Negative Priming"
 date: 2001-05-04
 author: Jan Seifert
-image : "images/blog/feature-bg.jpg"
+image : "images/blog/diplomarbeit.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["Psychology"]
-tags: ["Therapy"]
+tags: ["Cognitive Psychology"]
 languages: ["German"]
 description: "The effect of emotional stimulus properties on the semantic negative priming effect"
 draft: false
 type: "writing"
 information:
   - label : "Target Group"
-    info : "Psychology students"
+    info : "Psychologists"
 ---
 
 In  the  last  few  years  preattentive  processes  of  emotional  evaluation  have  repeatedly been related to attentional processes. This approach is the matter this thesis is going into. The concept  of  “selection  for  action”  investigates  attentional  selection  on  the  level  of  response choice. This was  considered  to  be  especially  suited  for  a  combination with  the  concept  of emotion  as  an  “action  disposition”, which  stresses  the  immediate  access  of  emotion  to  the response systems.
