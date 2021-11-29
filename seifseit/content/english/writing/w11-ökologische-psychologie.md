@@ -13,9 +13,8 @@ type: "writing"
 information:
   - label : "Target Group"
     info : "Students of Social Sciences"
+
+download: "/download/Oekologische_Psychologie.pdf"
+abstract: "Die ökologische Psychologie (manchmal auch Umweltpsychologie) befasst sich mit Wechselwirkungen zwischen Menschen und ihrer Umwelt. Die Wechselwirkung wirkt über die Umwelt, die  das Erleben, Verhalten und die Gesundheit von Menschen beeinflusst und der Mensch wiederum gestaltet und beeinflusst die Umwelt in Abhängigkeit von seinem Erleben und Verhalten. Dieses Manuskript führt in eine Vielzahl von Themengebieten und Theorien ein. "
 ---
-
-Die ökologische Psychologie (manchmal auch Umweltpsychologie) befasst sich mit Wechselwirkungen zwischen Menschen und ihrer Umwelt. Die Wechselwirkung wirkt über die Umwelt, die  das Erleben, Verhalten und die Gesundheit von Menschen beeinflusst und der Mensch wiederum gestaltet und beeinflusst die Umwelt in Abhängigkeit von seinem Erleben und Verhalten. Dieses Manuskript führt in eine Vielzahl von Themengebieten und Theorien ein. </p>
-
-<a class="btn btn-main" href="/download/Oekologische_Psychologie.pdf">Get file ...</a>
 

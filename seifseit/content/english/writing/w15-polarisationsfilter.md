@@ -13,10 +13,8 @@ type: "writing"
 information:
   - label : "Target Group"
     info : "Curious people"
+
+download: /download/Polarisationsfilter.pdf
+abstract: "Licht ist als Welle eine Querwelle. Das heißt, es schwingt quer zu seiner Bewegungsrichtung. Dieser Sachverhalt wird von Polarisationsfiltern ausgenutzt und erlaubt es systematisch bestimmte Lichtanteile zu eliminieren. Das Manuskript erläutert das Prinzip mit einfachen Worten noch etwas genauer."
 ---
-
-Licht ist als Welle eine Querwelle. Das heißt, es schwingt quer zu seiner Bewegungsrichtung. Dieser Sachverhalt wird von Polarisationsfiltern ausgenutzt und erlaubt es systematisch bestimmte Lichtanteile zu eliminieren. Das Manuskript erläutert das Prinzip mit einfachen Worten noch etwas genauer.
-</p>
-
-<a class="btn btn-main" href="/download/Polarisationsfilter.pdf">Get file ...</a>
 

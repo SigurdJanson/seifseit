@@ -13,22 +13,19 @@ type: "writing"
 information:
   - label : "Zielgruppe"
     info : "Psychologen"
----
 
-In den letzten Jahren werden präattentive Prozesse der emotionalen Bewertung von
+download: /download/diplomarbeit-seifert(2001).pdf
+abstract: "In den letzten Jahren werden präattentive Prozesse der emotionalen Bewertung von
 Reizen immer wieder mit Aufmerksamkeitsprozessen in Verbindung gebracht. Dieser Ansatz
 wird auch in dieser Diplomarbeit verfolgt. Dabei wird die Verknüpfung zweier
-Forschungsideen angestrebt. Auf Seiten der Aufmerksamkeit steht der Ansatz "Selection for
-action", der selektive Aufmerksamkeit auf Ebene der Reaktionsauswahl untersucht; auf der
-Seite der Emotionspsychologie steht der Begriff der "action disposition", der die unmittelbare
+Forschungsideen angestrebt. Auf Seiten der Aufmerksamkeit steht der Ansatz \"Selection for
+action\", der selektive Aufmerksamkeit auf Ebene der Reaktionsauswahl untersucht; auf der
+Seite der Emotionspsychologie steht der Begriff der \"action disposition\", der die unmittelbare
 motivationale Aspekte der Emotion hervorhebt. Diese beiden Leitideen scheinen dem Autor
-besonders geeignet, um sie in ihrer Wechselwirkung zu untersuchen. </p>
+besonders geeignet, um sie in ihrer Wechselwirkung zu untersuchen."
+---
 
-Dies wurde in dieser Studie realisiert mit Hilfe des semantischen Negative Identity
-Primings. Dieses Paradigma wird verknüpft mit einem exzitatorischen und inhibitorischen
-Prozesssystem der selektiven Aufmerksamkeit. Das Design stützt sich sowohl auf
-Verhaltensdaten in der abhängigen Variablen, als auch auf elektrophysiologische Maße
-(ereigniskorrelierte Potentiale). </p>
+Dies wurde in dieser Studie realisiert mit Hilfe des semantischen "Negative Identity Primings". Dieses Paradigma wird verknüpft mit einem exzitatorischen und inhibitorischen Prozesssystem der selektiven Aufmerksamkeit. Das Design stützt sich sowohl auf Verhaltensdaten in der abhängigen Variablen, als auch auf elektrophysiologische Maße (ereigniskorrelierte Potentiale).
 
 Der übliche Negative Priming Effekt konnte in dieser Studie nicht repliziert werden.
 Anhand der ereigniskorrelierten Potentiale wurde dann versucht, den Ursachen dafür
@@ -43,7 +40,4 @@ dennoch sind sie als Hinweis an die Forschung zu verstehen. Die uneinheitlichen 
 zum semantischen Negative Priming könnten ihre Ursache in eben jener Konfundierung von
 Prozessen der Evaluation und der Reaktionswahl haben. Stellt sich diese Hypothese als richtig
 heraus, müssen bestehende experimentelle Paradigmen neu überdacht werden.
-</p>
-
-<a class="btn btn-main" href="/download/diplomarbeit-seifert(2001).pdf">Herunterladen ...</a>
 

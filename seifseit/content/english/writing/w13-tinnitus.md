@@ -13,11 +13,8 @@ type: "writing"
 information:
   - label : "Target Group"
     info : "Psychology students"
+
+download: "/download/Psychologische_Mediatoren_bei_komplexem_Tinnitus.pdf" # or the medium friend link without the prefix "https://medium.com/@jan.seifert"
+abstract: "Tinnitus aurium leitet sich aus dem Lateinischen ab und bedeutet Läuten in den Ohren. Tinnitus ist zum größten Teil ein rein subjektives Phänomen, das von den Betroffenen als Klingen, Rauschen, Zischen, Pfeifen, Surren, Sausen und Brummen beschrieben wird. Nach Schätzungen aus dem angelsächsischen Raum leiden etwa 20% der Bevölkerung von Industrieländern an Tinnitus."
 ---
-
-Tinnitus aurium leitet sich aus dem Lateinischen ab und bedeutet Läuten in den Ohren. Tinnitus ist zum größten Teil ein rein subjektives Phänomen, das von den Betroffenen als Klingen, Rauschen, Zischen, Pfeifen, Surren, Sausen und Brummen beschrieben wird. Nach Schätzungen aus dem angelsächsischen Raum leiden etwa 20% der Bevölkerung von Industrieländern an Tinnitus.
-
-</p>
-
-<a class="btn btn-main" href="/download/Psychologische_Mediatoren_bei_komplexem_Tinnitus.pdf">Get file ...</a>
 

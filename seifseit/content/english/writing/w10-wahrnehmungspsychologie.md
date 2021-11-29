@@ -13,10 +13,8 @@ type: "writing"
 information:
   - label : "Target Group"
     info : "Designer, psychology students"
+
+download: "/download/Wahrnehmungspsychologie.pdf"
+abstract: "Allgemeine Einführung in die Wahrnehmungspsychologie. Orientiert sich am Lehrbuch von Goldstein (1996)."
 ---
-
-
-Allgemeine Einführung in die Wahrnehmungspsychologie. Orientiert sich am Lehrbuch von Goldstein (1996).</p>
-
-<a class="btn btn-main" href="/download/Wahrnehmungspsychologie.pdf">Get file ...</a>
 
