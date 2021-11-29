@@ -10,6 +10,9 @@ languages: ["English"]
 description: "What the man page will not tell you…"
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "Data & social scientists"
 ---
 
 R is awesome! Let‘s just take these two vectors, put it in that function and voila … R is the plague. I wanted to use the ccf-function in a project. I had so much trouble understanding it's output. There are quite a few things about the cross-correlation function in R that the manual does not tell us. Reading it carefully did not help. I had to experiment with the function and write it down. It took me a day to find out what you can read here. And only because I had to figure it out the hard way, does not mean you have to.
