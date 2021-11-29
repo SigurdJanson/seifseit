@@ -48,6 +48,18 @@ other = "Buch"
 [Contribution]
 other = "Beitrag"
 
+
+### WRITINGS
+[btnReadMore]
+other = "Lade den Artikel herunter"
+
+[btnReadOnMedium]
+other = "Lies weiter ..."
+
+[hintLanguageOnly]
+other = "nur auf %s"
+
+
 ###
 [hDiscontinuedProjects]
 other = "Abgeschlossene Projekte"

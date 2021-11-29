@@ -19,7 +19,7 @@
             {{ range .Params.information }}
             <li><span>{{ .label }}:</span> <strong>{{ .info | markdownify }}</strong></li>
             {{ end }}
-            <li><span>{{ i18n "lblLanguage" }}:</span> <strong>{{range .Params.languages}}{{ . | markdownify }}{{ end }}</strong></li>
+            <li><span>{{ i18n "lblLanguage" }}:</span> <strong>{{range .Params.languages}}{{ i18n . | markdownify }}{{ end }}</strong></li>
             <li><span>{{ i18n "lblYear" }}:</span> <strong>{{ .Date.Format "2006" | markdownify }}</strong></li>
           </ul>
         </div>
@@ -28,7 +28,23 @@
     <div class="row">
       <div class="col-md-12">
         <div class="project-content mt-50">
-          {{ .Content }}
+          {{/* .Content */}}
+          <p>{{- .Params.abstract | markdownify -}}</p>
+
+          <p>
+            {{ with .Params.download -}}
+            <a class="btn btn-main" href="{{.}}">{{i18n "btnReadMore"}}</a>
+            {{- end }}
+            {{ with .Params.mediumlink -}}
+            <a class="btn btn-main" href="https://medium.com/@jan.seifert{{- . -}}" target="_blank">{{i18n "btnReadOnMedium"}}</a>
+            {{- end }}
+
+            {{ $PostLang  := (apply $.Params.languages "i18n" ".") }}
+            {{ if in $PostLang $.Page.Language.LanguageName -}}
+            {{ else }}
+            <span>{{- printf (i18n "hintLanguageOnly") (delimit $PostLang ", ") -}}</span>
+            {{- end }}
+          </p>
         </div>
       </div>
     </div>

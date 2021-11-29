@@ -49,6 +49,16 @@ other = "Book"
 other = "Contribution"
 
 
+### WRITINGS
+[btnReadMore]
+other = "Download the full article"
+
+[btnReadOnMedium]
+other = "Read the full story ..."
+
+[hintLanguageOnly]
+other = "in %s only"
+
 ###
 [hDiscontinuedProjects]
 other = "Discontinued Projects"
