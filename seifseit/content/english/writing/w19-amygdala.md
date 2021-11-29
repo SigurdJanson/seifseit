@@ -10,6 +10,10 @@ languages: ["German"]
 description: ""
 draft: false
 type: "writing"
+information:
+  - label : "Target Group"
+    info : "Psychology students"
+
 download: /download/amygdala.pdf
 abstract: "Die Amygdala ist eine Struktur im Gehirn. Sie wurde aufgrund ihrer Form benannt nach dem griechischen Wort für Mandelkern. Sie liegt beiderseits anterior im Temporallappen des Gehirns. Sie ist wesentlich an der Verarbeitung emotionaler Information beteiligt. Diese Arbeit gibt einen kurzen Überblick in Struktur und Funktion dieses winzigen wie faszinierenden Zellhaufens."
 ---
