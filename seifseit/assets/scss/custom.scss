@@ -1,6 +1,8 @@
 /* Put custom SCSS rules in this file */
 /* Documentation: https://sass-lang.com/documentation */
 
+@import 'fontinclude.scss';
+
 
 ::selection {
     background-color: $primary-color;
@@ -84,16 +86,18 @@ div.pub-Book::marker {
     padding: 8px 25px;
     cursor: pointer;
     font-size: 15px;
-    color: #333;
+    color: #837f7e;
     outline: 0;
-    background: #fff;
+    background: $light;
     margin: 2px;
     border-radius: 0;
-    -webkit-transition: all .3s ease;
-    -moz-transition: all .3s ease;
-    -ms-transition: all .3s ease;
-    -o-transition: all .3s ease;
     transition: all .3s ease;
+
+    .focus, .hover, :hover  {
+        color: #08083f;
+        background: rgba(8,8,63,.3);
+        border: 1px solid rgba(8,8,63,.3);
+    }
 }
 
 // INFOTIPS used in the publication list ================
