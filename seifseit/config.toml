@@ -10,7 +10,7 @@ paginate = "6"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = ["fr", "it"]
+disableLanguages = []
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
@@ -44,6 +44,9 @@ endLevel = 6
 ordered = false
 
 
+
+
+
 ################################# Default parameters ##########################
 [params]
 logo = "images/globe-detailed.svg"
@@ -56,7 +59,6 @@ image = "images/logo.svg" # this image will be used as fallback if a page has no
 ################################# Sidebar widgets #############################
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-
 
 ################################# Contact page ################################
 [params.contact]
@@ -201,36 +203,6 @@ name = "More"
 weight = 5
 
 
-################################# French translation ##########################
-[languages.fr]
-languageName = "Français"
-languageCode = "fr-FR"
-contentDir = "content/french"
-weight = 2
-copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Tous droits réservés."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.fr.menu.main]]
-hasChildren = true
-weight = 5
-name = "Plus"
-
-
-################################# Italian translation ##########################
-[languages.it]
-languageName = "Italiano"
-languageCode = "it-IT"
-contentDir = "content/italian"
-weight = 2
-copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Tutti i diritti riservati."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.it.menu.main]]
-hasChildren = true
-weight = 5
-name = "Più"
 
 
 ################################# German translation ##########################
