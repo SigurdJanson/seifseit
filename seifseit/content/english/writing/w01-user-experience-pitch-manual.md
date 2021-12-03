@@ -6,7 +6,7 @@ image : "images/blog/pitch.webp"
 bg_image: "images/feature-bg.jpg"
 categories: ["User Experience"]
 languages: ["German"]
-tags: ["Business behind Design", "Quality Management"]
+tags: ["Design Management", "Quality Management"]
 description: ""
 draft: false
 type: "writing"
@@ -15,7 +15,7 @@ information:
     info : "Design & Project Managers"
 
 download: "/download/UX Pitch Manual.pdf"
-abstract: "Sogenannte Pitches sind ein beliebtes Mittel, um aus mehreren Dienstleister einen passenden für sich auszuwählen. Die Erfahrungen, die wir Dienstleister machen, sind allerdings sehr durchwachsen. Es gibt hin und wieder gut organisierte Pitches, die wirklich spannend sind. Aber in der Summe sind die Erfahrungen eher ernüchternd. Wir können uns häufig nicht vorstellen, dass der Pitch-Ausrichter seine Ziele wirklich erreicht. Dies zeigen unter anderem die Podcast-Diskussion des UX Cafés (www.uxcafe.de). Grundsätzlich klingt es nach einer guten Idee, ein für potentielle Dienstleister ein \"Wett­rennen\" zu veranstalten."
+abstract: "So-called pitches are a popular tool in the design business to select a contractor among several. The experiences made by service contractors are quite ambiguous. Every now and then we get invited pitches about intruiging topics that are even well organised. But the sum of our experiences is somewhat frustrating. Not only because the rules impede a fair competition. It is even doubtful that the organisors of these pitch can reach their goals."
 ---
 
-Aber man muss einen Pitch richtig angehen, sonst wird aus einem sportlichen Wettkampf ein Glücksspiel. Dieses Dokument gibt eine Menge Tipps, wie das möglich sein kann.
+ Basically, a pitch can be a great chance to prove oneself and instill an amazing creative process. But we have to do it right if we do not want a sportive competition to degrade down to a meaningless game of chance. Tipps and hints from practical exerpience and reports from the design community may help you, too, to hold your own pitch.
