@@ -1,5 +1,5 @@
 ---
-title: "Ein kritischer Blick auf Gamification"
+title: "A Critical Look at Gamification"
 date: 2018-09-24
 author: Jan Seifert
 image : "images/blog/gamification.webp"
@@ -15,7 +15,7 @@ information:
     info : "Designers & CX Managers"
 
 download: "/download/Gamification_KritischerBlick.pdf"
-abstract: "Gamification ist der aktuelle Trend in der User Experience. \"Gamification is the use of game design elements in non-game contexts\" (Deterding, 2011). Diese Game Design Elemente, von denen hier gesprochen wird, stellen aus der Sicht der Gamification also eine homogene Sammlung von Werkzeugen, sprich UI Patterns, dar. Wie anders wäre sonst zu erklären, dass es Überblicksarbeiten gibt mit dem Titel \"Does Gamification Work?\" (Hamari, Koivisto & Sarsa, 2014) gibt oder dass Autoren sich an allumfassenden Systematiken versuchen (z.B. Schering, 2014). Die folgende Seiten wagen einen Blick unter ..."
+abstract: "Gamification is **the** trend in user experience. It \"... is the use of game design elements in non-game contexts\" (Deterding, 2011). Gamification seems to claim that these games design elements shall be a homogenuous collection of tools (i.e. design patterns). How else can we explain that authors experiment with universal systematic approaches (z.B. Schering, 2014) or others ask questions like \"Does Gamification Work?\" (Hamari, Koivisto & Sarsa, 2014). The following pages take a peek under ..."
 ---
 
 
