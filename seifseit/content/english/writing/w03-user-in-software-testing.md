@@ -1,5 +1,5 @@
 ---
-title: "Der Nutzer – ein unbekanntes Wesen für Software-Tester?"
+title: "The User – an Unknown Being to Software Testers?"
 date: 2015-03-22
 author: Jan Seifert
 image : "images/blog/nonutzerinsoftware.webp"
@@ -14,7 +14,7 @@ information:
   - label : "Target Group"
     info : "Project & Software Managers"
 
-download: "/download/SoftwareTestsUngleichNutzerzentrierteTests.pdf" # or the medium friend link without the prefix "https://medium.com/@jan.seifert"
-abstract: "Der Nutzer ist das Zentrum einer jeden Produktentwicklung. Wenn interaktiven Produkte am Nutzer scheitern, sind sie wertlos. Features, die man nicht bemerkt, existieren praktisch gar nicht. Fehler, die man nicht bemerkt, machen jede Tätigkeit sinnlos und können extrem negative Auswirkungen haben. Deshalb sollte die Produktentwicklung den Nutzer ins Zentrum des Prozesses stellen. Das bedeutet auch, dass Hersteller die Gelegenheit nutzen müssen, ein Produkt mit Nutzern zu testen, bevor sie auf den Markt gehen. Das hilft Qualität zu steigern und Risiken zu minimieren. Aber letztlich ist nutzerzentriertes Testen noch gar nicht im Denken von Software Testern angekommen. Oder?"
+download: "/download/SoftwareTestsUngleichNutzerzentrierteTests.pdf"
+abstract: "The users are the center of any product development. If interactive products fail they are worthless. Hidden features do not exist. Undetected errors render any activity moot and can have extremely negative side effects. That is why the user shall be put in the center of any development process. That also implies, that manufacturers must use the opportunity to test with users before market launch. That increases quality and minimises risk. But in the end it seems that software testers have not included user-centered in their toolbox, have they?"
 ---
 
