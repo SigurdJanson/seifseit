@@ -1,5 +1,5 @@
 ---
-title: Arbeitsanalyse in der Softwareentwicklung
+title: Job Analysis in Software Development
 date: 1998-08-01
 author: Jan Seifert
 image: images/blog/arbeitsanalyse.webp
