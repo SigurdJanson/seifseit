@@ -16,7 +16,7 @@ information:
   - label : "Skills"
     info : "R / Shiny; HTML / CSS"
   - label : "Client"
-    info : "-"
+    info : "Shiny App Devs"
 ---
 
 
