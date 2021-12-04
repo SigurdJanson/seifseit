@@ -2,12 +2,22 @@
 
 {{ partial "page-title.html" . }}
 
+
+
 <!-- checking blog -->
 {{ if or (eq .Section "writing") (eq .Section "writings") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
 <div class="page-wrapper">
   <div class="container">
     <div class="row">
+      {{ if eq .Paginator.PageNumber 1 }}
+      <div class="col-md-12 listintro">
+        {{ with .Content -}}
+          {{.}}
+          <hr class="gradient-line" />
+        {{- end }}
+      </div>
+      {{ end }}
       <div class="col-md-8">
         {{ $paginator := .Paginate .Data.Pages -}}
         {{ range $paginator.Pages -}}

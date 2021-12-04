@@ -9,6 +9,22 @@
     color:$light;
 }
 
+.listintro p {
+    font-size:160%;
+    font-style: oblique;
+    font-weight: 200;
+    color: $primary-color;
+    text-shadow:$secondary-color 1px 0 10px;
+    padding-bottom:2rem;
+}
+.gradient-line{ 
+    margin: 0 0 50px 0;
+    display: block;
+    border: none;
+    height: 1px;
+    background: #0071B9;
+    background: linear-gradient(to right, $light, $overlay, $primary-color, $overlay, $light);
+}
 
 // OVERWRITES 
 

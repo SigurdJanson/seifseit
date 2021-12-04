@@ -13,4 +13,5 @@ menu:
     weight: 4
 ---
 
-<!-- Writing helps me organise my thoughts. That is how many of these writings came into existence. Maybe some of these can help you, too. -->
+Schreiben hilft mir dabei meine Gedanken zu sortieren und daraus entstehen diese Artikel. Sie helfen Dir beim Lesen hoffentlich genau so sehr wie mir beim Schreiben.
+
