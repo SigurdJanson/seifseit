@@ -7,7 +7,8 @@ type: "writing"
 date:  1999-09-09 # needed if this shouldn't end up as one of the "latest posts"
 menu:
   main:
-    name: "Writings"
+    parent: "Arbeiten"
+    name: "Blogs und so"
     identifier: "writing"
     weight: 4
 ---

@@ -6,7 +6,7 @@ bg_image: "images/feature-bg.webp"
 type: "pub"
 menu:
   main:
-    parent: "More"
+    parent: "Works"
     name: "Publications"
     weight: 4
 ---

@@ -4,14 +4,14 @@ description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
-menu:
-  main:
-    parent: "Mehr"
-    name: "Dienstleistung"
-    weight: 1
-  footer:
-    name: "Dienstleistung"
-    weight: 3
+# menu:
+#   main:
+#     parent: "Mehr"
+#     name: "Dienstleistung"
+#     weight: 1
+#   footer:
+#     name: "Dienstleistung"
+#     weight: 3
 
 ########################### about service #############################
 about:
