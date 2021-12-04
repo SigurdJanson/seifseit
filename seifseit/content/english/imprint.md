@@ -35,9 +35,6 @@ We would like to thank anyone who helped to improve seifseit.de. Feedback is the
 
 We (the authors) disscoiate ourselves from violence, slander, and any other activity that impinge onthe rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloak_email "admin@seifseit.de" >}}), so that we can remove it.
 
-Compilation and Copyright on Texts and Pictures
-Most of the images have been created by ourselves. A few images are taken from theLeopard Huge Icon Pack.
-
 seifseit.de would not have been possible without the following:
 
 
@@ -77,4 +74,3 @@ Spam is not only an issue of mails. Spam often disguises itself as serious press
 * ["White and Brown Round Frame"](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) by [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
 * ["Splashing of Flour over Dough"](https://www.pexels.com/@klaus-nielsen) by [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen).
 * ["Person Welding Wearing a Prootective Metal Mask"](https://www.pexels.com/photo/person-welding-wearing-a-prootective-metal-mask-3158651/) by [Kateryna Babaieva](https://www.pexels.com/@kateryna-babaieva-1423213)
-* 
