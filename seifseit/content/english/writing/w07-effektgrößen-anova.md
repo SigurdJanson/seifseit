@@ -1,5 +1,5 @@
 ---
-title: "Effektgrössen in der ANOVA"
+title: "Measures of Effect Size in ANOVA"
 date: 2008-06-05
 author: Jan Seifert
 image : "images/blog/measure.webp"
@@ -14,7 +14,6 @@ information:
   - label : "Target Group"
     info : "Social scientists"
 
-download: "/download/Effektgroessen.pdf" # or the medium friend link without the prefix "https://medium.com/@jan.seifert"
-abstract: "Übersicht über die üblichen Effektgrößen in der Varianzanalyse und den Umgang mit diesen Kenngrößen. Sie können von großem Nutzen sein, wenn man weiß, wie man sie einsetzen muss, aber das Thema ist undurchsichtig. Verschiedene Autoren bevorzugen unterschiedliche Größen und die mathematischen Hintergründe machen die Auswahl für Anfänger nicht einfacher."
+download: "/download/Effektgroessen.pdf"
+abstract: "Overview over numerours effect sizes used in analyses of variance and their use. They can be of great value once you know how to interpret them but the whole topic is rather intransparent. Various authors prefer different effect sizes, there is no agreement and arguments seem biased (at least to me). The mathematics behind them does not make it easier to understand."
 ---
-
