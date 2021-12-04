@@ -32,7 +32,7 @@
                 {{ range $index, $elements:= .Params.tags }}{{with .}}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}
               </li>
               <li><i class="ion-chatbox-working"></i>
-                {{ range $index, $elements:= .Params.languages }}{{ if ne $index 0 }}, {{ end }}{{ . }}{{ end }}
+                {{ range $index, $elements:= .Params.languages }}{{ if ne $index 0 }}, {{ end }}{{i18n . }}{{ end }}
               </li>
             </ul>
           </div>
