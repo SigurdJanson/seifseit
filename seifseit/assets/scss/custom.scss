@@ -23,7 +23,7 @@
     display: block;
     border: none;
     height: 1px;
-    background: #0071B9;
+    background: $primary-color;
     background: linear-gradient(to right, $light, $overlay, $primary-color, $overlay, $light);
 }
 
@@ -48,16 +48,18 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
     color:$secondary-color;
 }
 
-// 
+
+// start page: blurred section
 section.feature.bg-2 > div > div > div {
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(50px);
+    backdrop-filter: blur(50px);
     padding:15px;
 
     p {
         color:$primary-color;
     }
 }
+
 
 // menu: language selector
 .select-language {

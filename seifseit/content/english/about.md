@@ -86,7 +86,7 @@ features:
   # feature item loop
   - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
     name : "App Development"
-    content : "In search for a better understanding of technology several projects keep me busy using [R](www.r-project.org) and [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
+    content : "In search for a better understanding of technology several projects keep me busy using [R](https://www.r-project.org) and [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
 
   # feature item loop
   - icon : "ion-bag" #ionicon pack v2 : https://ionicons.com/v2/
