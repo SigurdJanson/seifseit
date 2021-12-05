@@ -74,3 +74,4 @@ Spam wird nicht nur in Form von Mails produziert, sondern tarnt sich gelegentlic
 * ["White and Brown Round Frame"](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) von [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
 * ["Splashing of Flour over Dough"](https://www.pexels.com/@klaus-nielsen) von [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen).
 * ["Person Welding Wearing a Prootective Metal Mask"](https://www.pexels.com/photo/person-welding-wearing-a-prootective-metal-mask-3158651/) von [Kateryna Babaieva](https://www.pexels.com/@kateryna-babaieva-1423213) 
+* ["Contemporary Art"](https://www.pexels.com/photo/contemporary-art-3336447/) von [Elīna Arāja](https://www.pexels.com/@elina-araja-1743227)
