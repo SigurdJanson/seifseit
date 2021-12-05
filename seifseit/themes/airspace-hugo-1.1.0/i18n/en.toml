@@ -25,3 +25,5 @@ submit = "Send message"
 tags = "Tags"
 
 hProjectDetails = "Project Details"
+Select_language = "Select language"
+lblMenu = "Menu"

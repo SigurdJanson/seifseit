@@ -25,3 +25,5 @@ submit = "Nachricht senden"
 tags = "Schlagwörter"
 
 hProjectDetails = "Projektdetails"
+Select_language = "Sprache wählen"
+lblMenu = "Menü"
