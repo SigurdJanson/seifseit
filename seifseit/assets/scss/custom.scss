@@ -1,6 +1,7 @@
 /* Put custom SCSS rules in this file */
 /* Documentation: https://sass-lang.com/documentation */
 
+//@import 'variables.scss';
 @import 'fontinclude.scss';
 
 
@@ -28,6 +29,7 @@
 
 // OVERWRITES 
 
+// lists in the content area
 ul {
     list-style-image: url("/images/globe-favicon.svg");
     padding-left: revert;
@@ -38,9 +40,7 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
     padding-left: 0;
 }
 
-
-
-
+// inside a section with dark background
 .bg-dark p { // <p/> inside a section with dark background
     color:$light;
 }
@@ -48,6 +48,41 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
     color:$secondary-color;
 }
 
+// 
+section.feature.bg-2 > div > div > div {
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    padding:15px;
+
+    p {
+        color:$primary-color;
+    }
+}
+
+// menu: language selector
+.select-language {
+    margin-left:3rem;
+    width: 100%;
+    cursor: pointer;
+
+    select#select-language {
+/*      -webkit-appearance:none;
+        -moz-appearance:none;
+        -ms-appearance:none;
+        appearance:none; */
+        outline: 0;
+        background: $light;
+        border: none;
+        color: #5c5c5c;
+        padding: 10px 15px;
+        margin: 0px;
+        font-weight: 500;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+}
+
+// 
 .about .about-img img:hover {
     opacity: 1;
 }
@@ -96,7 +131,7 @@ div.pub-Book::marker {
     @include pub-bullet-style();
 }
 
-.pub-filter .btn-group label { //.block .portfolio-menu
+.pub-filter .btn-group label {
     display: inline-block;
     border: 1px solid #dedede;
     padding: 8px 25px;
@@ -119,11 +154,9 @@ div.pub-Book::marker {
 // INFOTIPS used in the publication list ================
 .infotip {
     position: relative;
-    /* display: inline-block; */
-    /* border-bottom: 1px dotted $secondary-color; /* If you want dots under the hoverable text */
   }
   
-  /* Tooltip text */
+  // Tooltip text
   .infotip .infotiptext {
     visibility: hidden;
     background-color: $light;
@@ -132,14 +165,14 @@ div.pub-Book::marker {
     padding: 5px 0;
     border-radius:6px;
    
-    /* Position the tooltip text - see examples below! */
+    // Position the tooltip text - see examples below!
     position: absolute;
     z-index: 1;
     top: -5px;
     right: 105%;
   }
   
-  /* Show the tooltip text when you mouse over the tooltip container */
+  // Show the tooltip text when you mouse over the tooltip container
   .infotip:hover span.infotiptext {
     visibility: visible;
   }
