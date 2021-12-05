@@ -30,7 +30,7 @@ portfolio:
   enable: true
   bg_image: "images/creative.webp"
   title: "Ideas are the one resource that never runs out"
-  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knownledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require no-obvious solutions.
+  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knownledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions.
   "
   button:
     enable: true
