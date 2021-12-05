@@ -59,24 +59,24 @@ service:
   description : "Principles to strive for ..."
   service_item:
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
+      name: Learning-Oriented
+      content: "I can tolerate failure when it helps me learn and grow. Failure without growth gnaws at me."
 
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
       name: Empower others
       content: "As a leader I am nobody without my team. It is my job to make the team strong which makes us strong."
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-people-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Dependent Independence
-      content: "Design is team work. The best team work, everyone takes responsibility for each other and for themselves."
+      content: "Design is team work: everyone takes responsibility for each other and for themselves. There are no stars."
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-android-star-half #ionicon pack v2 : https://ionicons.com/v2/
+      name: Value
+      content: "Less ambitious design in the product is better than incredible drafts on paper."
 
     # # service item loop
     # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
