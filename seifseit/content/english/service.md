@@ -78,25 +78,7 @@ service:
       name: Value
       content: "Less ambitious design in the product is better than incredible drafts on paper."
 
-    # # service item loop
-    # - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Logo Design
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # # service item loop
-    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Development
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # # service item loop
-    # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Brand Identity
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # # service item loop
-    # - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-    #   name: Brand Identity
-    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
 cta:
