@@ -15,12 +15,23 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  content : "
+Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+
+### Interessensschwerpunkte
+
+* Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
+
+* User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
+
+* Processberatung in Sachen Usability
+
+* Design Leadership
+
+* Organisationsdesign und -entwicklung
+"
 
   button:
     enable : true

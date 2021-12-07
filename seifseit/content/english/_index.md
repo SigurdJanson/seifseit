@@ -20,8 +20,8 @@ banner:
 about:
   enable: true
   title: "About Me" # TODO
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  description: "User experience design lead, organisational design, behavioural design, and a little science communication."
+  content: "I am Jan, Lead UX Design at the distinguished UX contractor [UID, Germany](https://www.uid.com). I manage projects adapting to changing conditions. I support, teach and I empower. I support the growth of ux design abilities in companies and establish the environment a user-centred approach needs to take full effect."
   image: "images/wrapper-img.webp"
 
 
@@ -30,7 +30,7 @@ portfolio:
   enable: true
   bg_image: "images/creative.webp"
   title: "Ideas are the one resource that never runs out"
-  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knownledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions.
+  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knowledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions.
   "
   button:
     enable: true
@@ -39,12 +39,12 @@ portfolio:
 
 
 
-############################# TWITTER ############################
+############################# ?????? ############################
 recent-posts:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "We design delightful digital experiences."
-  content: "Arakadabra" 
+  content: "Abracadabra" 
   button:
     enable: true
     label: "Latest Activity"
@@ -118,3 +118,4 @@ funfacts:
 
 
 ---
+

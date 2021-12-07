@@ -19,31 +19,22 @@ about:
 
 ### Education
 
-Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
+Despite my fascination for technology I wanted to understand people better and studied Psychology. 
 
-### Berufliche Laufbahn
 
-Universität: Jan Seifert war schon früh im Studium an der elektrophysiologischen Forschung beteiligt. Nach dem Studium promovierte er von 2002-2005 im EEG-Labor der Universität Trier, unter anderem unterstützt durch die DFG und Landesgraduiertenförderung an der Universität Trier. Sein Forschungsinteresse galt hauptsächlich den emotionalen und motivationalen Rahmenbedingungen von Aufmerksamkeitspozessen, sowie empirisch-methodischen Themen. 2005 beendete er erfolgreich seine Promotion.
+### Professional career
 
-User Experience Dienstleistungen: In 2005 trat Jan Seifert in die User Interface Design GmbH (UID) ein - einem der weltgrößten User Experience Dienstleister. Seitdem unterstützte er zahlreiche Unternehmen bei Entwurf und Umsetzung interaktiver Produkte. Durch diese Tätigkeiten ist er mit den verschiedensten Branchen und Technologien vertraut.
+At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment was all I could for a time. That is why I stayed at university. Having received a doctor of the natural sciences in 2005 I left university though and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For 16 years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping. 
 
-### Interessensschwerpunkte
+### Interests
 
-* Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
+* Emotional and social aspects of human-machine-interaction.
 
-* User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
-
-* Processberatung in Sachen Usability
+* User Research - quantitative and qualitative Analyses; anything from contextual inquiry to a summative product evaluation
 
 * Design Leadership
 
-* Organisationsdesign
-
-
-
-### Publikationen
-
-Eine Liste der Publikationen ist in der Bibliothek verfügbar.
+* Organisation design & development
 "
 
 
@@ -124,8 +115,9 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+  - name : "Enable"
+    content : "Situated and problem-led. \n
+
     harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
     quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
     voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
@@ -135,7 +127,7 @@ mission_vision:
     temporibus eos sequi alias hic nemo."
 
   # tab item loop
-  - name : "Mission"
+  - name : "Adapt"
     content : "The value of a user-centered approach is not universal. You can use it to follow a diverse 
     number of goals. I am always eager to find out what works. What are your best goals to pursue?
     What do we have to do to implement UX so that you can pursue these goals in the most efficient way?
@@ -143,7 +135,7 @@ mission_vision:
     that drive me in my projects. I never stop looking for answers."
 
   # tab item loop
-  - name : "Approach"
+  - name : "Simplify"
     content : "Situated and problem-led. \n
     
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
@@ -161,3 +153,4 @@ cta:
   enable : true
   # call to action content comes from "_index.md"
 ---
+
