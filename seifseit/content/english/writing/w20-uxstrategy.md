@@ -3,7 +3,7 @@ title: "One Man’s Strategy is Another Man’s Grind"
 date: 2020-03-09
 author: Jan Seifert
 image : "images/blog/strategy.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["User Experience"]
 tags: ["Leadership"]
 languages: ["English"]

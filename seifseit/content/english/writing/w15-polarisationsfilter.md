@@ -3,7 +3,7 @@ title: "Der Polarisationsfilter"
 date: 2012-06-30 
 author: Jan Seifert
 image : "images/blog/polfilter.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Photography"]
 tags: []
 languages: ["German"]

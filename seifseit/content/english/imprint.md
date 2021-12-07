@@ -21,7 +21,7 @@ seifseit.de
 seifseit.de is a private website for private amusement of the authors and their friends.  
 
 
-We assume no liability concerning the quality and correctness of any information on this site. Still, all information, recipes, ideas, etc. have thouroughly been reviewed.
+We assume no liability concerning the quality and correctness of any information on this site. Still, all information, recipes, ideas, etc. have thoroughly been reviewed.
 
 We permit to use any information on seifseit.de for personal use only! If you intend to use these data for other purposes (especially the publication in public web sites) requires written consent.
 
@@ -33,7 +33,7 @@ We would like to thank anyone who helped to improve seifseit.de. Feedback is the
 
 ### Liability
 
-We (the authors) disscoiate ourselves from violence, slander, and any other activity that impinge onthe rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloak_email "admin@seifseit.de" >}}), so that we can remove it.
+We (the authors) dissociate ourselves from violence, slander, and any other activity that impinge on the rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloak_email "admin@seifseit.de" >}}), so that we can remove it.
 
 seifseit.de would not have been possible without the following:
 
@@ -59,8 +59,7 @@ Spam is not only an issue of mails. Spam often disguises itself as serious press
 
 ### Used Images
  
-* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) and ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) by [Cottonbro](https://www.pexels.com/@cottonbro).
-  
+* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg), [Black Framed Eyeglasses on White Table](https://www.pexels.com/photo/black-framed-eyeglasses-on-white-table-5083246/)  and ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/)by [Cottonbro](https://www.pexels.com/@cottonbro).
 * ["Bird's Eye View of Group of People"](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) by [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
 * ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) by [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).
 * ["Crowd of people inside white building"](https://www.pexels.com/photo/crowd-of-people-inside-white-building-1770808/) by [Luis Dalvan](https://www.pexels.com/@luisdalvan).

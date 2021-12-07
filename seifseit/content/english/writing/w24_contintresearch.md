@@ -3,7 +3,7 @@ title: "Continuous Integration of Research"
 date: 2020-02-16
 author: Jan Seifert
 image : "images/blog/contintresearch.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["User Experience"]
 tags: ["User Research"]
 languages: ["English"]

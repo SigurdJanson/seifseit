@@ -59,7 +59,7 @@ Spam wird nicht nur in Form von Mails produziert, sondern tarnt sich gelegentlic
 
 ### Verwendete Bilder
 
-* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg) und ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) von [Cottonbro](https://www.pexels.com/@cottonbro).
+* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg), [Black Framed Eyeglasses on White Table](https://www.pexels.com/photo/black-framed-eyeglasses-on-white-table-5083246/)  und ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) von [Cottonbro](https://www.pexels.com/@cottonbro).
   
 * ["Bird's Eye View of Group of People"](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) von [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
 * ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) von [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).

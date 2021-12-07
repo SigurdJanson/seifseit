@@ -3,7 +3,7 @@ title: Designing Vision Statements
 date: '2019-12-27'
 author: Jan Seifert
 image: images/blog/visionstatements.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
   - User Experience
 tags:

@@ -3,7 +3,7 @@ title: "Multiple Regression (with SPSS)"
 date: 2010-01-08
 author: ["Jan Seifert", "Andreas Nack"]
 image : "images/blog/multireg.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Statistics"]
 tags: []
 languages: ["German"]

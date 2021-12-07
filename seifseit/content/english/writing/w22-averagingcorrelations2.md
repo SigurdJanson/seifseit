@@ -3,7 +3,7 @@ title: "Averaging Correlations — Part II"
 date: 2020-04-15
 author: Jan Seifert
 image : "images/blog/averagingcorrelations2.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Statistics"]
 tags: ["R"]
 languages: ["English"]

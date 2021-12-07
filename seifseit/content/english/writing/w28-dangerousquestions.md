@@ -3,7 +3,7 @@ title: Questions Can Be Bad
 date: '2019-04-03'
 author: Jan Seifert
 image: images/blog/dangerousquestions.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
     - User Experience
 tags:

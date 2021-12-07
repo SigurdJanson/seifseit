@@ -3,7 +3,7 @@ title: "Der Thalamus"
 date: 2002-06-17
 author: Jan Seifert
 image : "images/blog/thalamus.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Brain Sciences"]
 tags: []
 languages: ["German"]

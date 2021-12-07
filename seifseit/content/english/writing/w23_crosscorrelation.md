@@ -3,7 +3,7 @@ title: "The R Cross Correlation Function"
 date: 2020-03-18
 author: Jan Seifert
 image : "images/blog/crosscorrelation.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Statistics"]
 tags: ["R"]
 languages: ["English"]

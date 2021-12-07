@@ -3,7 +3,7 @@ title: "Against Cognitive Bias: Tips and Tools for Design Managers"
 date: '2019-01-20'
 author: Jan Seifert
 image: images/blog/bias4leaders.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
     - User Experience
 tags:

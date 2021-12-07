@@ -3,7 +3,7 @@ title: "A Critical Look at Gamification"
 date: 2018-09-24
 author: Jan Seifert
 image : "images/blog/gamification.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["User Experience"]
 tags: ["Gamification", "Behavioural Design"]
 languages: ["German"]

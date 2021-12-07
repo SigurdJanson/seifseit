@@ -3,7 +3,7 @@ title: Using metaphors to explain User Experience Design
 date: '2019-06-08'
 author: Jan Seifert
 image: images/blog/uxmetaphors.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
     - User Experience
 tags:

@@ -3,7 +3,7 @@ title: "Skeuomorphism and Metaphors"
 date: 2013-09-15
 author: Jan Seifert
 image : "images/blog/skeuomorph.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["User Experience"]
 tags: ["Design"]
 languages: ["German"]

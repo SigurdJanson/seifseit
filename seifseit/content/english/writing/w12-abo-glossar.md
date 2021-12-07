@@ -3,7 +3,7 @@ title: "Glossar für die ABO-Psychologie"
 date: 2010-02-08
 author: Jan Seifert
 image : "images/blog/aboglossar.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Psychology"]
 tags: ["Employee Experience"]
 languages: ["German"]

@@ -3,7 +3,7 @@ title: "The User – an Unknown Being to Software Testers?"
 date: 2015-03-22
 author: Jan Seifert
 image : "images/blog/nonutzerinsoftware.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["User Experience", "Software Testing"]
 tags: ["User Research", "Usability Test"]
 languages: ["German"]

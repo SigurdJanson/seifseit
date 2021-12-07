@@ -3,7 +3,7 @@ title: "Interventionsformen in der Langzeitbehandlung schizophrener Patienten"
 date: 2008-01-09
 author: Jan Seifert
 image : "images/blog/pharmatherapy.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Psychology"]
 tags: ["Therapy"]
 languages: ["German"]

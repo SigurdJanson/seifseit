@@ -3,7 +3,7 @@ title: 'Accuracy of Self-Made R Functions'
 date: '2020-01-14'
 author: Jan Seifert
 image: images/blog/accuracy.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
   - Software Testing
 tags:

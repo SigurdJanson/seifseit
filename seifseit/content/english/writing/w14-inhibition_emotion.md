@@ -3,7 +3,7 @@ title: "Emotional Stimuli & Negative Priming"
 date: 2001-05-04
 author: Jan Seifert
 image : "images/blog/diplomarbeit.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Psychology"]
 tags: ["Cognitive Psychology"]
 languages: ["German"]
