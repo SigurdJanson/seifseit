@@ -45,6 +45,14 @@ ordered = false
 
 
 
+################################# Taxonomies ######################################
+[taxonomies]
+  category = "categories"
+  language = "languages"
+  tag = "tags"
+  
+#type = "types"
+#project = "projects"
 
 
 ################################# Default parameters ##########################
@@ -59,6 +67,7 @@ image = "images/logo.svg" # this image will be used as fallback if a page has no
 ################################# Sidebar widgets #############################
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+writingssidebar = ["taxonomy_category", "taxonomy_tags", "taxonomy_languages"] #"recent_writings", 
 
 ################################# Contact page ################################
 [params.contact]
@@ -90,8 +99,8 @@ success_image = "images/paper-plane.svg"
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "48.888187"
+map_longitude = "9.201936"
 map_marker = "images/marker.png"
 
 
@@ -199,7 +208,7 @@ copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). All R
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 [[languages.en.menu.main]]
 hasChildren = true
-name = "More"
+name = "Works"
 weight = 5
 
 
@@ -217,5 +226,5 @@ copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Alle 
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 [[languages.de.menu.main]]
 hasChildren = true
-name = "Mehr"
+name = "Arbeiten"
 weight = 5
