@@ -1,5 +1,5 @@
 ---
-title: "Ökologische Psychologie"
+title: "Ecological Psychology"
 date: 2010-01-08
 author: Jan Seifert
 image : "images/blog/oekopsy.webp"
@@ -7,7 +7,7 @@ bg_image: "images/writing-bg.webp"
 categories: ["Psychology"]
 tags: []
 languages: ["German"]
-description: "Einführung in die Psychologie des Menschen in Auseinandersetzung mit seiner Umgebung"
+description: "Introduction in the Psychology of people and their relation to their environment"
 draft: false
 type: "writing"
 information:
@@ -15,6 +15,6 @@ information:
     info : "Students of Social Sciences"
 
 download: "/download/Oekologische_Psychologie.pdf"
-abstract: "Die ökologische Psychologie (manchmal auch Umweltpsychologie) befasst sich mit Wechselwirkungen zwischen Menschen und ihrer Umwelt. Die Wechselwirkung wirkt über die Umwelt, die  das Erleben, Verhalten und die Gesundheit von Menschen beeinflusst und der Mensch wiederum gestaltet und beeinflusst die Umwelt in Abhängigkeit von seinem Erleben und Verhalten. Dieses Manuskript führt in eine Vielzahl von Themengebieten und Theorien ein. "
+abstract: "Ecological Psychology deals with interactions of human beings with their environment. The interaction takes it's effect via the environment that influences experiences, behaviour and the health of people. People react to that changing their environment that affects them. This manuscript introduces into several topics and theories."
 ---
 
