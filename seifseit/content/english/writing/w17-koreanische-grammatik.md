@@ -1,5 +1,5 @@
 ---
-title: "Koreanische Kurzgrammatik"
+title: "Small Grammar Book of Korean"
 date: 2010-01-10
 author: Jan Seifert
 image : "images/blog/koreanisch.webp"
@@ -15,5 +15,5 @@ information:
     info : "Curious people"
 
 download: /download/Koreanische_Grammatik.pdf
-abstract: "Soweit es mein bescheidenes Wissen erlaubt habe ich diese Grammatik hier zusammengeschrieben. Gelegentlich optimiere ich dieses Dokument erweitere, überarbeite und korrigiere es. Diese Grammatik wird zwar der Prüfung eines Sprachwissenschaftlers wohl kaum standhalten, aber sie umfasst doch zahlreiche Grundregeln, die auf nachvollziehbare Weise aufbereitet wurden."
+abstract: "As much as my humble knowledge allows I collected the material for this grammar book. Every now and then I may add or correct something. This book may never satisfy a linguist, certainly not, but it provides several basic rules that are probably described in a way more understandable to Germans at the cost of precision."
 ---
