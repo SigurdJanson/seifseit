@@ -1,5 +1,5 @@
 ---
-title: "Interventionsformen in der Langzeitbehandlung schizophrener Patienten"
+title: "Forms of Intervention in the Long-Term Treatment of Schizophrenic Patients"
 date: 2008-01-09
 author: Jan Seifert
 image : "images/blog/pharmatherapy.webp"
@@ -15,6 +15,6 @@ information:
     info : "Psychology students"
 
 download: /download/Interventionsformen_in_der_Langzeitbehandlung_schizophrener_Patienten.pdf
-abstract: "Seit ihrer Entdeckung vor nunmehr über vierzig Jahren sind neuroleptische Substanzen in der Langzeittherapie unabdingbar geworden. Der permanente Rückgang der Aufenthaltsdauer schizophrener Patienten in den Kliniken wird vor allem der Entwicklung immer neuerer und besserer Präparate zugeschrieben."
+abstract: "Since it's discovery for now over forty years neuroleptic substances became indispensable in long-term treatment. The time of schizophrenic patients spent in hospitals has successively decreased which is mostly attributed to newly discovered and improved compounds. What is the current state of development, how effective is drug treatment and how does it interact with psychological approaches?"
 ---
 
