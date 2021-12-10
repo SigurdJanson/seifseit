@@ -1,5 +1,5 @@
 ---
-title: "Die Amygdala"
+title: "The Amygdala"
 date: 2002-06-17
 author: Jan Seifert
 image : "images/blog/amygdala.webp"
@@ -15,5 +15,5 @@ information:
     info : "Psychology students"
 
 download: /download/amygdala.pdf
-abstract: "Die Amygdala ist eine Struktur im Gehirn. Sie wurde aufgrund ihrer Form benannt nach dem griechischen Wort für Mandelkern. Sie liegt beiderseits anterior im Temporallappen des Gehirns. Sie ist wesentlich an der Verarbeitung emotionaler Information beteiligt. Diese Arbeit gibt einen kurzen Überblick in Struktur und Funktion dieses winzigen wie faszinierenden Zellhaufens."
+abstract: "The Amygdala is a brain structure. It has been named with the Greek word describing its shape of an almond. It is located in the anterior of the temporal lobe in either hemisphere of the brain. To a large degree it is involved in the processing of emotional information. This manuscript offers a brief overview of structure and function of this tiny and fascinating cell cluster."
 ---
