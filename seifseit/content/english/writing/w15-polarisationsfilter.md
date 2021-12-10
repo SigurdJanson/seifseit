@@ -1,5 +1,5 @@
 ---
-title: "Der Polarisationsfilter"
+title: "Polarization Filters"
 date: 2012-06-30 
 author: Jan Seifert
 image : "images/blog/polfilter.webp"
@@ -15,6 +15,6 @@ information:
     info : "Curious people"
 
 download: /download/Polarisationsfilter.pdf
-abstract: "Licht ist als Welle eine Querwelle. Das heißt, es schwingt quer zu seiner Bewegungsrichtung. Dieser Sachverhalt wird von Polarisationsfiltern ausgenutzt und erlaubt es systematisch bestimmte Lichtanteile zu eliminieren. Das Manuskript erläutert das Prinzip mit einfachen Worten noch etwas genauer."
+abstract: "When considered as wave light is a transversal wave. That means, that the direction of oscillation is orthogonal to it's direction of movement. This fact is used by polarisation filters and makes it possible to systematically remove a specific fraction from a ray of light. This manuscript tries to explain the principle with simple terms."
 ---
 
