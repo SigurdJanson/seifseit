@@ -1,5 +1,5 @@
 ---
-title: "Der Thalamus"
+title: "The Thalamus"
 date: 2002-06-17
 author: Jan Seifert
 image : "images/blog/thalamus.webp"
@@ -15,5 +15,5 @@ information:
     info : "Psychology students"
 
 download: /download/thalamus.pdf
-abstract: "Der Thalamus ist eine große Struktur im dorsalen Teil des Diencephalon: Ein eiförmiges Gebilde auf jeder Seite der Hemisphäre, die durch ein Zwischenstück verbunden sind. Er spielt eine zentrale Rolle in der Wahrnehmung und bei der Entstehung des EEGs. Dieses Manuskript beschreibt diese Hirnstruktur hinsichtlich Anatomie und Funktion."
+abstract: "The Thalamus is a relatively large structure in the dorsal part of the diencephalon: an egg-shaped formation at each side of the hemisphere that is connected with an intermediate piece. It plays a central role in perception and the generation of the EEG. THis manuscript explains this brain structure regarding anatomy and function."
 ---
