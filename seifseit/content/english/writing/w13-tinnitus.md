@@ -1,5 +1,5 @@
 ---
-title: "Psychologische Mediatoren bei komplexem Tinnitus"
+title: "Psychological Factors Mediating Complex Tinnitus"
 date: 1998-08-19
 author: Jan Seifert
 image : "images/blog/tinnitus.webp"
@@ -7,7 +7,7 @@ bg_image: "images/writing-bg.webp"
 categories: ["Psychology"]
 tags: ["Therapy"]
 languages: ["German"]
-description: "Methodenkritischer Überblick über psychologische Variablen beim Tinnitus."
+description: "Critical overview of the research regarding psychological variables with impact on Tinnitus."
 draft: false
 type: "writing"
 information:
@@ -15,6 +15,6 @@ information:
     info : "Psychologists"
 
 download: "/download/Psychologische_Mediatoren_bei_komplexem_Tinnitus.pdf" # or the medium friend link without the prefix "https://medium.com/@jan.seifert"
-abstract: "Tinnitus aurium leitet sich aus dem Lateinischen ab und bedeutet Läuten in den Ohren. Tinnitus ist zum größten Teil ein rein subjektives Phänomen, das von den Betroffenen als Klingen, Rauschen, Zischen, Pfeifen, Surren, Sausen und Brummen beschrieben wird. Nach Schätzungen aus dem angelsächsischen Raum leiden etwa 20% der Bevölkerung von Industrieländern an Tinnitus."
+abstract: "Tinnitus aurium is derived from Latin and means \"ringing in the ears\". To a large degree Tinnitus a subjective Phenomenon. Patients describe it as ring, noise, hiss, whistle, whirr, buzz, and hum. According to estimates in the  Anglo-Saxon area about 20% of the population in the industrialised countries suffer from Tinnitus."
 ---
 
