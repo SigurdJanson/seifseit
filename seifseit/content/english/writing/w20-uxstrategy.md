@@ -19,4 +19,4 @@ abstract: ""
 ---
 
 
-All the time I hear about strategy. It seems to me everyone wants to be the strategist. It is not enough to be a great designer, product owner, project manager, or researcher. Don’t we all want to be Napoleon? Let me give you some examples why I began to hold “strategies” in low regard and why I avoid iit in favour of more specific terms.
+All the time I hear about strategy. It seems to me everyone wants to be the strategist. It is not enough to be a great designer, product owner, project manager, or researcher. Don’t we all want to be Napoleon? Let me give you some examples why I began to hold “strategies” in low regard and why I avoid it in favour of more specific terms.
