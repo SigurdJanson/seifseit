@@ -25,5 +25,4 @@ Oh no! Another post about vision statements. Well, maybe you are right, but stil
 
 ## What Is a Vision?
 
-The vision is a useful tool to provide focus in a group of people to align decisions towards a common goal.
-“If you want to build a ship, ... 
+The vision is a useful tool to provide focus in a group of people to align decisions towards a common goal. "If you want to build a ship, ... "
