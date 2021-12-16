@@ -1,8 +1,8 @@
 ---
 title: "Projekte"
-description: "this is meta description"
+description: "Programme schreiben ist besser als Kreuzworträtsel"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 menu:
   main:
     name: "Projekte"

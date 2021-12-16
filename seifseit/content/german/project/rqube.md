@@ -1,19 +1,19 @@
 ---
 title: "RQube"
-description: "Random sequences for research projects"
+description: "Zufallsfolgen für Forschungsfragen"
 draft: false
 discontinued: true
 image : "images/projects/rqube.webp"
 bg_image: "images/feature-bg.jpg"
 category: ["Basic", "C++"]
 information:
-  - label : "What we did"
-    info : "Idea, Design, Implementation"
-  - label : "Tools used"
+  - label : "Aufgaben"
+    info : "Idee, Design, Entwicklung"
+  - label : "Tools"
     info : ""
-  - label : "Completed on"
+  - label : "Beendet"
     info : "November 2007"
-  - label : "Skills"
+  - label : "Fertigkeiten"
     info : "Visual Basic, C++"
 ---
 

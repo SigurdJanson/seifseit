@@ -1,5 +1,5 @@
 ---
-title: "'Vision Analyzer' Macros"
+title: "'Vision Analyzer' Makros"
 description: ""
 draft: false
 discontinued: true
@@ -7,16 +7,16 @@ image : "images/projects/visionanalyzermacros.webp"
 bg_image: "images/feature-bg.jpg"
 category: "Basic"
 information:
-  - label : "Client"
-    info : "EEG Laboratory University Trier"
-  - label : "What I did"
-    info : "Concept & Development"
-  - label : "Tools Used"
+  - label : "Aufgaben"
+    info : "Konzept & Entwicklung"
+  - label : "Tools"
     info : "Vision Analyzer"
-  - label : "Completed on"
+  - label : "Beendet"
     info : "March 2005"
-  - label : "Skills"
+  - label : "Fertigkeiten"
     info : "Sax Basic, OLE"
+  - label : "Kunde"
+    info : "EEG Labor der Uni Trier"
 ---
 
 ## BRAIN-MACROS
@@ -32,7 +32,7 @@ All nodes with a certain name of all history trees are deleted. You can specify 
 
 
 ### Delete all nodes - extended version
-All nodes with a certain name of all history trees are deleted. This version of DeleteAllNodes has extended capabilities to handle equal named nodes.
+All nodes with a certain name of all history trees are deleted. This version of DeleteAllNodes has extended capabilties to handle equal named nodes.
 
 DeleteAllNodes.vabs	
 

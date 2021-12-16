@@ -7,8 +7,6 @@ image : "images/projects/ekpscan.webp"
 bg_image: "images/feature-bg.jpg"
 category: "C++"
 information:
-  - label : "Client"
-    info : "EEG Laboratory University Trier"
   - label : "What I did"
     info : "Design, Implementation"
   - label : "Tools Used"
@@ -17,11 +15,13 @@ information:
     info : "June 2005"
   - label : "Skills"
     info : "C++"
+  - label : "Client"
+    info : "EEG Laboratory University Trier"
 ---
 
 ## EKPSCAN
 
-EkpScan is a program to view and to analyze evoked potentials.
+EkpScan was a program to view and to analyze event-related potentials.
 
 
 ### Features were

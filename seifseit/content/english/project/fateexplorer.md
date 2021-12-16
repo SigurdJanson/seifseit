@@ -49,7 +49,7 @@ An interface to roll the dice based on the ["dark eye" rule system](https://ulis
 
 * Users set the modifiers manually in the UI of the app and roll the dice. The character sheet import does not support special abilities, states, conditions, etc. 
 * Language can only be changed in the source code of the script.
-* FE is still ignorant of some very pecial rules for weapons; e.g. rolling a 19 with an improvised weapon is actually a botch but FE is not aware of that.
+* FE is still ignorant of some very special rules for weapons; e.g. rolling a 19 with an improvised weapon is actually a botch but FE is not aware of that.
 * FE does not know rules that are specific for a weapon.
 
 <br/>
