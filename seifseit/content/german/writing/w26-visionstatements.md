@@ -1,5 +1,5 @@
 ---
-title: Designing Vision Statements
+title: Der Entwurf von Vision Statements
 date: '2019-12-27'
 author: Jan Seifert
 image: images/blog/visionstatements.webp
