@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Creating software is better than doing crossword puzzles"
+description: "Making software is better than doing crossword puzzles"
 draft: false
 bg_image: "images/feature-bg.webp"
 menu:
