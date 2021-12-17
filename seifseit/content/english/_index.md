@@ -12,7 +12,7 @@ banner:
   title: "User Experience Leadership"
   content: "Empower others for great products that enrich our lives"
   button:
-    enable: true
+    enable: false
     label: "Discover My Projects"
     link: "project"
 
@@ -33,7 +33,7 @@ portfolio:
   content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knowledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions.
   "
   button:
-    enable: true
+    enable: false
     label: "View Works"
     link: "project"
 
@@ -43,8 +43,8 @@ portfolio:
 recent-posts:
   enable: false
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Abracadabra" 
+  title: ""
+  content: "" 
   button:
     enable: true
     label: "Latest Activity"

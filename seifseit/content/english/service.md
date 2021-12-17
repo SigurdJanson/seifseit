@@ -56,11 +56,11 @@ featured_service:
 service:
   enable : true
   title : "Principles"
-  description : "Principles to strive for ..."
+  description : "... to strive for ..."
   service_item:
     # service item loop
     - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
-      name: Learning-Oriented
+      name: Learn 
       content: "I can tolerate failure when it helps me learn and grow. Failure without growth gnaws at me."
 
     # service item loop
