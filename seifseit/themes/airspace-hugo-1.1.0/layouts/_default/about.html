@@ -7,12 +7,12 @@
 <section class="about section">
   <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="about-img">
           <img class="img-responsive" src="{{ .image | relURL }}">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-8">
         {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}
@@ -22,8 +22,38 @@
         {{ end }}
       </div>
     </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.insight }}
+{{ if .enable }}
+<section class="about section bg-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="">
+          {{ with .title -}}
+          <p>{{ . | markdownify }}</p>
+          {{- end }}
+        </div>
+        <div class="listintro">
+          {{ with .message }}
+          <p>{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<section class="about section">
+  <div class="container">
     <div class="row counter-box text-center mt-50">
-      {{ range .funfacts }}
+      {{ range .Params.funfacts }}
       <div class="col-md-2">
         <div class="counter-item">
           {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
@@ -35,8 +65,7 @@
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
+
 
 {{ with .Params.features }}
 {{ if .enable }}

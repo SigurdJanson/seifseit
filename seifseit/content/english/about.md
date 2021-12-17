@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: ""
-bg_image: "images/jan2013.webp"
+bg_image: "images/globe-detailed_labelled.svg"
 layout: "about"
 draft: false
 menu:
@@ -14,65 +14,71 @@ menu:
 about:
   enable : true
   image : "images/Jan2013c.jpg"
-  title : "... leads user experience design"
+  title : "My Story"
   content : "
 
-### Education
-
-Despite my fascination for technology I wanted to understand people better and studied Psychology. 
+My background built up in stages. Despite my fascination for technology I wanted to understand people better and went to study Psychology. Three topics enthralled me the most: the biological basis of the human mind, the research methods we can use to gain insight about humans; and how our environment interacts with us and we with it.
 
 
-### Professional career
+### Biology Stage
 
-At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment was all I could for a time. That is why I stayed at university. Having received a doctor of the natural sciences in 2005 I left university though and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For 16 years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping. 
+At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment was all I could for a time. That is why I stayed at university after receiving my diploma. For the fun of curiosity.
 
-### Interests
+
+### UX Stage
+
+Having received a doctor of the natural sciences in 2005 I left university though and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For 16 years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping. 
+
+
+### Environmental Stage
+
+Though human-environment relations are an important basis to understand user experience, too, it became increasingly important in the last few years. By now it is not only the interaction between people and technology. People and their groups and organisation move more and more into my focus. How do organisations shape, limit or free the potential of people? I do not think we will ever fully understand it. But we are making progress.
+
+
+### Key Interests
 
 * Emotional and social aspects of human-machine-interaction.
 
-* User Research - quantitative and qualitative Analyses; anything from contextual inquiry to a summative product evaluation
+* **User Research** - quantitative and qualitative Analyses; anything from contextual inquiry to a summative product evaluation
 
-* Design Leadership
+* **Design Leadership** became increasingly important when my role changed over the years.
 
-* Organisation design & development
+* **Organisational development** and along with it I am re-strengthening my connection to my psychology background through behavioural design.
 "
 
+insight:
+  enable: true
+  title: "One piece of insight I gained on my journey ..."
+  message: "The most valuable resource you have in your organisation? It is not time. And it is not money. ... It is attention."
 
-  funfacts:
-  # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Completed Projects"
-    count : "64"
 
-  # # funfacts loop
-  # - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-  #   name : "Lines Of Code"
-  #   count : "35000"
+funfacts:
+# funfacts loop
+- icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Completed Projects"
+  count : "64"
 
-  # funfacts loop
-  - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "33"
+# funfacts loop
+- icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Satisfied Customer"
+  count : "33"
 
-  # funfacts loop
-  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Years of Experience"
-    count : "16"
+# funfacts loop
+- icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Years of Experience"
+  count : "16"
 
-  # funfacts loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "User Research Contacts"
-    count : "259"
+# funfacts loop
+- icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "User Research Contacts"
+  count : "259"
 
-  # # funfacts loop
-  # - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-  #   name : "Awards Winner"
-  #   count : "20"
+
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "Ever Curious"
+  title : "Curiosity-driven Activities"
   feature_item:
   # feature item loop
   - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
