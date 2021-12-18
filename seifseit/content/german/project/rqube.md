@@ -19,21 +19,22 @@ information:
 
 ## RQube
 
-The major advantages of RQube are:
+Die wesentlichen Vorteil von RQube:
 
-* Full control over the randomization
-* An individual series of experimental conditions for each experimental subject
-* Fast processing
-* Different randomization criteria for varying needs
+* Komplette Kontrolle über die Randomisierung
+* Eine eigene Zufallsfolge von experimentellen Bedingungen für jeden Studienteilnehmer
+* Schnelle Generierung
+* Unterschiedliche Randomisierungskriterien anpassbar an die jeweiligen Anforderungen
 
 
-### The Features of RQube
-* RQube is not constrained to a single purpose of randomization. It randomizes according to various experimental needs.
-* RQube is easy to use. It allows researchers to create stimulus sequences in an uncomplicated manner, to make sure, that the items in the sequence are well distributed, and to minimize predictability.
-* RQube is fast. It is possible to assign an individual trial sequence to every subject.
-* RQube output can easily be implemented in E-Prime and Presentation
-* RQube has four different high quality random number generators implemented for effective and reliable randomization
-* RQube provides output about the characteristics of the sequences. It is possible to introduce sequence characteristics as covariate/ continuous predictor into the ANOVA.
-* The authors provide an extensive documentation along with the program.
+### Die Features
 
-There is <a href="http://rqube.seifseit.de/">an old website online</a> with more details.
+* RQube ist vielseitig und nicht auf einen Anwendungsfall beschränkt. Es randomisiert für unterschiedliche experimentelle Anforderungen.
+* RQube ist einfach zu nutzen. Mit Hilfe von Parametern kann man die Eigenschaften der Zufallsfolgen beeinflussen, die Verteilung gleichmäßig über eine Folge zu gewährleisten und die Vorhersagrbarkeit zu minimieren.
+* RQube ist fix. Somit kann man für viele einzelne Folgen generieren.
+* RQube Ausgaben können einfach in Tools wie E-Prime oder Presentation verwendet werden.
+* RQube unterstützt mehrere Zufalsszahlgeneratoren.
+* Zusätzlich zu den einzelnen Folgen gibt RQube die Eigenschaften zu jeder Sequenz aus. Auf diese Weise können die Eigenschaften als Kovariate in der statistischen Analyse berücksichtigt werden.
+* Es gibt eine umfassende Dokumentation zum Programm.
+
+Eine <a href="http://rqube.seifseit.de/">ältere Webseite</a> mit mehr Details ist nach wie vor online.
