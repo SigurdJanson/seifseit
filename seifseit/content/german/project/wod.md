@@ -7,22 +7,22 @@ image : "images/projects/wod.webp"
 bg_image: "images/feature-bg.jpg"
 category: [ "Blazor", "C#" ]
 information:
-  - label : "Client"
-    info : "Ankes Keksgenuss"
-  - label : "What I do"
-    info : "Design, Implementation"
-  - label : "Tools used"
-    info : "Pen & Paper; Git"
+  - label : "Aufgaben"
+    info : "Design, Entwicklung"
+  - label : "Tools"
+    info : "Papier & Stift; Git"
   - label : "Status"
-    info : "In progress"
-  - label : "Skills"
+    info : "Fortschreitend"
+  - label : "Fertigkeiten"
     info : "C# / Blazor; HTML5 / CSS3"
+  - label : "Kunde"
+    info : "Ankes Keksgenuss"
 ---
 
 ## Wizard of Doughs
 
-An app to improve logistics in the bakehouse with a focus on very small enterprises like [Ankes Keksgenuss](https://keksgenuss.de). One big challenge in the online business are the high fluctuations in the need of products. Since the business model of Ankes Keksgenuss includes the promise of freshly baked cookies it is not possible to build a stock that acts as buffer between manufacturing and demand.
+Eine App, die die Organisation rund um eine Backstube für Kleinstunternehmer optimiert. Entwickelt wird der WoD für [Ankes Keksgenuss](https://keksgenuss.de). Eine große Herausforderung beim Online Business sind die starken Fluktuationen und die geringe Planbarkeit beim Bedarf der Backwaren. Das Geschäftsmodell von Ankes Keksgenuss fußt auf dem Versprechen frisch gebackener Kekse. Daher ist es nicht möglich einen Lagerbestand aufzubauen, der als Puffer zwischen Herstellung und Kunde dienen könnte. Der WoD vereinfacht daher die Organisation.
 
-This app is currently closed source.
+Diese App ist aktuell "Closed Source".
 
 

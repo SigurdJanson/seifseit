@@ -8,7 +8,7 @@ bg_image: "images/feature-bg.jpg"
 category: [ "R", "Shiny" ]
 information:
   - label : "Aufgaben"
-    info : "Konzept, Design, Entwicklung"
+    info : "Design, Entwicklung"
   - label : "Tools"
     info : "Inkscape, R-Studio, Krita"
   - label : "Projektstatus"
