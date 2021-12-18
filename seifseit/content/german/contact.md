@@ -1,7 +1,7 @@
 ---
 title: "Schick ne Nachricht"
 description: ""
-bg_image: "images/connect-bg.jpg"
+bg_image: "images/connect2-bg.webp"
 layout: "contact"
 draft: false
 menu:

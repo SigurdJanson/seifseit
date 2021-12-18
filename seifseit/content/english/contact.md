@@ -1,7 +1,7 @@
 ---
 title: "Drop Me A Note"
 description: ""
-bg_image: "images/pexels-cottonbro-4659806.webp"
+bg_image: "images/connect2-bg.webp"
 layout: "contact"
 draft: false
 menu:
