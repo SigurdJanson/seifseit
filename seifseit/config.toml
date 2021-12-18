@@ -24,14 +24,21 @@ extended = true
 min = "0.89.0"
 
 
-################################# Output formats ##############################
+################################ Output formats ###############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
 
 [outputs]
 home = [ "HTML" ]
 
 
-################################# Markup ######################################
+
+################################# Frontmatter ##################################
+# Documentation: https://gohugo.io/getting-started/configuration/#configure-front-matter
+[frontmatter]
+  lastmod = ['lastmod', ':fileModTime', ':default']
+
+
+#################################### Markup ####################################
 # Documentation: https://gohugo.io/getting-started/configuration-markup
 
 [markup.goldmark.renderer]
