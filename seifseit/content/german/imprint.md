@@ -59,20 +59,4 @@ Spam wird nicht nur in Form von Mails produziert, sondern tarnt sich gelegentlic
 
 ### Verwendete Bilder
 
-* [/TODO/](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels), ["Yellow and Green Led Light"](https://images.pexels.com/photos/4835419/pexels-photo-4835419.jpeg), [Black Framed Eyeglasses on White Table](https://www.pexels.com/photo/black-framed-eyeglasses-on-white-table-5083246/)  und ["Person Using Silver Macbook on White Table"](https://www.pexels.com/photo/person-using-silver-macbook-on-white-table-4065897/) von [Cottonbro](https://www.pexels.com/@cottonbro).
-  
-* ["Bird's Eye View of Group of People"](https://www.pexels.com/photo/bird-s-eye-view-of-group-of-people-1299086/) von [san-fermin-pamplona](https://www.pexels.com/@san-fermin-pamplona-549332).
-* ["Books on Desk"](https://www.pexels.com/photo/books-on-desk-3747295/) von [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman).
-* ["Crowd of people inside white building"](https://www.pexels.com/photo/crowd-of-people-inside-white-building-1770808/) von [Luis Dalvan](https://www.pexels.com/@luisdalvan).
-* ["Crop doctor showing pills to patient in clinic"](https://www.pexels.com/photo/crop-doctor-showing-pills-to-patient-in-clinic-4021808/) von [Karolina Grabowska](https://www.pexels.com/@karolina-grabowska).
-* ["Collection of Books in Bookshelves"](https://www.pexels.com/photo/collection-of-books-in-bookshelves-9565975/) von [Taryn Elliott](https://www.pexels.com/@taryn-elliott).
-* ["Focus Photo of Camera Lens"](https://www.pexels.com/photo/focus-photo-of-camera-lens-752525/) von [Omar Houchaimi](https://www.pexels.com/@omarhouc).
-* ["landscape-nature-person-hands"](https://www.pexels.com/photo/landscape-nature-person-hands-1927595/) von [Ravi Kant](https://www.pexels.com/@ravikant).
-* ["Closeup Photography of Metal Frame"](https://www.pexels.com/photo/closeup-photography-of-metal-frame-352097/) von  [kumar gaurav](https://www.pexels.com/@gaurav007)
-* ["Gray Metal Cubes Decorative"](https://www.pexels.com/photo/gray-metal-cubes-decorative-1005644/) von [Oleg Magni](https://www.pexels.com/@oleg-magni).
-* ["Code on a Screen"](https://www.pexels.com/photo/code-on-a-screen-4383298/) von [Markus Spiske](https://www.pexels.com/@markusspiske).
-* ["White and Brown Round Frame"](https://www.pexels.com/photo/white-and-brown-round-frame-7911758/) von [Rodion Kutsaiev](https://www.pexels.com/@frostroomhead).
-* ["Splashing of Flour over Dough"](https://www.pexels.com/@klaus-nielsen) von [Klaus Nielsen](https://www.pexels.com/@klaus-nielsen).
-* ["Person Welding Wearing a Prootective Metal Mask"](https://www.pexels.com/photo/person-welding-wearing-a-prootective-metal-mask-3158651/) von [Kateryna Babaieva](https://www.pexels.com/@kateryna-babaieva-1423213) 
-* ["Contemporary Art"](https://www.pexels.com/photo/contemporary-art-3336447/) von [Elīna Arāja](https://www.pexels.com/@elina-araja-1743227)
-* ["Kreativ"](https://pixabay.com/de/photos/kreativ-seien-sie-kreativ-schreiben-725811/) by [Ramdlon](https://pixabay.com/de/users/ramdlon-710044/)
+{{< imageref  tag="images" by="von" >}}
