@@ -1,0 +1,12 @@
+{{ if .IsNamedParams -}}
+{{ $jsondata := index $.Site.Data.imagerefs $.Params.tag }}
+<ul>
+    {{ range $jsondata  -}}
+    {{ if .image }} 
+    <li><p>
+        <a href="{{ .imageurl }}">"{{ .image }}"</a> {{ $.Params.by }} <a href="{{ .authorurl }}">{{.author}}</a>.
+    </p></li>
+    {{ end }}
+    {{ end }}
+</ul>
+{{- end }}
