@@ -64,20 +64,33 @@ section.feature.bg-2 > div > div > div {
 // menu: language selector
 .select-language {
     margin-left:3rem;
-    width: 100%;
-    cursor: pointer;
+    width: 10rem;
+
+    &:after {
+        font-family: "Ionicons";
+        content: '\f3d0';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        font-size: 14px;
+        padding: 11px 15px;
+        pointer-events: none;
+    }
 
     select#select-language {
-/*      -webkit-appearance:none;
+        -webkit-appearance:none;
         -moz-appearance:none;
         -ms-appearance:none;
-        appearance:none; */
+        appearance:none;
+        width:100%; //(7+4)rem;
         outline: 0;
         background: $light;
         border: none;
         color: #5c5c5c;
         padding: 10px 15px;
         margin: 0px;
+        cursor: pointer;
         font-weight: 500;
         font-size: 14px;
         text-transform: uppercase;
