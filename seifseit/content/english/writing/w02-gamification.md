@@ -15,7 +15,7 @@ information:
     info : "Designers & CX Managers"
 
 download: "/download/Gamification_KritischerBlick.pdf"
-abstract: "Gamification is **the** trend in user experience. It \"... is the use of game design elements in non-game contexts\" (Deterding, 2011). Gamification seems to claim that these games design elements shall be a homogenuous collection of tools (i.e. design patterns). How else can we explain that authors experiment with universal systematic approaches (z.B. Schering, 2014) or others ask questions like \"Does Gamification Work?\" (Hamari, Koivisto & Sarsa, 2014). The following pages take a peek under ..."
+abstract: "Gamification is **the** trend in user experience. It \"... is the use of game design elements in non-game contexts\" (Deterding, 2011). Gamification seems to claim that these games design elements shall be a homogeneous collection of tools (i.e. design patterns). How else can we explain that authors experiment with universal systematic approaches (z.B. Schering, 2014) or others ask questions like \"Does Gamification Work?\" (Hamari, Koivisto & Sarsa, 2014). The following pages take a peek under ..."
 ---
 
 

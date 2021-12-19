@@ -15,5 +15,5 @@ information:
     info : "Social scientists"
 
 download: "/download/Effektgroessen.pdf"
-abstract: "Overview over numerours effect sizes used in analyses of variance and their use. They can be of great value once you know how to interpret them but the whole topic is rather intransparent. Various authors prefer different effect sizes, there is no agreement and arguments seem biased (at least to me). The mathematics behind them does not make it easier to understand."
+abstract: "Overview over numerous effect sizes used in analyses of variance and their use. They can be of great value once you know how to interpret them but the whole topic is rather intransparent. Various authors prefer different effect sizes, there is no agreement and arguments seem biased (at least to me). The mathematics behind them does not make it easier to understand."
 ---
