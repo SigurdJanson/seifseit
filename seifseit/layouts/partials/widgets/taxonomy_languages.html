@@ -1,0 +1,13 @@
+<div class="widget widget-tag">
+    <h4 class="widget-title">{{ i18n "hLanguage" }}</h4>
+    {{- if isset site.Taxonomies "languages" }}
+    {{- if not (eq (len site.Taxonomies.languages) 0) }}
+    <ul class="widget-tag-list">
+      {{- range site.Taxonomies.languages }}
+      <li><a href="{{ .Page.RelPermalink }}"{{ if (and (eq $.Page.Kind "term") (eq $.Page.Type "languages") (eq $.Page.Title .Page.Title)) }} class="current"{{ end }}>{{ .Page.Title }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+</div>
+  
