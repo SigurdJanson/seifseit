@@ -36,7 +36,16 @@
               <li><i class="ion-android-people"></i>
                 {{ i18n "posted_by" }}
                 {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
-                {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+                {{ range $index, $elements := $authors -}}
+                  {{ if ne $index 0 }}, {{ end }}
+                    {{ if eq . "Jan Seifert" }}
+                      <a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">
+                    {{ end }}
+                    {{ . -}}
+                    {{ if eq . "Jan Seifert" -}}
+                      </a>
+                    {{- end }}
+                {{- end }}
               </li>
               <li><i class="ion-pricetags"></i>
                 {{ range $index, $elements:= .Params.tags }}{{with .}}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}
