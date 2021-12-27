@@ -1,10 +1,12 @@
 ---
-title: "Private Projekte"
+title: "Eigene Softwareprojekte"
 description: "Programme schreiben ist besser als Kreuzworträtsel"
 draft: false
 bg_image: "images/swprojects-bg.webp"
 menu:
   main:
-    name: "Projekte"
-    weight: 3
+    parent: "Arbeiten"
+    name: "Eigene Projekte"
+    identifier: "projects"
+    weight: 9
 ---

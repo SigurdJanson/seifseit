@@ -8,5 +8,5 @@ menu:
   main:
     parent: "Arbeiten"
     name: "Publikationen"
-    weight: 4
+    weight: 6
 ---
