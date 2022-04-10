@@ -15,35 +15,21 @@ about:
   enable : true
   image : "images/Jan2013c.jpg"
   title : "My Story"
-  content : "
-
-My background built up in stages. Despite my fascination for technology I wanted to understand people better and went to study Psychology. Three topics enthralled me the most: the biological basis of the human mind, the research methods we can use to gain insight about humans; and how our environment interacts with us and we with it.
-
-
-### Biology Stage
-
-At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment was all I could for a time. That is why I stayed at university after receiving my diploma. For the fun of curiosity.
-
-
-### UX Stage
-
-Having received a doctor of the natural sciences in 2005 I left university though and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For 16 years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping. 
-
-
-### Environmental Stage
-
-Though human-environment relations are an important basis to understand user experience, too, it became increasingly important in the last few years. By now it is not only the interaction between people and technology. People and their groups and organisation move more and more into my focus. How do organisations shape, limit or free the potential of people? I do not think we will ever fully understand it. But we are making progress.
+  content : "<p>Despite my fascination for technology I wanted to understand people what drives people and went to study Psychology. Three topics enthralled me the most: the biological basis of the human mind, the research methods we can use to gain insight about humans, and how our environment interacts with us and we with it.</p>
+  <p>At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment. I stayed at university after receiving my diploma. For the fun of curiosity.</p>
+  <p>Having received my Doctor of Natural Sciences in 2005 I left university and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For 16 years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping.</p>
+  <p>Though human-environment relations are an important basis to understand user experience, too, it became increasingly important in the last few years. By now it is not only the interaction between people and technology. People and their groups and organisation move more and more into my focus. How do organisations shape, limit or free the potential of people? I do not think we will ever fully understand it. But we are making progress.</p>
 
 
 ### Key Interests
 
+* **Organisational development** and along with it I am re-strengthening my connection to my psychology background through behavioural design.
+
 * Emotional and social aspects of human-machine-interaction.
 
-* **User Research** - quantitative and qualitative Analyses; anything from contextual inquiry to a summative product evaluation
+* **User and Customer Research** - quantitative and qualitative analyses and the underlying [operations (Research Ops)](https://researchops.community/).
 
 * **Design Leadership** became increasingly important when my role changed over the years.
-
-* **Organisational development** and along with it I am re-strengthening my connection to my psychology background through behavioural design.
 "
 
 insight:
@@ -119,39 +105,27 @@ testimonial:
 
 mission_vision:
   enable : true
+  title: "Insights"
   tabs:
   # tab item loop
-  - name : "Enable"
-    content : "Situated and problem-led. \n
-
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Understand"
+    content : "Creating great products that people love ... it is not a simple task and it can only succeed by changing some of our ways. When friends of mine advocate design-driven organisations, agile organisation, or innovation-driven organisation, I tend to ask: 'what is the problem we are trying to solve?' Because **a goal is tool**. Not a solution. Which is why we should never stop asking ourselves who we are and where our path can lead to a brighter future."
 
   # tab item loop
   - name : "Adapt"
     content : "The value of a user-centered approach is not universal. You can use it to follow a diverse 
-    number of goals. I am always eager to find out what works. What are your best goals to pursue?
+    number of goals. I am always eager to find out what works and for whom. What are your best goals to pursue?
     What do we have to do to implement UX so that you can pursue these goals in the most efficient way?
     How can we inspire people and convince others to adopt user-centered practices? These are the questions
-    that drive me in my projects. I never stop looking for answers."
+    that drive me in my projects. Never stop looking for answers."
 
   # tab item loop
   - name : "Simplify"
-    content : "Situated and problem-led. \n
-    
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+    content : "The recent growth of agile practices changed our working world in many ways and opens so many opportunities. But we have not found our new balance, yet. The continuous cycle of inspection, adaptation, and learning bears the risk of overload. It is of paramount importance that we find our way to new routines that embrace change as part of the routine. Many ideas appear great on a strategic level but turn out to be unnecessarily complex when we put them on an operational level. Strive for simplicity and be aware that **simplicity lies in the details**."
+
+  # tab item loop
+  - name : "Enable"
+    content : "**Strategy does not work without execution**. Working it all out from the top is meaningless micromanagement though. Provide information, offer impulses, draw borders, support, but most of all: find ways that allow execution to see the consequences of their decisions fast. Create a system that allows co-workers to grow and develop ways to set their own goals that fit the organisation's strategy."
 
 
 ############################# call to action #################################

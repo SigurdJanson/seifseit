@@ -9,7 +9,7 @@ banner:
   enable: true
   bg_image: "images/jan2013.webp"
   bg_overlay: true
-  title: "User Experience Leadership"
+  title: "Guiding into User Experience"
   content: "Empower others for great products that enrich our lives"
   button:
     enable: false
@@ -21,7 +21,7 @@ about:
   enable: true
   title: "About Me" # TODO
   description: "User experience design lead, organisational design, behavioural design, and a little science communication."
-  content: "I am Jan, Lead UX Design at the distinguished UX contractor [UID, Germany](https://www.uid.com). I manage projects adapting to changing conditions. I support, teach and I empower. I support the growth of ux design abilities in companies and establish the environment a user-centred approach needs to take full effect."
+  content: "I am Jan, Lead UX Design at the distinguished UX contractor [UID, Germany](https://www.uid.com). I lead in a large diversity projects.I support, teach and I empower. I support the growth of ux design abilities in companies and establish the environment a user-centred approach needs to take full effect. Understand the individual requirements of the projects, needs of my clients and their customers and user. Then adapt to it."
   image: "images/logo.svg"
 
 
@@ -30,8 +30,8 @@ portfolio:
   enable: true
   bg_image: "images/creative.webp"
   title: "Ideas are the one resource that never runs out"
-  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knowledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions.
-  "
+  content: "Leading in the creative business has different implications than what we are used to. Though - of course - creativity is affected by limited resources and even benefits from it, it has unique consequences. Ideas never run out. It is a resource with a surplus. You cannot handle it the same way you handle time and knowledge. That is why collaboration in the creation and innovation business can develop a completely different dynamic and challenges that require unobvious solutions."
+
   button:
     enable: false
     label: "View Works"
@@ -99,23 +99,21 @@ funfacts:
 
 testimonial_slider:
 # testimonial item loop
-- name: "Raymond Roy"
+- name: "RR"
   image: "images/clients/avater-1.jpg"
   designation: "CEO-Themefisher"
   content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 # testimonial item loop
-- name: "Randi Renin"
+- name: "RR"
   image: "images/clients/avater-1.jpg"
   designation: "CEO-Themefisher"
   content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 # testimonial item loop
-- name: "Rose Rio"
+- name: "RR"
   image: "images/clients/avater-3.jpg"
   designation: "CEO-Themefisher"
   content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
 ---
 
