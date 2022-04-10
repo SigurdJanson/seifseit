@@ -15,6 +15,8 @@ social:
     link : "https://medium.com/@jan.seifert"
   - icon : "icon-seifseit-researchgate" # own icon
     link : "https://www.researchgate.net/profile/Jan-Seifert-2"
+  - icon : "icon-seifseit-gcupa"
+    link : "https://germanupa.de/profile/6932"
 ---
 
 I am Jan, the maintainer of this site. Find more on the ["About Me" page]({{< ref "/about" >}} "About Me").

@@ -104,7 +104,7 @@ success_image = "images/paper-plane.svg"
 
 ################################# Google map ##################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "48.888187"
 map_longitude = "9.201936"
@@ -139,23 +139,32 @@ username = ""
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://twitter.com/usernaut"
+alt = "Twitter"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://de.linkedin.com/in/jan-seifert-3194951b1"
+alt = "Linked In"
 
 [[params.social]]
-icon = "icon-seifseit-xing" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-seifseit-xing" #
 link = "https://www.xing.com/profile/Jan_Seifert7"
+alt = "Xing"
 
 [[params.social]]
-icon = "icon-seifseit-medium" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-seifseit-medium" #
 link = "https://medium.com/@jan.seifert"
+alt = "Medium.com"
 
 [[params.social]]
-icon = "icon-seifseit-researchgate" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-seifseit-researchgate" #
 link = "https://www.researchgate.net/profile/Jan-Seifert-2"
+alt = "Research Gate"
 
+[[params.social]]
+icon = "icon-seifseit-gcupa"
+link = "https://germanupa.de/profile/6932"
+alt = "User Experience Professionals Association"
 
 
 
