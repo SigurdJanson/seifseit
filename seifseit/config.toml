@@ -209,7 +209,9 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 2
-copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). All Rights Reserved."
+copyright = "Copyright &copy;"#" 2022 [Jan Seifert](https://www.seifseit.de). All Rights Reserved."
+copyrightowner = "by [Jan Seifert](https://www.seifseit.de)."
+rightsreserved = "All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
@@ -227,7 +229,9 @@ languageName = "Deutsch"
 languageCode = "de-DE"
 contentDir = "content/german"
 weight = 1
-copyright = "Copyright &copy; 2021 [Jan Seifert](https://www.seifseit.de). Alle Rechte vorbehalten."
+copyright = "Copyright &copy;"#" 2022 [Jan Seifert](https://www.seifseit.de). Alle Rechte vorbehalten."
+copyrightowner = "von [Jan Seifert](https://www.seifseit.de)."
+rightsreserved = "Alle Rechte vorbehalten."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
