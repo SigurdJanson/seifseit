@@ -5,7 +5,7 @@ draft: false
 discontinued: false
 image : "images/projects/wod.webp"
 bg_image: "images/feature-bg.jpg"
-category: [ "Blazor", "C#" ]
+category: [ "Blazor / C#" ]
 information:
   - label : "Client"
     info : "Ankes Keksgenuss"

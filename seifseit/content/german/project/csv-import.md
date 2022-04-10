@@ -5,7 +5,7 @@ discontinued: false
 draft: false
 image : "images/projects/csv-import.webp"
 bg_image: "images/feature-bg.jpg"
-category: [ "R", "Shiny" ]
+category: [ "R / Shiny" ]
 information:
   - label : "Aufgaben"
     info : "Konzept, Design, Entwicklung"

@@ -5,16 +5,16 @@ draft: false
 discontinued: false
 image : "images/projects/fateexplorer.webp"
 bg_image: "images/feature-bg.jpg"
-category: [ "R", "Shiny" ]
+category: [ "Blazor / C#" ]
 information:
   - label : "What I do"
     info : "Concept, Design, Implementation"
   - label : "Tools used"
-    info : "Inkscape, R-Studio, Krita"
+    info : "Visual Studio; Inkscape, Krita; Git"
   - label : "Status"
     info : "Iterating"
   - label : "Skills"
-    info : "R / Shiny; HTML / CSS; DSA&nbsp;5"
+    info : "C# / Blazor; HTML5 / CSS3; DSA&nbsp;5"
   - label : "Client"
     info : "The Dark Eye Community"
 ---

@@ -5,18 +5,18 @@ draft: false
 discontinued: false
 image : "images/projects/fateexplorer.webp"
 bg_image: "images/feature-bg.jpg"
-category: [ "R", "Shiny" ]
+category: [ "Blazor / C#" ]
 information:
   - label : "Aufgaben"
     info : "Design, Entwicklung"
   - label : "Tools"
-    info : "Inkscape, R-Studio, Krita"
+    info : "Visual Studio, Inkscape, Krita; Git"
   - label : "Projektstatus"
     info : "Fortschreitend"
   - label : "Fertigkeiten"
-    info : "R / Shiny; HTML / CSS; DSA&nbsp;5"
+    info : "C# / Blazor; HTML5 / CSS3; DSA&nbsp;5"
   - label : "Kunde"
-    info : "Das-Schwarze-Auge Spieler"
+    info : "Das-Schwarze-Auge Gemeinde"
 ---
 
 ## DSA Fate Explorer
