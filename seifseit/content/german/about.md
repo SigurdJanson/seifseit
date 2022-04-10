@@ -1,7 +1,7 @@
 ---
 title: "Über mich"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+description: ""
+bg_image: "images/globe-detailed_labelled.svg"
 layout: "about"
 draft: false
 menu:
@@ -13,8 +13,8 @@ menu:
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
+  image : "images/Jan2013c.jpg"
+  title : "Meine Geschichte"
   content : "
 Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
 
@@ -22,133 +22,116 @@ Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse 
 
 ### Interessensschwerpunkte
 
+* **Organisationsdesign und -entwicklung** wobei ich dabei meine Wurzeln aus der Psychologie wiederentdecke und mich sehr mit Behavioural Design auseindersetze. Veränderung beginnt mit den Menschen.
+
 * Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
 
-* User Research - quantitative and qualitative Analysen vom Nutzungskontext bis zur abschließenden Produktbewertung
+* **User & Customer Research** - quantitative and qualitative Analysen und die dafür erfoderlichen [Operations (Research Ops)](https://researchops.community/).
 
-* Processberatung in Sachen Usability
-
-* Design Leadership
-
-* Organisationsdesign und -entwicklung
+* Die Auseinandersetzugn mit **Design Leadership** wurde im Laufe der Jahre zunehmend wichtiger.
 "
 
-  button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
+insight:
+  enable: true
+  title: "Eine kleine Erkenntnis von meine Weg ..."
+  message: "Die wertvollste Ressource in Eurer Organisation? Es ist nicht Zeit. Auch nicht Geld. ... Es ist Aufmerksamkeit."
 
-  funfacts:
-  # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Completed Projects"
-    count : "349"
 
-  # funfacts loop
-  - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Lines Of Code"
-    count : "35000"
+button:
+  enable : false
+  label : "Download Company Profile"
+  link : "#"
 
-  # funfacts loop
-  - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "70"
 
-  # funfacts loop
-  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "10"
 
-  # funfacts loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "75"
+funfacts:
+# funfacts loop
+- icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Abgeschlossene Projekte"
+  count : "64"
 
-  # funfacts loop
-  - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "20"
+# funfacts loop
+- icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Zufriedene Kunden"
+  count : "33"
+
+# funfacts loop
+- icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "Jahre Erfahrung"
+  count : "16"
+
+# funfacts loop
+- icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  name : "User Research Kontakte"
+  count : "259"
+
+
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Aktivitäten aus reiner Neugier"
   feature_item:
   # feature item loop
-  - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "App Entwicklung"
+    content : "Um die Arbeit mit Technologien besser zu verstehen halte ich mich auf Trab mit [R](https://www.r-project.org) und [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
 
   # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-bag" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "eCommerce"
+    content : "Verantwortlich für digitale Angelegehneiten und Design im kleinen Familienunternehmen [Ankes Keksgenuss](https://keksgenuss.de)."
 
   # feature item loop
-  - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "User Experience"
+    content : "Viele Jahre im [User Experience Design](https://www.uid.com) als Gestalter und Researcher, als Projekt- und Teamleiter und als Consultant für einen deutlicheren Produkterfolg."
 
   # feature item loop
-  - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Vernetzt"
+    content : "Immer auf der Suche nach Austausch in den Communities, dem [German UPA chapter](https://www.germanupa.de/), auf Konferenzen und Vorträgen."
 
   # feature item loop
-  - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-nutrition-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Kochen"
+    content : "Kennt Ihr leckere Fälle von einfacher Crossover Küche, lasst es mich wissen."
 
   # feature item loop
-  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-wand" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Geschichten"
+    content : "Geschichten lesen, imaginieren, oder einfach darin eintauchen."
 
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
   enable : true
+  title: "Einsichten"
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Verstehen"
+    content : "Tolle Produkte gestalten, die die Leute lieben ... ist keine einfache Sache und klappt meist nur, wenn wir auch vertraute Pfade verlassen. Während Freunde von mir die design-getriebene Organisation propagieren, oder auch agile und innovationsgretriebene, stelle ich lieber Fragen: 'Welches Problem wollen wir gerade lösen?'. Denn **ein Ziel ist nur ein Werkzeug**. Keine Lösung. Darum sollen wir nicht aufhören uns zu fragen, wo wir stehen und welcher Weg uns in eine lichtere Zukunft führen kann."
 
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Anpassen"
+    content : "Der Gewinn aus nutzerzentriertem Arbeiten ist nicht immer der Gleiche. Der Ansatz ermöglicht es ganz verschiedene Ziele zu verfolgen. Mir gehts immer darum herauszufinden was funktioniert. Was ist das beste Ziel für uns? Was müssen wir für unsere UX tun, um sie möglichst effizient zu entwickeln? Wie können wir andere inspirieren und sie für nutzerzentriertes Arbeiten begeistern? Derartige Fragen bewegen mich in meinen Projekten. Hört nicht auf Fragen zu stellen."
+
 
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Vereinfachen"
+    content : "Wachsendes agiles Arbeiten hat unsere Arbeitswelt bereits stark beeinflusst und viele Chancen eröffnet. Aber wir haben noch keine neue Balance gefunden. Der fortwährende Zyklus vin Inspektion, Anpassung und Lernen trägt das Risiko sich zu viel aufzuhalsen. Es ist absolut wichtig, dass wir neue Routinen entwickeln, die Veränderung als Teil der Routine realisieren. VIele Ideen klingen auf der strategischen Ebene plausibel und können in der Umsetzung doch viel zu kompliziert sein. Strebt nach Einfachheit und seid Euch bewusst, dass **Einfachheit im Detail liegt**."
+
+  # tab item loop
+  - name : "Aktivieren"
+    content : "**Strategie muss von der Umsetzung her gedacht werden**. Alles von oben bis ganz nach unten durchzuplanen wäre schädliches Micromanagement. Stellt Informationen zur Verfügung, gebt Impulse, bringt Risiken zum Vorschein, helft, aber vor allem: findet Mittel, die es in der Umsetzung erlaubt möglichst schnell die Auswirkungen von Entscheidungen zu verstehen. Arbeitet an einem System, dass es Kollegen ermöglicht zu wachsen und selbst Ziele zu entwickeln, die in die Strategie der Organisation passen."
 
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---

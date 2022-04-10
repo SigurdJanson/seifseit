@@ -23,7 +23,7 @@ about:
 
 ### Key Interests
 
-* **Organisational development** and along with it I am re-strengthening my connection to my psychology background through behavioural design.
+* **Organisational design and development** and along with it I am re-strengthening my connection to my psychology background through behavioural design. Change starts with people.
 
 * Emotional and social aspects of human-machine-interaction.
 
@@ -36,6 +36,7 @@ insight:
   enable: true
   title: "One piece of insight I gained on my journey ..."
   message: "The most valuable resource you have in your organisation? It is not time. And it is not money. ... It is attention."
+
 
 
 funfacts:
@@ -113,11 +114,7 @@ mission_vision:
 
   # tab item loop
   - name : "Adapt"
-    content : "The value of a user-centered approach is not universal. You can use it to follow a diverse 
-    number of goals. I am always eager to find out what works and for whom. What are your best goals to pursue?
-    What do we have to do to implement UX so that you can pursue these goals in the most efficient way?
-    How can we inspire people and convince others to adopt user-centered practices? These are the questions
-    that drive me in my projects. Never stop looking for answers."
+    content : "The value of a user-centered approach is not universal. You can use it to follow a diverse number of goals. I am always eager to find out what works and for whom. What are your best goals to pursue? What do we have to do to implement UX so that you can pursue these goals in the most efficient way? How can we inspire people and fill others with enthusiasm about user-centered practices? These are the questions that drive me in my projects. Never stop looking for answers."
 
   # tab item loop
   - name : "Simplify"
@@ -125,7 +122,7 @@ mission_vision:
 
   # tab item loop
   - name : "Enable"
-    content : "**Strategy does not work without execution**. Working it all out from the top is meaningless micromanagement though. Provide information, offer impulses, draw borders, support, but most of all: find ways that allow execution to see the consequences of their decisions fast. Create a system that allows co-workers to grow and develop ways to set their own goals that fit the organisation's strategy."
+    content : "**Strategy does not work without execution**. Working it all out from the top is meaningless micromanagement though. Provide information, offer impulses, discover risks, support, but most of all: find ways that allow execution to see the consequences of their decisions fast. Create a system that allows co-workers to grow and develop ways to set their own goals that fit the organisation's strategy."
 
 
 ############################# call to action #################################

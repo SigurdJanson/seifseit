@@ -13,7 +13,7 @@ draft: false
 
 ########################### about service #############################
 about:
-  enable : true
+  enable : false
   title : "Creative UX/UI Design Agency"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
@@ -56,7 +56,7 @@ featured_service:
 service:
   enable : true
   title : "Principles"
-  description : "... to strive for ..."
+  description : "... to strive for"
   service_item:
     # service item loop
     - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
