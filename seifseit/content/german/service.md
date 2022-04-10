@@ -9,13 +9,11 @@ draft: false
 #     parent: "Mehr"
 #     name: "Dienstleistung"
 #     weight: 1
-#   footer:
-#     name: "Dienstleistung"
-#     weight: 3
+
 
 ########################### about service #############################
 about:
-  enable : true
+  enable : false
   title : "Creative UX/UI Design Agency"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
@@ -30,7 +28,7 @@ about:
 
 ########################## featured service ############################
 featured_service:
-  enable : true
+  enable : false
   service_item:
     # featured service item loop
     - name : "Interface Design"
@@ -51,52 +49,37 @@ featured_service:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
 
+
 ############################# Service ###############################
+
+# These are shown on the start page 
+
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Prinzipien"
+  description : "... für die sich der Einsatz lohnt"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
+      name: Lernen
+      content: "Ich komme klar, wenn mal etwas schief geht. Daraus lerne ich. Kann ich das nicht, machts mich verrückt."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Andere stark machen
+      content: "Der Design Leader ist nichts ohne ein Team. Mach ich das Team stark, mach ich uns alle stark."
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-people-outline #ionicon pack v2 : https://ionicons.com/v2/
+      name: Abhängig unabhängig
+      content: "Design ist Teamarbeit: jeder muss Verantwortung für den anderen übernehmen und sich selbst. Es gibt keinen Star."
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-android-star-half #ionicon pack v2 : https://ionicons.com/v2/
+      name: Werthaltig
+      content: "Das atemberaubendste Design auf Papier ist völlig wertlos, wenn Ihr nicht die Mittel habt, das ins Produkt zu bringen."
 
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
 cta:

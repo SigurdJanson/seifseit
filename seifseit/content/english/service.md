@@ -49,6 +49,7 @@ featured_service:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
 
+
 ############################# Service ###############################
 
 # These are shown on the start page 
@@ -76,7 +77,7 @@ service:
     # service item loop
     - icon : ion-android-star-half #ionicon pack v2 : https://ionicons.com/v2/
       name: Value
-      content: "Less ambitious design in the product is better than incredible drafts on paper."
+      content: "Incredible design drafts on paper are worth nothing unless you have the means to bring it into the product."
 
 
 
