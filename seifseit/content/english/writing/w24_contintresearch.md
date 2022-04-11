@@ -12,7 +12,7 @@ draft: false
 type: "writing"
 information:
   - label : "Target Group"
-    info : "User Research, Resarch Ops"
+    info : "User Research, Research Ops"
 
 mediumlink: /continuous-integration-of-user-research-5dd728793062?source=friends_link&sk=b560c61b5dd278d96b14b6d89b96bb7a
 abstract: ""

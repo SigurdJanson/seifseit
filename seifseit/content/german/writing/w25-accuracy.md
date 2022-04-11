@@ -5,12 +5,12 @@ author: Jan Seifert
 image: images/blog/accuracy.webp
 bg_image: images/writing-bg.webp
 categories:
-  - Software Tests
+  - Software Test
 tags:
   - 'R'
 languages:
   - English
-description: 'Eine Geschichte über undichte Stellen, Verschleiß, und Abtrift'
+description: 'Eine Geschichte über undichte Stellen, Verschleiß, und Abdrift'
 draft: false
 type: writing
 information:

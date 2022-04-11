@@ -4,8 +4,8 @@ date: 2018-09-24
 author: Jan Seifert
 image : "images/blog/gamification.webp"
 bg_image: "images/feature-bg.jpg"
-categories: ["User Experience"]
-tags: ["Gamification", "Behavioural Design"]
+categories: ["User Experience", "Behavioural Design"]
+tags: ["Gamification"]
 languages: ["German"]
 description: ""
 draft: false
