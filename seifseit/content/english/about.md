@@ -114,7 +114,7 @@ mission_vision:
 
   # tab item loop
   - name : "Adapt"
-    content : "The value of a user-centered approach is not universal. You can use it to follow a diverse number of goals. I am always eager to find out what works and for whom. What are your best goals to pursue? What do we have to do to implement UX so that you can pursue these goals in the most efficient way? How can we inspire people and fill others with enthusiasm about user-centered practices? These are the questions that drive me in my projects. Never stop looking for answers."
+    content : "The value of a user-centred approach is not universal. You can use it to follow a diverse number of goals. I am always eager to find out what works and for whom. What are your best goals to pursue? What do we have to do to implement UX so that you can pursue these goals in the most efficient way? How can we inspire people and fill others with enthusiasm about user-centred practices? These are the questions that drive me in my projects. Never stop looking for answers."
 
   # tab item loop
   - name : "Simplify"

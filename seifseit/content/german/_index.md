@@ -23,7 +23,7 @@ about:
   enable: true
   title: "Über mich"
   description: "User Experience Design Lead, Organisationsdesign, Behavioural Design, und ein klein wenig Wissenschaftskommunikation."
-  content: "Ich bin Jan, Lead UX Design bei [UID](https://www.uid.com). Ich leite eine Vielzahl von Projekten. Ich unterstütze, ich unterrichte, ich bestärke. I fördere die Fähigkeiten von Oganisationen im UX Design und schaffe Umgebungen, in denen nutzerzentriertes Arbeiten seine ganze Wucht entfalten kann. Essentiell dabie sind die speziellen Anforderungen im Projekt, die Bedürfnisse meiner Kunden und deren Kunden und Nutzer. Dann stellt Euch darauf ein."
+  content: "Ich bin Jan, Lead UX Design bei [UID](https://www.uid.com). Ich leite eine Vielzahl von Projekten. Ich unterstütze, unterrichte und ermutige. Ich fördere die Fähigkeiten von Organisationen im UX Design und schaffe Umgebungen, in denen nutzerzentriertes Arbeiten seine ganze Wucht entfalten kann. Essentiell dabei sind die speziellen Anforderungen im Projekt, die Bedürfnisse meiner Kunden und deren Kunden und Nutzer. Dann stellt Euch darauf ein."
   image: "images/logo.svg"
 
 
@@ -32,7 +32,7 @@ portfolio:
   enable: true
   bg_image: "images/creative.webp"
   title: "Ideen. Die eine Ressource, die nie ausgeht."
-  content: "Führung ist in der Kreativbranche an spezielle Bedingungen geknüpft, die wir sonst weniger gewohnt sind. Obwohl Kreativität - natürlich - auch von schmalen Ressourcen beeinträchtigt wird, sie kann auch davon profitieren. Die Arbeit damit ist etwas Besonderes. Es ist eine Ressource mit permanentem Überschuss. Damit kann man nicht umgehen wie mit Wissen oder Zeit und die Arbeit im Bereich KReativität und Innovation unterliegt einer anderen Dynamik mit Herausforderungen ohne offensichtliche Lösung."
+  content: "Führung ist in der Kreativbranche an spezielle Bedingungen geknüpft, die wir sonst weniger gewohnt sind. Obwohl Kreativität - natürlich - auch von schmalen Ressourcen beeinträchtigt wird, sie kann auch davon profitieren. Die Arbeit damit ist etwas Besonderes. Es ist eine Ressource mit permanentem Überschuss. Damit kann man nicht umgehen wie mit Wissen oder Zeit und die Arbeit im Bereich Kreativität und Innovation unterliegt einer anderen Dynamik mit Herausforderungen ohne offensichtliche Lösung."
 
 
   button:
@@ -76,7 +76,7 @@ service:
 funfacts:
   enable: false
   title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description: "'Far far away, behind the word mountains, far from the countries #### and #####, <br> there live the blind texts. Separated they live in ########### right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop
   - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
@@ -104,18 +104,18 @@ funfacts:
   # testimonial item loop
   - name: "Raymond Roy"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+    designation: "CEO"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Randi Renin"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+    designation: "CEO"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Rose Rio"
     image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
+    designation: "CEO"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 ---

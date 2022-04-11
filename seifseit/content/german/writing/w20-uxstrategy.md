@@ -18,4 +18,4 @@ mediumlink: /one-mans-strategy-is-another-man-s-grind-9b613997f91f?source=friend
 abstract: ""
 ---
 
-Allzu häufig höre ich von Strategien. Scheint als wolle jedermann ein Stratege sein. Es ist nicht genug ein toller Designer zu sein, ein Product Owner, Projekleiter order Researcher. Als ob wir alle ein wenig Napoleon sein wollten? Wenn ich Euch ein paar Beispiele nennen darf, warum ich den Stratgiebegriff zunehmend ein wenig geringschätze und warum ich ich ihn vermeide um ihn durch etwas Konkreteres zu ersetzen. 
+Allzu häufig höre ich von Strategien. Scheint als wolle jedermann ein Stratege sein. Es ist nicht genug ein toller Designer zu sein, ein Product Owner, Projekteiter order Researcher. Als ob wir alle ein wenig Napoleon sein wollten? Wenn ich Euch ein paar Beispiele nennen darf, warum ich den Strategiebegriff zunehmend ein wenig geringschätze und warum ich ich ihn vermeide um ihn durch etwas Konkreteres zu ersetzen. 

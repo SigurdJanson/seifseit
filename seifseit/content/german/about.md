@@ -22,13 +22,13 @@ Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse 
 
 ### Interessensschwerpunkte
 
-* **Organisationsdesign und -entwicklung** wobei ich dabei meine Wurzeln aus der Psychologie wiederentdecke und mich sehr mit Behavioural Design auseindersetze. Veränderung beginnt mit den Menschen.
+* **Organisationsdesign und -entwicklung** wobei ich dabei meine Wurzeln aus der Psychologie wiederentdecke und mich sehr mit Behavioural Design auseinandersetze. Veränderung beginnt mit den Menschen.
 
 * Emotionale and soziale Aspekte der Mensch-Maschine-Interaktion
 
-* **User & Customer Research** - quantitative and qualitative Analysen und die dafür erfoderlichen [Operations (Research Ops)](https://researchops.community/).
+* **User & Customer Research** - quantitative and qualitative Analysen und die dafür erforderlichen [Operations (Research Ops)](https://researchops.community/).
 
-* Die Auseinandersetzugn mit **Design Leadership** wurde im Laufe der Jahre zunehmend wichtiger.
+* Die Auseinandersetzung mit **Design Leadership** wurde im Laufe der Jahre zunehmend wichtiger.
 "
 
 insight:
@@ -80,7 +80,7 @@ features:
   # feature item loop
   - icon : "ion-bag" #ionicon pack v2 : https://ionicons.com/v2/
     name : "eCommerce"
-    content : "Verantwortlich für digitale Angelegehneiten und Design im kleinen Familienunternehmen [Ankes Keksgenuss](https://keksgenuss.de)."
+    content : "Verantwortlich für digitale Angelegenheiten und Design im kleinen Familienunternehmen [Ankes Keksgenuss](https://keksgenuss.de)."
 
   # feature item loop
   - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -114,7 +114,7 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Verstehen"
-    content : "Tolle Produkte gestalten, die die Leute lieben ... ist keine einfache Sache und klappt meist nur, wenn wir auch vertraute Pfade verlassen. Während Freunde von mir die design-getriebene Organisation propagieren, oder auch agile und innovationsgretriebene, stelle ich lieber Fragen: 'Welches Problem wollen wir gerade lösen?'. Denn **ein Ziel ist nur ein Werkzeug**. Keine Lösung. Darum sollen wir nicht aufhören uns zu fragen, wo wir stehen und welcher Weg uns in eine lichtere Zukunft führen kann."
+    content : "Tolle Produkte gestalten, die die Leute lieben ... ist keine einfache Sache und klappt meist nur, wenn wir auch vertraute Pfade verlassen. Während Freunde von mir die design-getriebene Organisation propagieren, oder auch agile und innovationsgetriebene, stelle ich lieber Fragen: 'Welches Problem wollen wir gerade lösen?'. Denn **ein Ziel ist nur ein Werkzeug**. Keine Lösung. Darum sollen wir nicht aufhören uns zu fragen, wo wir stehen und welcher Weg uns in eine lichtere Zukunft führen kann."
 
   # tab item loop
   - name : "Anpassen"

@@ -21,31 +21,31 @@ information:
 
 ## BRAIN-MACROS
 
-This page provides several small but - nevertheless - helpful macros for the VisionAnalyzer (visit [BrainProducts](https://www.brainproducts.com/)). Not all of them can be used in your own purpose without adaptations.
+Kleine aber dennoch nützliche Makros für den VisionAnalyzer (von [BrainProducts](https://www.brainproducts.com/)). 
 
-However, after many years these macros may be outdated.
+Bitte beachtet: es kann durchaus sein, dass die Makros spezifische Anpassungen für Eure Projekte erfordern. Und nach vielen Jahren kann es sein, dass diese Makros nicht mehr aktuell sind.
  
 
 ### Delete all nodes - basic version
-All nodes with a certain name of all history trees are deleted. You can specify a parent node, that allows to discriminate equal named nodes in different branches of the history tree.
+Alle Knoten eines Analysebaums werden gelöscht. Der Nutzer legt einen Mutterknoten fest. Dadurch lassen sich gleichnamige Knoten in anderen Verzweigungen unterscheiden. 
 
 
 
 ### Delete all nodes - extended version
-All nodes with a certain name of all history trees are deleted. This version of DeleteAllNodes has extended capabilties to handle equal named nodes.
+Alle Knoten eines Analysebaums werden gelöscht. Dieser Variante von 'DeleteAllNodes' hat erweiterte Fähigkeiten im Umgang mit gleichnamigen Knoten. 
 
 DeleteAllNodes.vabs	
 
 
 
 ### Rename all nodes
-A specified nodes receives a new name. You can specify a parent node, that allows to discriminate equal named nodes in different branches of the history tree.
+Knoten mit gleichem Namen werden alle umbenannt. Der Nutzer legt einen Mutterknoten fest. Dadurch lassen sich gleichnamige Knoten in anderen Verzweigungen unterscheiden. 
 
 RenameAllNodes.vabs	
 
 
 
 ### Enhanced Edit Channels
-This macro reads new electrode names and scalp positions from a text file. (based on a macro provided by BrainProducts).
+Liest neue Elektrodennamen und Koordinaten aus einer Textdatei. (basierte ursprünglich auf einem Makro von BrainProducts).
 
 EnhancedEditChannel.vabs	
