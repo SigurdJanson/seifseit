@@ -219,8 +219,8 @@ languageName = "English"
 languageCode = "en-GB"
 contentDir = "content/english"
 weight = 2
-copyright = "Copyright &copy;"#" 2022 [Jan Seifert](https://www.seifseit.de). All Rights Reserved."
-copyrightowner = "by [Jan Seifert](https://www.seifseit.de)."
+copyright = "Copyright &copy;"
+copyrightowner = "by [Jan Seifert](/)."
 rightsreserved = "All Rights Reserved."
 
 # Navigation menus
@@ -239,8 +239,8 @@ languageName = "Deutsch"
 languageCode = "de-DE"
 contentDir = "content/german"
 weight = 1
-copyright = "Copyright &copy;"#" 2022 [Jan Seifert](https://www.seifseit.de). Alle Rechte vorbehalten."
-copyrightowner = "von [Jan Seifert](https://www.seifseit.de)."
+copyright = "Copyright &copy;"
+copyrightowner = "von [Jan Seifert](/)."
 rightsreserved = "Alle Rechte vorbehalten."
 
 # Navigation menus
