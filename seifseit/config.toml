@@ -9,8 +9,9 @@ timeZone = "CET"
 paginate = "6"
 # Post excerpt length
 summaryLength = "30"
-# Disabled languages
-disableLanguages = []
+# Languages
+defaultContentLanguage = "de"
+disableLanguages = [] 
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
@@ -67,8 +68,8 @@ ordered = false
 logo = "images/globe-detailed.svg"
 logo_width = "80px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "usernaut"
+description = "Jan Seifert: User Experience Design Lead, Organisations- und Behavioural Design."
+author = "Jan Seifert"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 
 ################################# Sidebar widgets #############################
@@ -215,7 +216,7 @@ attributes = "defer"
 ################################# English translation #########################
 [languages.en]
 languageName = "English"
-languageCode = "en-US"
+languageCode = "en-GB"
 contentDir = "content/english"
 weight = 2
 copyright = "Copyright &copy;"#" 2022 [Jan Seifert](https://www.seifseit.de). All Rights Reserved."
