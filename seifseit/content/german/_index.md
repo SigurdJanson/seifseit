@@ -9,8 +9,8 @@ banner:
   enable: true
   bg_image: "images/jan2013.webp"
   bg_overlay: true
-  title: "Zeigt den Weg in die User Experience"
-  content: "Uns gemeinsam stark machen für erstklassige Produkte die unser Leben bereichern"
+  title: "User Experience Lotse"
+  content: "Uns gemeinsam stark machen für erstklassige Produkte, die unser Leben bereichern"
   button:
     enable: false
     label: "Entdeckt meine Projekte"
