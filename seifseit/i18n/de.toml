@@ -1,3 +1,5 @@
+404_message = "Hoppla. Tut mir leid ... Irgendwie kann ich die Seite nicht (mehr) finden, nach der Ihr sucht. Aber vielleicht kann ich Euch Appetit auf Kekse machen?"
+go_cookie = "Zu mehr Keksgenuss"
 
 [btnDownload]
 other = "Download"

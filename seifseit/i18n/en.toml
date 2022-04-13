@@ -1,3 +1,5 @@
+404_message = "Hoppla. Sorry ... Somehow I can't find the page you are looking for. But maybe I can interest you in a (real) cookie?"
+go_cookie = "To great Cookies"
 
 [btnDownload]
 other = "Download"

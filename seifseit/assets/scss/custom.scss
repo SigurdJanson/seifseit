@@ -242,4 +242,24 @@ div.pub-Book::marker {
     }
 }
 
+// 404 ==============================================
+
+
+.img404{
+    background-image: url(../images/404.webp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    width: 100%;
+}
+
+.content404 {
+    background-color: #ffffff50;
+    padding-bottom: 15px;
+
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    -o-backdrop-filter: blur(4px);
+    -moz-backdrop-filter: blur(4px);
+}
+
 
