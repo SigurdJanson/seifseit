@@ -256,10 +256,10 @@ div.pub-Book::marker {
     background-color: #ffffff50;
     padding-bottom: 15px;
 
-    backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     -o-backdrop-filter: blur(4px);
     -moz-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
 }
 
 
