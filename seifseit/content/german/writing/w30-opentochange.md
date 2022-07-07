@@ -1,5 +1,5 @@
 ---
-title: Wir hassen oder lieben Veränderung nicht
+title: Wir hassen Veränderung nicht, wir lieben Veränderung nicht
 date: 2022-03-26
 author: Jan Seifert
 image: images/blog/opentochange.webp
