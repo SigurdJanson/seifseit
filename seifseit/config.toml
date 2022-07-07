@@ -29,8 +29,18 @@ min = "0.89.0"
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
 
 [outputs]
-home = [ "HTML" ]
+home = ["HTML", "humanstxt"]  # , "htaccess"
 
+[outputFormats]
+# [outputFormats.htaccess]
+#     baseName = ""
+#     isPlainText = true
+#     mediaType = "text/htaccess"
+
+[outputFormats.humanstxt]
+    baseName = "humans"
+    isPlainText = true
+    mediaType = "text/plain"
 
 
 ################################# Frontmatter ##################################
@@ -167,6 +177,12 @@ icon = "icon-seifseit-gcupa"
 link = "https://germanupa.de/profile/6932"
 alt = "User Experience Professionals Association"
 
+
+################################# humans.txt #####################################
+[author]
+  name = 'Jan Seifert'
+  email = 'admin@seifseit.de'
+  location = 'Ludwigsburg, Germany'
 
 
 ################################# Plugins #####################################

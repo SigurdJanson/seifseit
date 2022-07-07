@@ -1,0 +1,35 @@
+{{ with site.Author }}
+    {{- $author_type := (printf "%T" site.Author) }}
+    {{- if (or (eq $author_type "map[string]string") (eq $author_type "map[string]interface {}")) }}
+/* TEAM */
+    {{ range $i, $member := site.Author }}
+        {{- if (eq (printf "%T" $member) "maps.Params") }}
+            {{- partial "team-member.html" (dict "context" . "member" $member) -}}
+        {{- else if (eq (printf "%T" $member) "string") }}
+            {{- partial "team-member.html" (dict "context" . "member" site.Author) -}}
+            {{- break -}}
+        {{- end }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+
+
+/* SITE DETAILS */
+
+Site Name:      seifseit
+Site URL:       www.seifseit.de
+Latest Update:  {{ now.Format "2006/01/02" }}
+Language:       {{ range $i, $l := site.Languages }}{{ if $i }}, {{ end }}{{ .LanguageName }}{{ end }}
+Standards:      HTML5, CSS3
+Software:       hugo
+
+
+/* SOCIAL */
+{{ range $i, $item := site.Params.social }}
+{{ .alt }}: {{ .link }}
+{{- end }}
+
+
+
+/* THANKS */
+To everyone who shares, likes, comments, and contributes!
