@@ -9,8 +9,8 @@ banner:
   enable: true
   bg_image: "images/jan2013.webp"
   bg_overlay: true
-  title: "Guiding into User Experience"
-  content: "Empower each other for great products that enrich our lives"
+  title: "Guiding User Experience"
+  content: "Empower each other to build great products that enrich our lives"
   button:
     enable: false
     label: "Discover My Projects"
