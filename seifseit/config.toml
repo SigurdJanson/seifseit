@@ -29,18 +29,24 @@ min = "0.89.0"
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
 
 [outputs]
-home = ["HTML", "humanstxt"]  # , "htaccess"
+home = ["HTML", "humanstxt" , "htaccess"]
 
 [outputFormats]
-# [outputFormats.htaccess]
-#     baseName = ""
-#     isPlainText = true
-#     mediaType = "text/htaccess"
+[outputFormats.htaccess]
+    baseName = ""
+    isPlainText = true
+    mediaType = "text/htaccess" # see media types
 
 [outputFormats.humanstxt]
     baseName = "humans"
     isPlainText = true
     mediaType = "text/plain"
+
+
+########################### NON DEFAULT MEDIA TYPES ############################
+[mediaTypes]
+  [mediaTypes."text/htaccess"]
+    suffixes = ["htaccess"]
 
 
 ################################# Frontmatter ##################################

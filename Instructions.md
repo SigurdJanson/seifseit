@@ -10,6 +10,23 @@ This file needs to be located in the top directory of a site.
 
 It must contain `AddDefaultCharset UTF-8`. If not, the server will not deliver files as utf-8 which breaks umlauts and other characters.
 
+## The Solution
+
+The solution for humans.txt was taken from a [discourse discussion](https://discourse.gohugo.io/t/htaccess-humans-txt-with-template-logic/27624).
+
+We need an output format for .htaccess and (since the media type "text/htaccess" is no standard type) a user-defined media type:
+
+``` toml
+[outputFormats.htaccess]
+    baseName = ""
+    isPlainText = true
+    mediaType = "text/htaccess" # see media types
+
+[mediaTypes]
+  [mediaTypes."text/htaccess"]
+    suffixes = ["htaccess"]
+```
+
 ## Sample
 
 ```
@@ -55,5 +72,23 @@ RewriteRule \.(gif|jpg|webp|png)$ - [F]
 See also https://gooseyman.com/post/2020-05-26_password_protect_hugo_site/
 
 The .htpasswd stores the user name and the password (encrypted).
+
+
+
+
+
+
+# humans.txt
+
+The solution for humans.txt was taken from a [discourse discussion](https://discourse.gohugo.io/t/htaccess-humans-txt-with-template-logic/27624).
+
+The template file is "index.humanstxt.txt". It uses a partial to create the authors. In order for this to work, hugo also needs an output format:
+
+``` toml
+[outputFormats.humanstxt]
+    baseName = "humans"
+    isPlainText = true
+    mediaType = "text/plain"
+```
 
 

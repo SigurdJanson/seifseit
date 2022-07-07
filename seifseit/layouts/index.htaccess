@@ -1,0 +1,57 @@
+AddDefaultCharset UTF-8
+
+# Prevent viewing of .htaccess file ##!important
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Prevent directory listings
+Options All -Indexes
+
+########## Begin - GZip Support
+#
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE image/jpg
+AddOutputFilterByType DEFLATE image/png
+AddOutputFilterByType DEFLATE image/gif
+AddOutputFilterByType DEFLATE image/jpeg
+AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+#
+########## End - GZip Support
+
+
+########## Begin - Spam bot protection
+#
+RewriteCond %{HTTP_USER_AGENT} ^.*Whacker.*$ [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^EmailCollector [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailSiphon [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^EmailWolf [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^.*FileHound.*$ [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*TurnitinBot.*$ [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*JoBo.*$ [OR]
+RewriteCond %{HTTP_USER_AGENT} ^.*adressendeutschland.*$
+# Send all blocked request to homepage with 403 Forbidden error!
+RewriteRule ^.* - [F]
+#
+########### End - Spam bot protection
+
+
+########## Hotlink Prevention
+#
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://(www\.)seifseit.de/.*$ [NC]
+RewriteRule \.(gif|jpg|webp|png)$ - [F]
+#
+########## End - Hotlink Prevention
