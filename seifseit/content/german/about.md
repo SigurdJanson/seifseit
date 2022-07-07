@@ -15,9 +15,10 @@ about:
   enable : true
   image : "images/Jan2013c.jpg"
   title : "Meine Geschichte"
-  content : "
-Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse an technischen Dingen wollte er sich intensiver mit dem Menschen auseinandersetzen und  studierte zwischen 1995 und 2001 Psychologie in Trier. In der Zeit 1996 engagierte er sich im dortigen EEG-Labor und folgte seiner Faszination für die Verknüpfung von Gehirn und Geist. Der Abschluss in Psychologie folgte 2001 an der Universität Trier (Thema: Negatives Priming unter emotionalen Rahmenbedingungen).
-
+  content : "<p>Ich war schon immer fasziniert von den Möglichkeiten der Technik und dennoch wollte ich mehr darüber wissen, was Menschen antreibt. Drei Themen haben mich am meisten gepackt: die biologische Basis des Geistes, die Methoden, um Erkenntnisse über Menschen zu gewinnen, und wie unsere Umwelt mit uns interagiert und umgekehrt.</p>
+  <p>Auf der Universität bin ich früh mit der Hirnforschung in Berührung gekommen, mit elektrophysiologischer und bildgebender Forschung. Die Erkundung des menschlichen Geistes mit komplizierter technischer Ausrüstung ... ich bin blieb nach dem Diplom an der Uni für den SPaß an der Neugier.</p>
+  <p>Davon habe ich mich mit dem Doktor der Naturwissenschaften in 2005 verabschiedet und bin in die User Experience gegangen. Andere Aufgabe, gleiches Leitmotiv: das Interesse an Menschen in Verbindung mit Technologien und das Bemühen, die Beziehung der beiden zueinander zu verbessern und Allen einen fairen Zugang zu neuen Technologien zu verschaffen. In den letzten 17 Jahren habe ich dutzende Kunden unterstützt. In einer wachsenden Gemeinschaft von Kollegen und Freunden machen wir Research, konzeptuelle Gestaltung und Prototyping.</p>
+  <p>Die Interaktion von Menschen mit ihrer Umwelt natürlich auch eine wesentliches Thema in der User Experience. In den letzten Jahren bekam das noch ein ganz neues Gewicht. Es geht für mich heute nicht nur um Menschen und Technik. Die Menschen in ihrer Zusammenarbeit und den Organisationen rücken mehr ins Zentrum. Wie entwickeln sich Organisationen, wie schränken sie uns ein oder setzen Potential frei? Ich weiß nicht so recht, ob wir das jemals voll und ganz verstehen. Aber wir machen Fortschritte.</p>
 
 
 ### Interessensschwerpunkte
@@ -33,7 +34,7 @@ Jan Seifert kam im Januar 1975 in Ludwigsburg zur Welt. Trotz großen Interesse 
 
 insight:
   enable: true
-  title: "Eine kleine Erkenntnis von meine Weg ..."
+  title: "Eine kleine Erkenntnis auf meinem Weg ..."
   message: "Die wertvollste Ressource in Eurer Organisation? Es ist nicht Zeit. Auch nicht Geld. ... Es ist Aufmerksamkeit."
 
 
@@ -135,3 +136,4 @@ cta:
   enable : false
   # call to action content comes from "_index.md"
 ---
+
