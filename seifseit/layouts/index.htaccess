@@ -49,9 +49,9 @@ RewriteRule ^.* - [F]
 
 ########## Hotlink Prevention
 #
-RewriteEngine on
-RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http://(www\.)seifseit.de/.*$ [NC]
-RewriteRule \.(gif|jpg|webp|png)$ - [F]
+# RewriteEngine on
+# RewriteCond %{HTTP_REFERER} !^$
+# RewriteCond %{HTTP_REFERER} !^http://(www\.)seifseit.de/.*$ [NC]
+# RewriteRule \.(gif|jpg|webp|png)$ - [F]
 #
 ########## End - Hotlink Prevention
