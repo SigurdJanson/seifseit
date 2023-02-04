@@ -21,7 +21,7 @@ information:
 
 ## DSA Fate Explorer
 
-An interface to roll the dice based on the ["dark eye" rule system](https://ulisses-regelwiki.de/index.php/home.html) (version 5) based on [R shiny](https://shiny.rstudio.com/).
+Eine App zur Charakterverwaltung und für WÜrfelproben basierend auf dem ["Das Schwarze Auge" Regelsystem](https://ulisses-regelwiki.de/index.php/home.html) (version 5). Der Fate Explorer vereinfacht das Spielen und entlastet von zahlreichen Regeln, damit Spieler sich mehr auf ihre Charakter und die Geschichte konzentrieren können.
 
 
 ### Features
@@ -31,7 +31,7 @@ An interface to roll the dice based on the ["dark eye" rule system](https://ulis
 * Kampfwürfe
   * *NEU* in Version 2 FateExplorer kann die Umgebungsfaktoren in Kampfsituationen berücksichtigen, also Entfernungen, Bewegung, oder Sichtbarkeit.
   * *NEU* in Version 2: Initiativewürfe
-* Import [Optolith Characterbögen](https://optolith.app/en/)
+* Import [Optolith Charakterbögen](https://optolith.app/en/)
   * *NEU* in Version 2: FateExplorer kann eigene Waffen importieren.
 * Anzeige der Erfolgswahrscheinlichkeiten
 * Zweisprachig (Englisch und Deutsch - kann aktuell über das Skript angepasst werden)

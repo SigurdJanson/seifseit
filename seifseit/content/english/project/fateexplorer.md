@@ -21,7 +21,7 @@ information:
 
 ## DSA Fate Explorer
 
-An interface to roll the dice based on the ["dark eye" rule system](https://ulisses-regelwiki.de/index.php/home.html) (version 5) based on [R shiny](https://shiny.rstudio.com/).
+An app to roll the dice based on the ["dark eye" rule system](https://ulisses-regelwiki.de/index.php/home.html) (version 5). The Fate Explorer makes it easier to handle the rules and helps you to focus on your gameplay, your character and your story.
 
 
 ### Features
