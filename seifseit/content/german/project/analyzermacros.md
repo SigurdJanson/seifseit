@@ -15,7 +15,7 @@ information:
     info : "March 2005"
   - label : "Fertigkeiten"
     info : "Sax Basic, OLE"
-  - label : "Kunde"
+  - label : "Zielgruppe"
     info : "EEG Labor der Uni Trier"
 ---
 

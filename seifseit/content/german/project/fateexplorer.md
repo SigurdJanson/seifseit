@@ -15,7 +15,7 @@ information:
     info : "Fortschreitend"
   - label : "Fertigkeiten"
     info : "C# / Blazor; HTML5 / CSS3; DSA&nbsp;5"
-  - label : "Kunde"
+  - label : "Zielgruppe"
     info : "Das-Schwarze-Auge Gemeinde"
 ---
 

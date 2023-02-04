@@ -15,7 +15,7 @@ information:
     info : "Juni 2005"
   - label : "Fertigkeiten"
     info : "C++"
-  - label : "Kunde"
+  - label : "Zielgruppe"
     info : "EEG Labor der Uni Trier"
 ---
 

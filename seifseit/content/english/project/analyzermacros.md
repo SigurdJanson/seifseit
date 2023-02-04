@@ -7,8 +7,6 @@ image : "images/projects/visionanalyzermacros.webp"
 bg_image: "images/feature-bg.jpg"
 category: "Basic"
 information:
-  - label : "Client"
-    info : "EEG Laboratory University Trier"
   - label : "What I did"
     info : "Concept & Development"
   - label : "Tools Used"
@@ -17,6 +15,8 @@ information:
     info : "March 2005"
   - label : "Skills"
     info : "Sax Basic, OLE"
+  - label : "Target Group"
+    info : "EEG Laboratory University Trier"
 ---
 
 ## BRAIN-MACROS

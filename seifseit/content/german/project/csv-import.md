@@ -15,7 +15,7 @@ information:
     info : "alpha"
   - label : "Fertigkeiten"
     info : "R / Shiny; HTML / CSS"
-  - label : "Kunde"
+  - label : "Zielgruppe"
     info : "Shiny App Entwickler"
 ---
 

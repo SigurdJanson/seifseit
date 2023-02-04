@@ -15,7 +15,7 @@ information:
     info : "June 2005"
   - label : "Skills"
     info : "C++"
-  - label : "Client"
+  - label : "Target Group"
     info : "EEG Laboratory University Trier"
 ---
 

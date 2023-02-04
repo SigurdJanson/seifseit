@@ -15,7 +15,7 @@ information:
     info : "Iterating"
   - label : "Skills"
     info : "C# / Blazor; HTML5 / CSS3; DSA&nbsp;5"
-  - label : "Client"
+  - label : "Target Group"
     info : "The Dark Eye Community"
 ---
 
