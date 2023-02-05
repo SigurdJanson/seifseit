@@ -4,7 +4,7 @@ description: "Random sequences for research projects"
 draft: false
 discontinued: true
 image : "images/projects/rqube.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 category: ["Basic", "C++"]
 information:
   - label : "What we did"

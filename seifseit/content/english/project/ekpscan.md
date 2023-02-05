@@ -4,7 +4,7 @@ description: "View and analyze evoked potentials"
 draft: false
 discontinued: true
 image : "images/projects/ekpscan.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 category: "C++"
 information:
   - label : "What I did"

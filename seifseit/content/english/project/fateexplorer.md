@@ -4,7 +4,7 @@ description: "A \"dark eye\" pen & paper support app"
 draft: false
 discontinued: false
 image : "images/projects/fateexplorer.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 category: [ "Blazor / C#" ]
 information:
   - label : "What I do"

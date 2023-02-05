@@ -4,7 +4,7 @@ description: ""
 draft: false
 discontinued: true
 image : "images/projects/visionanalyzermacros.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 category: "Basic"
 information:
   - label : "Aufgaben"

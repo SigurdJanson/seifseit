@@ -4,7 +4,7 @@ description: "CSV Import for Shiny Apps"
 discontinued: false
 draft: false
 image : "images/projects/csv-import.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.webp"
 category: [ "R / Shiny" ]
 information:
   - label : "What I do"
