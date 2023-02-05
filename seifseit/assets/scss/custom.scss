@@ -4,7 +4,9 @@
 //@import 'variables.scss';
 @import 'fontinclude.scss';
 
-
+body {
+    font-size: 15px;
+}
 ::selection {
     background-color: $primary-color;
     color:$light;
@@ -27,7 +29,7 @@
     background: linear-gradient(to right, $light, $overlay, $primary-color, $overlay, $light);
 }
 
-// OVERWRITES 
+// OVERWRITES
 
 // lists in the content area
 ul {
@@ -38,6 +40,19 @@ nav ul, ul.counter-box, div.project-details > ul, ul.widget-category-list, ul.ad
     list-style-type: none;
     list-style-image: none;
     padding-left: 0;
+}
+
+// project details (YAML information tags)
+.portfolio-single-page {
+    .project-details {
+        span {
+            display: table-cell;
+            width:150px;
+        }
+        strong {
+            display: table-cell;
+        }
+    }
 }
 
 // inside a section with dark background
