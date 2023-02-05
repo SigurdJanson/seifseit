@@ -1,4 +1,10 @@
 
+# Hugo
+
+Always use the **extended** version to allows SCSS.
+
+
+
 # Site
 
 
@@ -71,7 +77,7 @@ RewriteRule \.(gif|jpg|webp|png)$ - [F]
 
 See also https://gooseyman.com/post/2020-05-26_password_protect_hugo_site/
 
-The .htpasswd stores the user name and the password (encrypted).
+The '.htpasswd' stores the user name and the password (encrypted).
 
 
 
@@ -92,3 +98,9 @@ The template file is "index.humanstxt.txt". It uses a partial to create the auth
 ```
 
 
+
+# Publications
+
+Publications are listed in JabRef and exported to json. Use the JabRef export feature and save the json to "data/pubs/papers.json".
+
+The format is defined in the hugo folder under "jabref_export\json.layout".
