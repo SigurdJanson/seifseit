@@ -1,1 +1,1 @@
-..\bin\hugo server
+..\bin\hugo server %*
