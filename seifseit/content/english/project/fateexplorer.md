@@ -29,29 +29,30 @@ An app to roll the dice based on the ["dark eye" rule system](https://ulisses-re
 * Ability rolls
 * Skill rolls incl. routine checks for mundane, magical or blessed skills
 * Combat rolls
-  * *NEW* in version 2 FateExplorer can consider the combat situation like weapons range, movement, or visibility.
-  * *NEW* in version 2: initiative rolls
+  * Attack and parry, dodge, initiative
+  * Left and right hand; two-handed
+* Energy management with life, astral energy and karma points.
+* Calendar with holidays (i.e. fixed holidays) and phases of Mada.
+* The **bazaar** with hundreds of items and a merchant to haggle the prize
+* Bilingual (English and German)
 * Import [Optolith character sheets](https://optolith.app/en/)
-  * *NEW* in version 2: FateExplorer can import user-defined weapons.
-* Display of probabilities for different results
-* Bilingual (English and German - can be changed in the code of the script)
+  * Including user-defined weapons.
 
 
 ### Screenshots
 
-![Image of the skill roll tab](/images/projects/fe_screenshot_skill.jpg)
+{{< figure src="/images/projects/fe_screenshot_ability_en.webp" title="Ability rolls" alt="Image of the main character page" width="46%" link="/images/projects/fe_screenshot_ability_en.webp" target="_blank">}}
 
-![Image of the combat roll tab](/images/projects/fe_screenshot_combat.jpg)
+{{< figure src="/images/projects/fe_screenshot_combat_en.webp" title="Combat rolls" alt="BImage of the combat roll tab" width="46%" link="/images/projects/fe_screenshot_combat_en.webp" target="_blank">}}
 
 
 
 ### Limitations at Current State of Development
 
-* Users set the modifiers manually in the UI of the app and roll the dice. The character sheet import does not support special abilities, states, conditions, etc. 
-* Language can only be changed in the source code of the script.
-* FE is still ignorant of some very special rules for weapons; e.g. rolling a 19 with an improvised weapon is actually a botch but FE is not aware of that.
+* Users set the modifiers manually in the UI of the app and roll the dice. The character sheet import supports only limited special abilities and no states or conditions, etc. 
+* FE is still ignorant of some very special rules; e.g. rolling a 19 with an improvised weapon is actually a botch but FE is not aware of that.
 * FE does not know rules that are specific for a weapon.
 
 <br/>
-<a href="https://github.com/SigurdJanson/Fate-Explorer">Find on Github</a>
+<a href="https://github.com/SigurdJanson/FateExplorer">Project page on Github</a>
 
