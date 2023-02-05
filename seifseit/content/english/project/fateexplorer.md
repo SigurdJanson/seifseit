@@ -8,7 +8,7 @@ bg_image: "images/feature-bg.webp"
 category: [ "Blazor / C#" ]
 information:
   - label : "What I do"
-    info : "Concept, Design, Implementation"
+    info : "Concept, Design, Development"
   - label : "Tools used"
     info : "Visual Studio; Inkscape, Krita; Git"
   - label : "Status"

@@ -8,7 +8,7 @@ bg_image: "images/feature-bg.webp"
 category: [ "R / Shiny" ]
 information:
   - label : "What I do"
-    info : "Concept, Design, Implementation"
+    info : "Concept, Design, Development"
   - label : "Tools used"
     info : "R-Studio, Inkscape"
   - label : "Status"
