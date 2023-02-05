@@ -3,7 +3,7 @@ title: "Log-lineare Modelle"
 date: 2002-01-08
 author: Jan Seifert
 image : "images/blog/loglinear.webp"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/writing-bg.webp"
 categories: ["Statistik"]
 tags: []
 languages: ["German"]

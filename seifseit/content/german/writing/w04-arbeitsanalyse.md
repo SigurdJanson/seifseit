@@ -3,7 +3,7 @@ title: Arbeitsanalyse in der Softwareentwicklung
 date: 1998-08-01
 author: Jan Seifert
 image: images/blog/arbeitsanalyse.webp
-bg_image: images/feature-bg.jpg
+bg_image: images/writing-bg.webp
 categories:
     - User Experience
 tags:
