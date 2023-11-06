@@ -24,5 +24,5 @@ abstract: "Mit KPIs kann Dein Team ganz einfach den Fortschritt eurer Ziele verf
 preview: /images/blog/operationalisekpi.webp
 ---
 
-  Nehmt Eure Erfolgsfaktoren und kreiert daraus etwas Messbares.Solche Maße geben Orientierung und erleichtern den Erfolg. Wie kommt man zu wertvollen UX KPIs? Dieser Artikel nimmt die Operationalisierung in den Blick, die meistens übersehen wird. ...
+  Nehmt Eure Erfolgsfaktoren und kreiert daraus etwas Messbares. Solche Maße geben Orientierung und erleichtern den Erfolg. Wie kommt man zu wertvollen UX KPIs? Dieser Artikel nimmt die Operationalisierung in den Blick, die meistens übersehen wird. ...
 
