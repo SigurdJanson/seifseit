@@ -154,9 +154,9 @@ username = ""
 # link = "#"
 
 [[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://twitter.com/usernaut"
-alt = "Twitter"
+icon = "icon-seifseit-mastodon" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://sueden.social/@usernaut"
+alt = "Mastodon"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
