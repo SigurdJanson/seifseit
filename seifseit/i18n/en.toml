@@ -20,6 +20,10 @@ other = "English"
 [German]
 other = "German"
 
+[Copyright]
+other = "Copyright &copy;"
+
+
 # Pubs
 [hPaperDetails]
 other = "Paper Details"

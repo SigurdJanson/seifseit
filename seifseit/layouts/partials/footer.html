@@ -10,7 +10,7 @@
           </ul>
         </div>
         <p class="copyright">
-          {{ site.Params.copyright | markdownify }}&nbsp;{{ now.Format "2006" | markdownify }}
+          {{ i18n "Copyright" | markdownify }}&nbsp;{{ now.Format "2006" | markdownify }}
           {{ site.Params.copyrightowner | markdownify }}
           {{ site.Params.rightsreserved | markdownify }}
         </p>
