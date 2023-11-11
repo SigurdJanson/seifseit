@@ -1,0 +1,15 @@
+{{- /*
+ShortCode "params.html"
+
+The short code `param` can be used in markdown files to access parameters in the configuration.
+
+@param {string} [n/a] 1. argument is the parameter name. It must be a global parameter directly below `[param]`.
+
+@returns {Content of the variable from the param-section with the given name or `nil` in config file "hugo.toml".}
+*/}}
+{{ $tofind := .Get 0 }}
+{{ $v := .Site.Params }}
+{{ range (split $tofind ".") }}
+{{ $v = index $v (.) }}
+{{ end }}
+{{ $v }}
