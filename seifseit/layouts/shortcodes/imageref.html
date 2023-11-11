@@ -1,3 +1,22 @@
+{{- /*
+ShortCode "imageref.html"
+
+The short code `imageref` reads a date source "imagerefs.json" and created a list of values.
+
+The json file has a format:
+```json
+{"images": [{"image": "People Shaking Hands",  "imageurl": "https://www.pexels.com/photo/people-shaking-hands-3746957/", 
+             "author": "Polina Zimmerman", "authorurl": "https://www.pexels.com/@polina-zimmerman"}]
+}
+```
+
+@param {string} [tag] the name of the root element in the json file.
+@param {string} [by] The string used for the word "by" in "Image by Author" for l10n.
+
+@returns {List of references with each item in the form of: "Black Framed Eyeglasses on White Table" by Cottonbro. (Picture and author will be linked).}
+
+Usage: {{< imageref tag="images" by="von" >}}
+*/}}
 {{ if .IsNamedParams -}}
 {{ $jsondata := index $.Site.Data.imagerefs $.Params.tag }}
 <ul>
