@@ -33,7 +33,7 @@ We would like to thank anyone who helped to improve seifseit.de. Feedback is the
 
 ### Liability
 
-We (the authors) dissociate ourselves from violence, slander, and any other activity that impinge on the rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloak_email "admin@seifseit.de" >}}), so that we can remove it.
+We (the authors) dissociate ourselves from violence, slander, and any other activity that impinge on the rights of others. For this reason, we aim to keep our pages and all references other websites clean. If you find arguable content in one of the referenced site, we ask for a short message ({{< cloakedcontactmail >}}), so that we can remove it.
 
 seifseit.de would not have been possible without the following:
 

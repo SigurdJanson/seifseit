@@ -33,7 +33,7 @@ Wir wollen uns bei allen bedanken, die zur Verbesserung der Seite beigetragen ha
 
 ### Haftung
 
-Wir (die Autoren) distanzieren uns von Gewalt, Verleumdung, und jederlei anderen Aktivitäten, die die Rechte Dritter verletzen. Deshalb sind wir bemüht, die Inhalte der eigenen Seiten als auch die Inhalte der verlinkten Seiten sauber zu halten. Falls eine verlinkte Seite zweifelhafte Inhalte enthält, distanzieren wir uns ausdrücklich von diesen Inhalten und bitten um eine kurze Mitteilung ({{< cloak_email "admin@seifseit.de" >}}), damit wir den entsprechenden Link entfernen können. Zum Zeitpunkt der Linksetzung waren die verlinkten Seiten frei von illegalen Inhalten.
+Wir (die Autoren) distanzieren uns von Gewalt, Verleumdung, und jederlei anderen Aktivitäten, die die Rechte Dritter verletzen. Deshalb sind wir bemüht, die Inhalte der eigenen Seiten als auch die Inhalte der verlinkten Seiten sauber zu halten. Falls eine verlinkte Seite zweifelhafte Inhalte enthält, distanzieren wir uns ausdrücklich von diesen Inhalten und bitten um eine kurze Mitteilung ({{< cloakedcontactmail >}}), damit wir den entsprechenden Link entfernen können. Zum Zeitpunkt der Linksetzung waren die verlinkten Seiten frei von illegalen Inhalten.
 
 
 Seifseit.de wäre ohne die folgenden Angebote nicht möglich gewesen:
