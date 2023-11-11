@@ -235,12 +235,17 @@ link = "plugins/google-map/gmap.js"
 attributes = "defer"
 
 
+
+[languages]
+
 ################################# English translation #########################
 [languages.en]
 languageName = "English"
 languageCode = "en-GB"
 contentDir = "content/english"
 weight = 2
+
+[languages.en.params]
 copyrightowner = "by [Jan Seifert](/)."
 rightsreserved = "All Rights Reserved."
 
@@ -260,6 +265,8 @@ languageName = "Deutsch"
 languageCode = "de-DE"
 contentDir = "content/german"
 weight = 1
+
+[languages.de.params]
 copyrightowner = "von [Jan Seifert](/)."
 rightsreserved = "Alle Rechte vorbehalten."
 
