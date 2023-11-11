@@ -49,22 +49,22 @@ funfacts:
 # funfacts loop
 - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Abgeschlossene Projekte"
-  count : "64"
+  count : '{{< param "nprojects" >}}' #
 
 # funfacts loop
 - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Zufriedene Kunden"
-  count : "33"
+  count : '{{< param "nCustomers" >}}' #
 
 # funfacts loop
 - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Jahre Erfahrung"
-  count : "16"
+  count : '{{< yearsinux >}}'
 
 # funfacts loop
 - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "User Research Kontakte"
-  count : "259"
+  count : '{{< param "nResearchContacts" >}}' # 
 
 
 

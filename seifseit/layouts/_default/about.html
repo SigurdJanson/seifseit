@@ -57,7 +57,17 @@
       <div class="col-md-2">
         <div class="counter-item">
           {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
-          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .count }}
+            {{ $type := printf "%T" . }}
+            {{ $typeIsNumber := (or (eq "int" $type) (eq "int64" $type) (eq "float64" $type)) }}
+            {{ if $typeIsNumber }}
+              <h4 class="count" data-count="{{ . }}">0</h4>
+            {{ else if strings.Contains . "{{" }}
+              <h4 class="count" data-count="{{ . | $.Page.RenderString }}">0</h4>
+            {{ else }}
+              <h4>ERROR</h4>
+            {{ end }}
+          {{ end }}
           {{ with .name }}<span>{{ . }}</span>{{ end }}
         </div>
       </div>
@@ -65,7 +75,6 @@
     </div>
   </div>
 </section>
-
 
 {{ with .Params.features }}
 {{ if .enable }}

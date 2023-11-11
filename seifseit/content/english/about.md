@@ -17,7 +17,7 @@ about:
   title : "My Story"
   content : "<p>Despite my fascination for technology I wanted to understand people what drives people and went to study Psychology. Three topics enthralled me the most: the biological basis of the human mind, the research methods we can use to gain insight about humans, and how our environment interacts with us and we with it.</p>
   <p>At university I became early involved with brain sciences and the electro-physiological and imaging research. Exploring the human mind with high-end technological equipment. I stayed at university after receiving my diploma. For the fun of curiosity.</p>
-  <p>Having received my Doctor of Natural Sciences in 2005 I left university and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For {{< yearsinux >}} years now I support dozens of clients and a growing community of friends with research, conceptual design, and prototyping.</p>
+  <p>Having received my Doctor of Natural Sciences in 2005 I left university and went into user experience. Another way of linking my interests and studying humans interacting with technology, trying to improve the relationship, striving for an equal access to latest technologies for everyone. For {{< yearsinux >}} years now I have supported dozens of clients and a growing community of friends with research, conceptual design, and prototyping.</p>
   <p>Though human-environment relations are an important basis to understand user experience, too, it became increasingly important in the last few years. By now it is not only the interaction between people and technology. People, how they collaborate, and interact in organisations move more and more into my focus. How do organisations shape, limit or free the potential of people? I do not think we will ever fully understand it. But we are making progress.</p>
 
 
@@ -42,23 +42,24 @@ insight:
 funfacts:
 # funfacts loop
 - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-  name : "Completed Projects"
-  count : "64"
+  name : "Completed Projects"  #
+  count : '{{< param "nprojects" >}}' # 
+  
 
 # funfacts loop
 - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Satisfied Customer"
-  count : "33"
+  count : '{{< param "nCustomers" >}}' #
 
 # funfacts loop
 - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Years of Experience"
-  count : "16"
+  count : '{{< yearsinux >}}'
 
 # funfacts loop
 - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "User Research Contacts"
-  count : "259"
+  count : '{{< param "nResearchContacts" >}}' # 
 
 
 
@@ -110,7 +111,7 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Understand"
-    content : "Creating great products that people love ... it is not a simple task and it can only succeed by changing some of our ways. When friends of mine advocate design-driven organisations, agile organisation, or innovation-driven organisation, I tend to ask: 'what is the problem we are trying to solve?' Because **a goal is tool**. Not a solution. Which is why we should never stop asking ourselves who we are and where our path can lead to a brighter future."
+    content : "Creating great products that people love ... it is not a simple task and it can only succeed by changing some of our ways. When friends of mine advocate design-driven organisations, agile organisation, or innovation-driven organisation, I tend to ask: 'what is the problem we are trying to solve?' Because **a goal is a tool**, not a solution. Which is why we should never stop asking ourselves who we are and where our path can lead to a brighter future."
 
   # tab item loop
   - name : "Adapt"

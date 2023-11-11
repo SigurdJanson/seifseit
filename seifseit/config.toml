@@ -88,6 +88,12 @@ description = "Jan Seifert: User Experience Design Lead, Organisations- und Beha
 author = "Jan Seifert"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 
+# own variables
+firstyearinux = "2005-11-01T00:00:00+01:00"
+nprojects = "80"
+nCustomers = "38"
+nResearchContacts = "266"
+
 ################################# Sidebar widgets #############################
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
@@ -189,6 +195,7 @@ alt = "User Experience Professionals Association"
   name = 'Jan Seifert'
   email = 'admin@seifseit.de'
   location = 'Ludwigsburg, Germany'
+
 
 
 ################################# Plugins #####################################
