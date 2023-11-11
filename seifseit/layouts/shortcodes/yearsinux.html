@@ -1,2 +1,9 @@
-{{ $t0 := time.AsTime "2005-11-01T00:00:00+01:00" }}
-<span>{{ math.Sub time.Now.Year $t0.Year }}</span>
+<!-- {{/*
+Gets a value "author.firstyearinux" fromt he params section in the config file and computes the difference in years to the current date.
+
+Usage: {{< yearsinux >}}
+*/}} -->
+{{ $tstring := site.Param "author.firstyearinux" }}
+{{ if $tstring}}{{ $t0 := time.AsTime $tstring }}{{ end }}
+{{ math.Sub time.Now.Year $t0.Year }}
+{{- /* Dummy comment to strip trailing newline */ -}}
