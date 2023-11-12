@@ -73,28 +73,29 @@ service:
 #     link: "contact"
 
 ############################# Fun Facts ###############################
+# not used
 funfacts:
   enable: false
   title: "Fun Facts About Me"
   description: ""
   funfact_item:
   # fun facts item loop
-  - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "icon-chatbubbles-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Cups Of Coffee"
     count: "99"
 
   # fun facts item loop
-  - icon: "ion-ios-glasses-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "icon-glasses-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Article Written"
     count: "45"
 
   # fun facts item loop
-  - icon: "ion-ios-compose-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "icon-compose-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Projects Completed"
     count: "125"
 
   # fun facts item loop
-  - icon: "ion-ios-timer-outline" #ionicon pack v2: https://ionicons.com/v2/
+  - icon: "icon-timer-outline" #ionicon pack v2: https://ionicons.com/v2/
     name: "Combined Projects"
     count: "200"
 
