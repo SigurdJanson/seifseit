@@ -32,19 +32,19 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
+      icon : "icon-erlenmeyer-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Product Branding"
-      icon : "ion-leaf"
+      icon : "icon-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Game Development"
-      icon : "ion-lightbulb"
+      icon : "icon-lightbulb"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
@@ -60,22 +60,22 @@ service:
   description : "... für die sich der Einsatz lohnt"
   service_item:
     # service item loop
-    - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-infinite-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Lernen
       content: "Ich komme klar, wenn mal etwas schief geht. Daraus lerne ich. Kann ich das nicht, machts mich verrückt."
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-compass-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Andere stark machen
       content: "Der Design Leader ist nichts ohne ein Team. Mach ich das Team stark, mach ich uns alle stark."
 
     # service item loop
-    - icon : ion-ios-people-outline #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-people-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Abhängig unabhängig
       content: "Design ist Teamarbeit: jeder muss Verantwortung für den anderen übernehmen und sich selbst. Es gibt keinen Star."
 
     # service item loop
-    - icon : ion-android-star-half #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-star-half #ionicon pack v2 : https://ionicons.com/v2/
       name: Werthaltig
       content: "Das atemberaubendste Design auf Papier ist völlig wertlos, wenn Ihr nicht die Mittel habt, das ins Produkt zu bringen."
 

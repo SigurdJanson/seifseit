@@ -32,19 +32,19 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
+      icon : "icon-erlenmeyer-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Product Branding"
-      icon : "ion-leaf"
+      icon : "icon-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
     - name : "Game Development"
-      icon : "ion-lightbulb"
+      icon : "icon-lightbulb"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
@@ -60,22 +60,22 @@ service:
   description : "... to strive for"
   service_item:
     # service item loop
-    - icon : ion-ios-infinite #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-infinite-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Learn 
       content: "I can tolerate failure when it helps me learn and grow. Failure without growth gnaws at me."
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-compass-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Empower others
       content: "As a leader I am nobody without my team. It is my job to make the team strong which makes us strong."
 
     # service item loop
-    - icon : ion-ios-people-outline #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-people-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Dependent Independence
       content: "Design is team work: everyone takes responsibility for each other and for themselves. There are no stars."
 
     # service item loop
-    - icon : ion-android-star-half #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : icon-star-half #ionicon pack v2 : https://ionicons.com/v2/
       name: Value
       content: "Incredible design drafts on paper are worth nothing unless you have the means to bring it into the product."
 

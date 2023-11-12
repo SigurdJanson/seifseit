@@ -32,8 +32,8 @@
           <h3 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}</li>
-              <li><i class="ion-android-people"></i>
+              <li><i class="icon-calendar-outline"></i> {{ time.Format ":date_long" .PublishDate }}</li>
+              <li><i class="icon-people-outline"></i>
                 {{ i18n "posted_by" }}
                 {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
                 {{ range $index, $elements := $authors -}}
@@ -47,10 +47,10 @@
                     {{- end }}
                 {{- end }}
               </li>
-              <li><i class="ion-pricetags"></i>
+              <li><i class="icon-pricetag-outline"></i>
                 {{ range $index, $elements:= .Params.tags }}{{with .}}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}
               </li>
-              <li><i class="ion-chatbox-working"></i>
+              <li><i class="icon-chatbubbles-outline"></i>
                 {{ range $index, $elements:= .Params.languages }}{{ if ne $index 0 }}, {{ end }}{{i18n . }}{{ end }}
               </li>
             </ul>

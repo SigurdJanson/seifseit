@@ -165,7 +165,7 @@ link = "https://sueden.social/@usernaut"
 alt = "Mastodon"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "icon-logo-linkedin" #ionicon pack v2 : https://ionicons.com/v2/
 link = "www.linkedin.com/in/jan-seifert-changitor"
 alt = "Linked In"
 

@@ -5,9 +5,9 @@ bg_image: "images/globe-detailed_labelled.svg"
 photo: "/images/jan2013c_mini.jpg"
 draft: false
 social:
-  - icon : "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-logo-twitter" #ionicon pack
     link : "https://twitter.com/usernaut"
-  - icon : "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-logo-linkedin" #ionicon pack
     link : "https://de.linkedin.com/in/jan-seifert-3194951b1"
   - icon : "icon-seifseit-xing" # own icon
     link : "https://www.xing.com/profile/Jan_Seifert7"

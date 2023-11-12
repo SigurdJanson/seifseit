@@ -38,7 +38,7 @@
               <div class="portfolio-hover">
                 <div class="portfolio-content">
                   {{ with .Params.image -}}
-                  <a href="{{ . | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>
+                  <a href="{{ . | relURL }}" class="portfolio-popup"><i class="icon-search-outline"></i></a>
                   {{- end }}
                   <a class="h3" href="{{ .RelPermalink }}">{{ .Title }}</a>
                   <p>{{ .Params.description }}</p>

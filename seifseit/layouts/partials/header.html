@@ -24,7 +24,7 @@
               {{ if .HasChildren -}}
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle{{ if $currentPage.HasMenuCurrent "main" . }} current-parent{{ end }}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                  {{ .Name }} <span class="ion-ios-arrow-down"></span>
+                  {{ .Name }} <i class="icon-caret-down-outline"></i>
                 </a>
                 <ul class="dropdown-menu">
                   {{ range .Children -}}

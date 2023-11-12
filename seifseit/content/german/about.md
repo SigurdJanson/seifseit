@@ -47,22 +47,22 @@ button:
 
 funfacts:
 # funfacts loop
-- icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+- icon : "icon-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Abgeschlossene Projekte"
   count : '{{< param "nprojects" >}}' #
 
 # funfacts loop
-- icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+- icon : "icon-trophy-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Zufriedene Kunden"
   count : '{{< param "nCustomers" >}}' #
 
 # funfacts loop
-- icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+- icon : "icon-wine-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "Jahre Erfahrung"
   count : '{{< yearsinux >}}'
 
 # funfacts loop
-- icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+- icon : "icon-chatbubbles-outline" #ionicon pack v2 : https://ionicons.com/v2/
   name : "User Research Kontakte"
   count : '{{< param "nResearchContacts" >}}' # 
 
@@ -74,32 +74,32 @@ features:
   title : "Aktivitäten aus reiner Neugier"
   feature_item:
   # feature item loop
-  - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-code-working-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "App Entwicklung"
     content : "Um die Arbeit mit Technologien besser zu verstehen halte ich mich auf Trab mit [R](https://www.r-project.org) und [.NET Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)."
 
   # feature item loop
-  - icon : "ion-bag" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-bag-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "eCommerce"
     content : "Verantwortlich für digitale Angelegenheiten und Design im kleinen Familienunternehmen [Ankes Keksgenuss](https://keksgenuss.de)."
 
   # feature item loop
-  - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "User Experience"
     content : "Viele Jahre im [User Experience Design](https://www.uid.com) als Gestalter und Researcher, als Projekt- und Teamleiter und als Consultant für einen deutlicheren Produkterfolg."
 
   # feature item loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-chatbubbles-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Vernetzt"
     content : "Immer auf der Suche nach Austausch in den Communities, dem [German UPA chapter](https://www.germanupa.de/), auf Konferenzen und Vorträgen."
 
   # feature item loop
-  - icon : "ion-ios-nutrition-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-nutrition-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Kochen"
     content : "Kennt Ihr leckere Fälle von einfacher Crossover Küche, lasst es mich wissen."
 
   # feature item loop
-  - icon : "ion-wand" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "icon-color-wand-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Geschichten"
     content : "Geschichten lesen, imaginieren, oder einfach darin eintauchen."
 
