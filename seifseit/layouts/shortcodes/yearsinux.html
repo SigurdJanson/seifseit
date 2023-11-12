@@ -1,9 +1,12 @@
 <!-- {{/*
-Gets a value "author.firstyearinux" fromt he params section in the config file and computes the difference in years to the current date.
+Gets a value "firstyearinux" from the params section in the config file and computes the difference in years to the current date.
 
-Usage: {{< yearsinux >}}
+@usage  {{< yearsinux >}}
 */}} -->
-{{ $tstring := site.Param "author.firstyearinux" }}
-{{ if $tstring}}{{ $t0 := time.AsTime $tstring }}{{ end }}
-{{ math.Sub time.Now.Year $t0.Year }}
+{{ with $.Page.Site.Params.firstyearinux }}
+    {{ $t0 := time.AsTime . }}
+    {{ math.Sub time.Now.Year $t0.Year }}
+{{ else }}
+    <span>ERROR: Could not find variable in config file: params.firstyearinux</span>
+{{ end }}
 {{- /* Dummy comment to strip trailing newline */ -}}
