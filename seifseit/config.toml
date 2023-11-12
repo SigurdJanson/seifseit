@@ -6,7 +6,7 @@ theme = "airspace-hugo-1.1.0"
 # Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 timeZone = "CET"
 # Number of posts per page in list view
-paginate = "6"
+paginate = "10"
 # Post excerpt length
 summaryLength = "30"
 # Languages
