@@ -1,0 +1,24 @@
+<div class="widget widget-category">
+  {{ $Selected := and (eq $.Page.Kind "term") (eq $.Page.Type "categories") (eq $.Page.Title .Page.Title) }}
+  <div style="display: flex; justify-content: space-between;">
+    <h4 class="widget-title">{{ i18n "categories" }}</h4>
+    {{- if $Selected }}
+      {{ $super := site.GetPage "/writing" }}<!-- TODO: remove hard coded address -->
+      <a href="{{ $super.Permalink }}" class="clearbtn"><i class="icon-close-circle-outline"></i>{{ i18n "Clear-Categories" }}</a>
+    {{- end}}
+  </div>
+  {{- if isset site.Taxonomies "categories" }}
+  {{- if not (eq (len site.Taxonomies.categories) 0) }}
+  <ul class="widget-category-list">
+    {{- range site.Taxonomies.categories.ByCount }} <!-- list available categories and sort by frequency of occurrence -->
+    {{ $Selected := and (eq $.Page.Kind "term") (eq $.Page.Type "categories") (eq $.Page.Title .Page.Title) }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}"{{ if $Selected }} class="current" {{ end }}>
+        {{ .Page.Title }}<span class="taxbadge">{{ .Count }}</span> <!--({{ .Count }})-->
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- end }}
+</div>

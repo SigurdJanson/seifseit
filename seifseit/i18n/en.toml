@@ -23,6 +23,10 @@ other = "German"
 [Copyright]
 other = "Copyright &copy;"
 
+[Clear-Categories]
+other = "Clear"
+
+
 
 # Pubs
 [hPaperDetails]

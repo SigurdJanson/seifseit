@@ -23,6 +23,9 @@ other = "Deutsch"
 [Copyright]
 other = "Copyright &copy;"
 
+[Clear-Categories]
+other = "Entfernen"
+
 
 # Pubs
 [hPaperDetails]
