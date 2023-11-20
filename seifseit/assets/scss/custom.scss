@@ -168,7 +168,7 @@ div.pub-Book::marker {
     padding: 8px 25px;
     cursor: pointer;
     font-size: 15px;
-    color: #837f7e;
+    color: $sidebar-text;
     outline: 0;
     background: $light;
     margin: 2px;
@@ -181,6 +181,7 @@ div.pub-Book::marker {
         border: 1px solid rgba(8,8,63,.3);
     }
 }
+
 
 // PROJECTS =============================
 .portfolio-item {
