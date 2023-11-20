@@ -5,25 +5,31 @@
     margin-bottom: 35px;
   }
 
-  .widget-title {
-    margin-top: 0px;
-    margin-bottom: 15px;
-    font-size: 16px;
-    color: #333;
-    font-weight: 500;
-    border-bottom: 1px solid $border-color;
-  }
+  .widget-head {
+    display: flex;
+    justify-content: space-between;
 
-  .clearbtn {
-    color:$sidebar-text;
-    margin-left:1rem;
-    text-align:right;
-    animation: fadeIn 1s;
-    :hover {
-        color:$primary-color;
-        transition: color 1s;
+    .widget-title {
+      margin-top: 0px;
+      margin-bottom: 15px;
+      font-size: 16px;
+      color: #333;
+      font-weight: 500;
+      border-bottom: 1px solid $border-color;
+    }
+
+    .clearbtn {
+      color:$sidebar-text;
+      margin-left:1rem;
+      text-align:right;
+      animation: fadeIn 1s;
+      :hover {
+          color:$primary-color;
+          transition: color 1s;
+      }
     }
   }
+
 @keyframes fadeIn {
     0% { 
         opacity: 0; 
@@ -54,8 +60,8 @@
 
     font-size: smaller;
 
-    padding:8px;
-    margin-left:8px;
+    padding:6px;
+    margin-left:6px;
     height: 2.5rem;
     width: 2.5rem;
 
