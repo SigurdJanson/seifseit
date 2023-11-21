@@ -11,7 +11,7 @@
 
     .widget-title {
       margin-top: 0px;
-      margin-bottom: 15px;
+      margin-bottom: 16px;
       font-size: 16px;
       color: #333;
       font-weight: 500;
@@ -36,7 +36,7 @@
         transform: translateX(0);
     }
     50% {
-        transform: translateX(-5rem);
+        transform: translateX(-4rem);
       }
     100% { 
         opacity: 1; 
@@ -155,7 +155,7 @@
         a {
           color: $sidebar-text;
           display: inline-block;
-          padding: 8px 15px;
+          padding: 8px 14px;
           border: 1px solid #dedede;
           border-radius: 30px;
           font-size: 14px;
