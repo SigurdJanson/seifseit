@@ -5,7 +5,7 @@ author: ["Jan Seifert", "Andreas Nack"]
 image : "images/blog/multireg.webp"
 bg_image: "images/writing-bg.webp"
 categories: ["Statistik"]
-tags: []
+tags: ["User Research", "Empirik"]
 languages: ["German"]
 description: ""
 draft: false
