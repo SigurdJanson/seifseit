@@ -251,6 +251,8 @@ languageName = "English"
 languageCode = "en-GB"
 contentDir = "content/english"
 weight = 2
+disabled = false
+languageDirection = 'ltr'
 
 [languages.en.params]
 copyrightowner = "by [Jan Seifert](/)."
@@ -265,13 +267,16 @@ weight = 5
 
 
 
-
 ################################# German translation ##########################
 [languages.de]
 languageName = "Deutsch"
 languageCode = "de-DE"
 contentDir = "content/german"
 weight = 1
+disabled = false
+languageDirection = 'ltr'
+##title = 'Projekt'
+
 
 [languages.de.params]
 copyrightowner = "von [Jan Seifert](/)."
@@ -283,3 +288,6 @@ rightsreserved = "Alle Rechte vorbehalten."
 hasChildren = true
 name = "Arbeiten"
 weight = 5
+
+
+##################################################################################
