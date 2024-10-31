@@ -142,29 +142,6 @@
 
     "bibtextype": "Misc"
 },{
-    "author": "Hagemann, D., Sollers, J. J., Naumann, E., Hewig, J., Seifert, J., Bartussek, D. & Thayer, J.",
-    "year": 2002,
-    "title": "Heart rate variability during the presentation of emotional films",
-
-    "journal": "Psychophysiology (Supplement)",
-    "number": "1",
-    "volume": "39",
-
-
-
-
-
-
- "pages": "39", 
-
-
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Article"
-},{
     "author": "Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2002,
     "title": "Anterior EEG trait asymmetry does not predict affective style",
@@ -250,6 +227,52 @@
  "howpublished": "paper", 
 
   "doi": "10.1111/j.1469-8986.2005.00367.x", 
+
+    "bibtextype": "Article"
+},{
+    "author": "Hagemann, D., Sollers, J. J., Naumann, E., Hewig, J., Seifert, J., Bartussek, D. & Thayer, J.",
+    "year": 2002,
+    "title": "Heart rate variability during the presentation of emotional films",
+
+    "journal": "Psychophysiology (Supplement)",
+    "number": "1",
+    "volume": "39",
+
+
+
+
+
+
+ "pages": "39", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Article"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Gollwitzer, M., Naumann, E. & Bartussek, D.",
+    "year": 2005,
+    "title": "A revised film set for the induction of basic emotions",
+
+    "journal": "Cognition &amp; Emotion",
+    "number": "7",
+    "volume": "19",
+
+
+
+
+
+
+ "pages": "1095-1109", 
+ "month": "nov", 
+ "publisher": "Informa {UK} Limited", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1080/02699930541000084", 
 
     "bibtextype": "Article"
 },{
@@ -389,27 +412,6 @@
 },{
     "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
     "year": 2004,
-    "title": "Kortikale Aktivität bei Verhaltensaktivierung und Verhaltensinhibition im Rahmen eines Go-Nogo-Paradigmas mit Verstärkermanipulation",
-
- "booktitle": "Experimentelle Psychologie: Beiträge zur 46. Tagung experimentell arbeitender Psychologen", 
- "address": "Lengerich", 
-
-    "editor": "Kerzel, D., Franz, V. & Gegenfurtner, K.",
-
-
-
-
-
- "publisher": "Pabst Science Publishers", 
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Conference"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
-    "year": 2004,
     "title": "The relation of bilateral frontal cortical activity and behavioral activation on the state and the trait level",
 
     "journal": "Journal of Psychophysiology",
@@ -428,29 +430,6 @@
  "howpublished": "poster", 
 
 
-
-    "bibtextype": "Article"
-},{
-    "author": "Hewig, J., Hagemann, D., Seifert, J., Gollwitzer, M., Naumann, E. & Bartussek, D.",
-    "year": 2005,
-    "title": "A revised film set for the induction of basic emotions",
-
-    "journal": "Cognition &amp; Emotion",
-    "number": "7",
-    "volume": "19",
-
-
-
-
-
-
- "pages": "1095-1109", 
- "month": "nov", 
- "publisher": "Informa {UK} Limited", 
-
- "howpublished": "paper", 
-
-  "doi": "10.1080/02699930541000084", 
 
     "bibtextype": "Article"
 },{
@@ -499,6 +478,27 @@
   "doi": "10.1016/j.biopsycho.2005.01.006", 
 
     "bibtextype": "Article"
+},{
+    "author": "Hewig, J., Hagemann, D., Seifert, J., Naumann, E. & Bartussek, D.",
+    "year": 2004,
+    "title": "Kortikale Aktivität bei Verhaltensaktivierung und Verhaltensinhibition im Rahmen eines Go-Nogo-Paradigmas mit Verstärkermanipulation",
+
+ "booktitle": "Experimentelle Psychologie: Beiträge zur 46. Tagung experimentell arbeitender Psychologen", 
+ "address": "Lengerich", 
+
+    "editor": "Kerzel, D., Franz, V. & Gegenfurtner, K.",
+
+
+
+
+
+ "publisher": "Pabst Science Publishers", 
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Conference"
 },{
     "author": "Holle, H., Hagemann, D., Hewig, J., Naumann, E., Seifert, J. & Bartussek, D.",
     "year": 2003,
@@ -592,29 +592,6 @@
   "url": "/download/poster2002c.pdf", 
     "bibtextype": "Article"
 },{
-    "author": "Naumann, E., Stark, R., Rasch, B., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
-    "year": 2003,
-    "title": "Viewing affective slides: ERP and event-related fMRI correlates",
-
-    "journal": "Journal of Psychophysiology",
-    "number": "",
-    "volume": "170",
-
-
-
-
-
-
- "pages": "17", 
-
-
-
- "howpublished": "contribution", 
-
-
-
-    "bibtextype": "Article"
-},{
     "author": "Naumann, E., Seifert, J., Britz, P., Hagemann, D. & Bartussek, D.",
     "year": 2005,
     "title": "Emotion-Attention Interaction: An ERP Study Using an Emotional Go-Nogo Task",
@@ -629,6 +606,29 @@
 
 
  "pages": "134", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Article"
+},{
+    "author": "Naumann, E., Stark, R., Rasch, B., Seifert, J., Hagemann, D., Hewig, J., Vaitl, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Viewing affective slides: ERP and event-related fMRI correlates",
+
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "170",
+
+
+
+
+
+
+ "pages": "17", 
 
 
 
@@ -700,6 +700,44 @@
     "bibtextype": "Misc"
 },{
     "author": "Seifert, J.",
+    "year": 2019,
+    "title": "Management 4 Design – vom IT-Manager zum Designflüsterer",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf der Munich Creative Business Week", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
+    "year": 2021,
+    "title": "Überwindung der Mehrwert-Kluft",
+
+
+
+
+
+
+
+
+
+
+ "howpublished": "Talk", 
+ "note": "Vortrag auf dem CX Meetup #19", 
+
+
+    "bibtextype": "Misc"
+},{
+    "author": "Seifert, J.",
     "year": 2001,
     "title": "Inhibitionsprozesse selektiver Aufmerksamkeit und emotionale Reizqualitäten",
 
@@ -717,75 +755,6 @@
 
 
     "bibtextype": "MastersThesis"
-},{
-    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
-    "year": 2003,
-    "title": "Exploring motivated attention - an ERP study",
-
-    "journal": "Journal of Psychophysiology",
-    "number": "",
-    "volume": "17",
-
-
-
-
-
-
- "pages": "179", 
-
-
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Article"
-},{
-    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
-    "year": 2003,
-    "title": "Do incentives influence the flanker-compatibility-effect?",
-
-    "journal": "Psychophysiology (Supplement)",
-    "number": "",
-    "volume": "40",
-
-
-
-
-
-
- "pages": "77", 
-
-
-
- "howpublished": "poster", 
-
-
-
-    "bibtextype": "Article"
-},{
-    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
-    "year": 2004,
-    "title": "Reward and Punishment in a go/nogo-task",
-
-    "journal": "Journal of Psychophysiology",
-    "number": "4",
-    "volume": "18",
-
-
-
-
-
-
- "pages": "221", 
-
-
-
- "howpublished": "contribution", 
-
-
-
-    "bibtextype": "Article"
 },{
     "author": "Seifert, J.",
     "year": 2005,
@@ -825,48 +794,6 @@
 
     "bibtextype": "Book"
 },{
-    "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
-    "year": 2006,
-    "title": "Motivated executive attention - incentives and the noise-compatibility effect",
-
-    "journal": "Biological Psychology",
-    "number": "1",
-    "volume": "71",
-
-
-
-
-
-
- "pages": "80-89", 
- "month": "jan", 
- "publisher": "Elsevier {BV}", 
-
- "howpublished": "paper", 
-
-  "doi": "10.1016/j.biopsycho.2005.03.001", 
-
-    "bibtextype": "Article"
-},{
-    "author": "Seifert, J., Reimer, L. & Schick, P.",
-    "year": 2011,
-    "title": "User Experience mit Biss - Ansätze zur Bewusstseinsbildung und zum Wissenstransfer in Unternehmen bei der Einführung von User-Centred Design",
-
- "booktitle": "Usability Professionals 2011", 
-
-
-
-
- "pages": "16-23", 
-
-
-
- "howpublished": "paper", 
-
-
-
-    "bibtextype": "InProceedings"
-},{
     "author": "Seifert, J.",
     "year": 2012,
     "title": "Digitale Telepathie: Technik mit dem Gehirn steuern",
@@ -885,27 +812,6 @@
 
 
     "bibtextype": "Misc"
-},{
-    "author": "Seifert, J.",
-    "year": 2014,
-    "title": "Neuroprothetik: Bedürfnisorientierte statt technikzentrierte Gestaltung.",
-
- "booktitle": "Tagungsbericht: Die Mobilisierung des Körpers. Prothetik seit dem Ersten Weltkrieg, 13.03.2014 – 14.03.2014", 
- "address": "Dresden", 
-
-    "editor": "Nolte, M. & Gußmann, E.",
-
-
-
-
- "month": "13.03.2014 – 14.03.2014", 
- "publisher": "Deutsches Hygiene-Museum Dresden; Technische Universität Berlin", 
-  "abstract": "Für eine Fokussierung auf nicht-technische Parameter sprach sich auch JAN SEIFERT (Ludwigsburg) aus. Statt technikzentrierter Gestaltung vertrat Seifert, selbst in der Entwicklung tätig, die Ausrichtung der Forschung auf die Bedürfnisse und Motivationen der Menschen. Mit der Darstellung aktueller Trends der Prothesenentwicklung, wie bspw. der Techniksteuerung mittels Gedanken, bereicherte er die Tagung vor allem durch die Bewusstmachung des im öffentlichen Diskurs oft nicht wahrgenommenen Hiatus zwischen visionären Ideen der Trendscouts und dem tatsächlichen Stand der Technik.", 
- "howpublished": "Talk", 
-
-
-
-    "bibtextype": "Conference"
 },{
     "author": "Seifert, J.",
     "year": 2014,
@@ -928,29 +834,6 @@
 
 
 
-    "bibtextype": "Article"
-},{
-    "author": "Seifert, J. & Schwendele, H.",
-    "year": 2014,
-    "title": "Touch the power - Einheitliche Maschinensteuerung für Holzbearbeitungsmaschinen",
-
-    "journal": "SPS Magazin",
-    "number": "",
-    "volume": "7",
-
-
-
-
-
-
- "pages": "70-72", 
-
-
-
- "howpublished": "paper", 
-
-
-  "url": "https://www.sps-magazin.de/allgemein/touch-the-power/", 
     "bibtextype": "Article"
 },{
     "author": "Seifert, J.",
@@ -1029,6 +912,46 @@
 
     "bibtextype": "Misc"
 },{
+    "author": "Seifert, J.",
+    "year": 2024,
+    "title": "Die Zukunft von UX Design mit KI",
+
+ "booktitle": "UIG-Tagung 2024", 
+
+
+
+
+
+ "month": "September", 
+
+
+ "howpublished": "Talk", 
+
+
+
+    "bibtextype": "Conference"
+},{
+    "author": "Seifert, J.",
+    "year": 2014,
+    "title": "Neuroprothetik: Bedürfnisorientierte statt technikzentrierte Gestaltung.",
+
+ "booktitle": "Tagungsbericht: Die Mobilisierung des Körpers. Prothetik seit dem Ersten Weltkrieg, 13.03.2014 – 14.03.2014", 
+ "address": "Dresden", 
+
+    "editor": "Nolte, M. & Gußmann, E.",
+
+
+
+
+ "month": "13.03.2014 – 14.03.2014", 
+ "publisher": "Deutsches Hygiene-Museum Dresden; Technische Universität Berlin", 
+  "abstract": "Für eine Fokussierung auf nicht-technische Parameter sprach sich auch JAN SEIFERT (Ludwigsburg) aus. Statt technikzentrierter Gestaltung vertrat Seifert, selbst in der Entwicklung tätig, die Ausrichtung der Forschung auf die Bedürfnisse und Motivationen der Menschen. Mit der Darstellung aktueller Trends der Prothesenentwicklung, wie bspw. der Techniksteuerung mittels Gedanken, bereicherte er die Tagung vor allem durch die Bewusstmachung des im öffentlichen Diskurs oft nicht wahrgenommenen Hiatus zwischen visionären Ideen der Trendscouts und dem tatsächlichen Stand der Technik.", 
+ "howpublished": "Talk", 
+
+
+
+    "bibtextype": "Conference"
+},{
     "author": "Seifert, J., Hellmann, J., Reimer, L. & Völpel, C.",
     "year": 2021,
     "title": "Human Experience als Schlüssel für die Digitale Transformation",
@@ -1052,49 +975,156 @@
   "url": "https://www.informatik-aktuell.de/management-und-recht/digitalisierung/human-experience-als-schluessel-fuer-die-digitale-transformation.html", 
     "bibtextype": "Article"
 },{
-    "author": "Seifert, J.",
-    "year": 2019,
-    "title": "Management 4 Design – vom IT-Manager zum Designflüsterer",
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Exploring motivated attention - an ERP study",
+
+    "journal": "Journal of Psychophysiology",
+    "number": "",
+    "volume": "17",
 
 
 
 
 
 
+ "pages": "179", 
 
 
 
-
- "howpublished": "Talk", 
- "note": "Vortrag auf der Munich Creative Business Week", 
+ "howpublished": "poster", 
 
 
-    "bibtextype": "Misc"
+
+    "bibtextype": "Article"
 },{
-    "author": "Seifert, J.",
-    "year": 2021,
-    "title": "Überwindung der Mehrwert-Kluft",
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2003,
+    "title": "Do incentives influence the flanker-compatibility-effect?",
+
+    "journal": "Psychophysiology (Supplement)",
+    "number": "",
+    "volume": "40",
 
 
 
 
 
 
+ "pages": "77", 
+
+
+
+ "howpublished": "poster", 
+
+
+
+    "bibtextype": "Article"
+},{
+    "author": "Seifert, J., Hewig, J., Naumann, E., Hagemann, D. & Bartussek, D.",
+    "year": 2004,
+    "title": "Reward and Punishment in a go/nogo-task",
+
+    "journal": "Journal of Psychophysiology",
+    "number": "4",
+    "volume": "18",
 
 
 
 
- "howpublished": "Talk", 
- "note": "Vortrag auf dem CX Meetup #19", 
 
 
-    "bibtextype": "Misc"
+ "pages": "221", 
+
+
+
+ "howpublished": "contribution", 
+
+
+
+    "bibtextype": "Article"
+},{
+    "author": "Seifert, J., Naumann, E., Hewig, J., Hagemann, D. & Bartussek, D.",
+    "year": 2006,
+    "title": "Motivated executive attention - incentives and the noise-compatibility effect",
+
+    "journal": "Biological Psychology",
+    "number": "1",
+    "volume": "71",
+
+
+
+
+
+
+ "pages": "80-89", 
+ "month": "jan", 
+ "publisher": "Elsevier {BV}", 
+
+ "howpublished": "paper", 
+
+  "doi": "10.1016/j.biopsycho.2005.03.001", 
+
+    "bibtextype": "Article"
+},{
+    "author": "Seifert, J., Reimer, L. & Schick, P.",
+    "year": 2011,
+    "title": "User Experience mit Biss - Ansätze zur Bewusstseinsbildung und zum Wissenstransfer in Unternehmen bei der Einführung von User-Centred Design",
+
+ "booktitle": "Usability Professionals 2011", 
+
+
+
+
+ "pages": "16-23", 
+
+
+
+ "howpublished": "paper", 
+
+
+
+    "bibtextype": "InProceedings"
 },{
     "author": "Seifert, J. & Schuster, M.",
     "year": 2022,
     "title": "Behavioral Design – wie Design Verhalten beeinflusst",
+
+
+
+
+
+
+
  "month": "November", 
+
+
  "howpublished": "Talk", 
  "note": "Vortrag auf dem World Usability Day 2022 in Stuttgart", 
+
+
     "bibtextype": "Misc"
+},{
+    "author": "Seifert, J. & Schwendele, H.",
+    "year": 2014,
+    "title": "Touch the power - Einheitliche Maschinensteuerung für Holzbearbeitungsmaschinen",
+
+    "journal": "SPS Magazin",
+    "number": "",
+    "volume": "7",
+
+
+
+
+
+
+ "pages": "70-72", 
+
+
+
+ "howpublished": "paper", 
+
+
+  "url": "https://www.sps-magazin.de/allgemein/touch-the-power/", 
+    "bibtextype": "Article"
 }]}
