@@ -1,11 +1,68 @@
-
 # Hugo
 
 Always use the **extended** version to allows SCSS.
 
 
 
-# Site
+# Structure
+
+* Services?
+* About
+* Contact
+* ...????
+
+# Pages
+
+## Markdown
+
+Use the `param` short code to access variables in markdown files.
+
+
+## About
+
+The layout is "about.html".
+
+### Arguments
+
+|   |   |
+|---|---|
+| about |   |
+| insight |   |
+| funfacts | list |
+| features | list |
+| testimonials | disabled |
+| mission_vision |   |
+| cta | true/false |
+
+
+**Fun facts**. A list of numbers, when these scroll into the viewport they start counting from zero to the designated value. As `count` argument the layout supports numeric values and short codes.
+
+
+# Theme
+
+Several templates, ... from the theme have been overwritten by templates with the same name in the project folder.
+
+Ionicons version of the theme was v2. I have updated this to [v5.5.2](https://github.com/saulodias/ionicons-font/tree/master).
+
+
+
+# Writing Short Codes, Templates, etc.
+
+## Structured Comments
+
+```
+{{- /*
+  Describe what the short code does
+
+  @param {type} [argumentname=defaultvalue] If true, display a copy to clipboard button.
+  @param {string} [config] The section of site.Data.docs.config to render.
+  @param {bool} [fm=false] If true, render the code as front matter.
+
+  @returns {...}
+
+  @usage {{< getcontent path="PATH/TO/FILE" >}}
+*/}}
+```
 
 
 # .htaccess
@@ -98,9 +155,29 @@ The template file is "index.humanstxt.txt". It uses a partial to create the auth
 ```
 
 
-
 # Publications
 
 Publications are listed in JabRef and exported to json. Use the JabRef export feature and save the json to "data/pubs/papers.json".
 
 The format is defined in the hugo folder under "jabref_export\json.layout".
+
+
+
+# Hugo Language
+
+Hugo has no built-in function To identify the type of a variable. [Workarounds on Git](https://github.com/kaushalmodi/hugo-debugprint/blob/master/layouts/partials/debugprint.html).
+
+
+## Shortcodes
+
+The advantage is that shortcodes can be called from within content files (*.md). 
+
+Calls are in the form: `{{< myshortcode param1="value1" param2="value2" >}}` or `{{% myshortcode param1="value1" param2="value2" %}}`. Shortcode arguments can also be anonymous (i.e. no named): `{{< myshortcode "value1" "value2" >}}`.
+
+Limitations:
+* We cannot use variables as arguments. Shortcode arguments must be string, int, float, or bool. We cannot pass in code (including shortcodes) that require evaluation.
+
+Further reading:
+* [Create your own shortcodes](https://gohugo.io/templates/shortcode-templates/)
+* [Shortcode methods](https://gohugo.io/methods/shortcode/)
+* [Variables in the context of a shortcode](https://gohugo.io/variables/shortcode/)
