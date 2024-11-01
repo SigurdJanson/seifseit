@@ -21,7 +21,7 @@ mediumlink: /designing-vision-statements-a6f7bc43f4eb?source=friends_link&sk=097
 abstract: ""
 ---
 
-Oh no! Another post about vision statements. Well, maybe you are right, but still I hope to prove you wrong. There are dozens of sources, true. And I found out that each source sheds light on some pieces of the puzzle and neglects others. I did my research, I collected, sorted in/out, edited, and now I want to share my insights with you. That is the best way that I know to organise my own thoughts. Maybe it’ll help you organising yours.
+Oh no. Another post about vision statements! Well, maybe you are right, but still I hope to prove you wrong. There are dozens of sources, true. And I found out that each source sheds light on some pieces of the puzzle and neglects others. I did my research, I collected, sorted in/out, edited, and now I want to share my insights with you. That is the best way that I know to organise my own thoughts. Maybe it’ll help you organising yours.
 
 ## What Is a Vision?
 

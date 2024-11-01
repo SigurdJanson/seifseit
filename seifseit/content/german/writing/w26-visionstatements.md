@@ -21,7 +21,7 @@ mediumlink: /designing-vision-statements-a6f7bc43f4eb?source=friends_link&sk=097
 abstract: ""
 ---
 
-Oje, nicht noch ein Post über "Vision Statements". Vielleicht habt ihr da Recht, aber hoffe trotzdem, ich kann Euch überzeugen. Es gibt so viele Quellen zu dem Thema, keine Frage. Ich fand, dass jede Quelle etwas wertvolles zu sagen hat, andere wichtige Dinge aber außen vor lässt. Ich habe recherchiert, gesammelt, ein- und aussortiert, bearbeitet, und jetzt will ich das Ergebnis mit Euch teilen. Das ist für mich der beste Weg meine Gedanken zu sortieren, indem ich all das aufschreibe. Vielleicht hilft es EUch Eure Gedanken zu sortieren. 
+Nicht noch ein Post über "Vision Statements"! Vielleicht habt ihr da Recht, aber hoffe trotzdem, ich kann Euch überzeugen. Es gibt so viele Quellen zu dem Thema, keine Frage. Ich fand, dass jede Quelle etwas wertvolles zu sagen hat, andere wichtige Dinge aber außen vor lässt. Ich habe recherchiert, gesammelt, ein- und aussortiert, bearbeitet, und jetzt will ich das Ergebnis mit Euch teilen. Das ist für mich der beste Weg meine Gedanken zu sortieren, indem ich all das aufschreibe. Vielleicht hilft es Euch Eure Gedanken zu sortieren. 
 
 ## Was ist eine Vision?
 
