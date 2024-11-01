@@ -63,7 +63,7 @@ other = "Beitrag"
 other = "Lade den Artikel herunter"
 
 [btnReadOnMedium]
-other = "Lies weiter ..."
+other = "Zum Artikel ..."
 
 [hintLanguageOnly]
 other = "nur auf %s"
