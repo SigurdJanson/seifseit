@@ -58,6 +58,7 @@
           <div class="post-content">
             <p>{{ (print .Params.abstract .Content) | plainify | truncate 320  }}</p>
             <a href="{{ .RelPermalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+            <p>{{ (print .Params.abstract .Content) | safeHTML | truncate 320 | htmlUnescape | plainify }}</p> <!-- declare as safe HTML, truncate, handle special chars, remove unwanted HTML elements-->
           </div>
         </div>
         {{- end }}
