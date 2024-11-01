@@ -1,7 +1,7 @@
 {
-    "author": "\format[HTMLChars, Authors(LastFirst,Initials,Comma,Amp)]{\author}",
-    "year": \year,
-    "title": "\format[HTMLChars, RemoveBrackets]{\title}",
+"author": "\format[HTMLChars, Authors(LastFirst,Initials,Comma,Amp)]{\author}",
+"year": \year,
+"title": "\format[HTMLChars, RemoveBrackets]{\title}",
 \begin{journal}
     "journal": "\format[HTMLChars, RemoveBrackets]{\journal}",
     "number": "\number",
