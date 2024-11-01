@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/measure.webp"
 bg_image: "images/writing-bg.webp"
 categories: ["Statistics"]
-tags: []
+tags: ["User Research", "Empiricism"]
 languages: ["German"]
 description: ""
 draft: false

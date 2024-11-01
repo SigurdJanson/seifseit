@@ -5,7 +5,7 @@ author: Jan Seifert
 image : "images/blog/averagingcorrelations2.webp"
 bg_image: "images/writing-bg.webp"
 categories: ["Statistik"]
-tags: ["R"]
+tags: ["R", "Empirik"]
 languages: ["English"]
 description: "Variationen zu Olkin & Pratt (1958)"
 draft: false
