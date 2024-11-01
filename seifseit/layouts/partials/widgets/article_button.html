@@ -1,0 +1,6 @@
+{{ with .Params.download -}}
+<a class="btn btn-main" href="{{.}}">{{i18n "btnReadMore"}}</a>
+{{- end }}
+{{ with .Params.mediumlink -}}
+<a class="btn btn-main" href="https://medium.com/@jan.seifert{{- . -}}" target="_blank">{{i18n "btnReadOnMedium"}}</a>
+{{- end }}

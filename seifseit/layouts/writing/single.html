@@ -32,13 +32,7 @@
           {{ .Content }}
 
           <p>
-            {{ with .Params.download -}}
-            <a class="btn btn-main" href="{{.}}">{{i18n "btnReadMore"}}</a>
-            {{- end }}
-            {{ with .Params.mediumlink -}}
-            <a class="btn btn-main" href="https://medium.com/@jan.seifert{{- . -}}" target="_blank">{{i18n "btnReadOnMedium"}}</a>
-            {{- end }}
-
+            {{ partial "widgets/article_button.html" . }}
             {{ $PostLang  := (apply $.Params.languages "i18n" ".") }}
             {{ if in $PostLang $.Page.Language.LanguageName -}}
             {{ else }}
